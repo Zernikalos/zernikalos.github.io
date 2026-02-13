@@ -1,0 +1,191 @@
+1:"$Sreact.fragment"
+2:I[914571,["/_next/static/chunks/2d627784dc11df5f.js","/_next/static/chunks/77061c7a1015ca2e.js","/_next/static/chunks/2119eb48d3f80bca.js","/_next/static/chunks/e97d47045d0c478d.js","/_next/static/chunks/ae544453766ef5bf.js","/_next/static/chunks/54d90cb7a91de5a4.js","/_next/static/chunks/6d4c7442ee3701fa.js"],"PageBreadcrumb"]
+8:I[299854,["/_next/static/chunks/2d627784dc11df5f.js","/_next/static/chunks/77061c7a1015ca2e.js","/_next/static/chunks/2119eb48d3f80bca.js","/_next/static/chunks/e97d47045d0c478d.js","/_next/static/chunks/ae544453766ef5bf.js","/_next/static/chunks/54d90cb7a91de5a4.js","/_next/static/chunks/6d4c7442ee3701fa.js"],"default"]
+9:I[914571,["/_next/static/chunks/2d627784dc11df5f.js","/_next/static/chunks/77061c7a1015ca2e.js","/_next/static/chunks/2119eb48d3f80bca.js","/_next/static/chunks/e97d47045d0c478d.js","/_next/static/chunks/ae544453766ef5bf.js","/_next/static/chunks/54d90cb7a91de5a4.js","/_next/static/chunks/6d4c7442ee3701fa.js"],"PageFooter"]
+a:I[249566,["/_next/static/chunks/9110786c46909d7d.js","/_next/static/chunks/2e9c03183f9af1f7.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+3:T897c,<div class="main-content" data-page-type="classlike" id="content" pageids="Zernikalos::zernikalos.components.shader/ZShaderRenderer///PointingToDeclaration//-910686856">
+  <div class="breadcrumbs"><a href="/api/">Zernikalos</a><span class="delimiter">/</span><a href="/api/-zernikalos/zernikalos.components.shader/">zernikalos.components.shader</a><span class="delimiter">/</span><span class="current">ZShaderRenderer</span></div>
+  <div class="cover ">
+    <h1 class="cover"><span>ZShader</span><wbr><span><span>Renderer</span></span></h1>
+    <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+      <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain" data-active="" data-toggle=":/commonMain">common</button><button class="platform-bookmark" data-filterable-current=":/metalMain" data-filterable-set=":/metalMain" data-toggle=":/metalMain">Metal</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-toggle=":/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">class </span><a href="/api/-zernikalos/zernikalos.components.shader/-z-shader-renderer/">ZShaderRenderer</a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">ctx<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-z-rendering-context/">ZRenderingContext</a><span class="token punctuation">, </span></span><span class="parameter ">data<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.components.shader/-z-shader-data/">ZShaderData</a></span></span><span class="token punctuation">)</span> : <a href="/api/-zernikalos/zernikalos.components/-z-component-renderer/">ZComponentRenderer</a><span class="source-link-wrapper"><span class="source-link" data-element-type="source-link">(<a href="https://github.com/Zernikalos/Zernikalos/tree/main/src/commonMain/kotlin/zernikalos/components/shader/ZShader.kt#L51">source</a>)</span></span></div></div><div class="content sourceset-dependent-content" data-togglable=":/metalMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">class </span><a href="/api/-zernikalos/zernikalos.components.shader/-z-shader-renderer/">ZShaderRenderer</a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">ctx<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-z-rendering-context/">ZRenderingContext</a><span class="token punctuation">, </span></span><span class="parameter ">data<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.components.shader/-z-shader-data/">ZShaderData</a></span></span><span class="token punctuation">)</span> : <a href="/api/-zernikalos/zernikalos.components/-z-component-renderer/">ZComponentRenderer</a><span class="source-link-wrapper"><span class="source-link" data-element-type="source-link">(<a href="https://github.com/Zernikalos/Zernikalos/tree/main/src/metalMain/kotlin/zernikalos/components/shader/ZShaderRenderer.metal.kt#L22">source</a>)</span></span></div></div><div class="content sourceset-dependent-content" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">class </span><a href="/api/-zernikalos/zernikalos.components.shader/-z-shader-renderer/">ZShaderRenderer</a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">ctx<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-z-rendering-context/">ZRenderingContext</a><span class="token punctuation">, </span></span><span class="parameter ">data<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.components.shader/-z-shader-data/">ZShaderData</a></span></span><span class="token punctuation">)</span> : <a href="/api/-zernikalos/zernikalos.components/-z-component-renderer/">ZComponentRenderer</a><span class="source-link-wrapper"><span class="source-link" data-element-type="source-link">(<a href="https://github.com/Zernikalos/Zernikalos/tree/main/src/oglMain/kotlin/zernikalos/components/shader/ZShaderRenderer.ogl.kt#L17">source</a>)</span></span></div></div><div class="content sourceset-dependent-content" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">class </span><a href="/api/-zernikalos/zernikalos.components.shader/-z-shader-renderer/">ZShaderRenderer</a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">ctx<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-z-rendering-context/">ZRenderingContext</a><span class="token punctuation">, </span></span><span class="parameter ">data<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.components.shader/-z-shader-data/">ZShaderData</a></span></span><span class="token punctuation">)</span> : <a href="/api/-zernikalos/zernikalos.components/-z-component-renderer/">ZComponentRenderer</a><span class="source-link-wrapper"><span class="source-link" data-element-type="source-link">(<a href="https://github.com/Zernikalos/Zernikalos/tree/main/src/webgpuMain/kotlin/zernikalos/components/shader/ZShaderRenderer.wgpu.kt#L17">source</a>)</span></span></div></div>    </div>
+  </div>
+  <div class="tabbedcontent">
+    <div class="tabs-section" tabs-section="tabs-section"><button class="section-tab" data-active="" data-togglable="CONSTRUCTOR,TYPE,PROPERTY,FUNCTION">Members</button></div>
+    <div class="tabs-section-body">
+      <div data-togglable="CONSTRUCTOR">
+        <h2 class="tableheader">Constructors</h2>
+        <div class="table api-cards-grid"><a data-name="697616117%2FConstructors%2F-910686856" anchor-label="ZShaderRenderer" id="697616117%2FConstructors%2F-910686856" data-filterable-set=":/commonMain,:/metalMain,:/oglMain,:/webgpuMain"></a>
+          <div class="table-row table-row_content" data-togglable="CONSTRUCTOR" data-filterable-current=":/commonMain,:/metalMain,:/oglMain,:/webgpuMain" data-filterable-set=":/commonMain,:/metalMain,:/oglMain,:/webgpuMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.components.shader/-z-shader-renderer/-z-shader-renderer/"><span>ZShader</span><wbr><span><span>Renderer</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="697616117%2FConstructors%2F-910686856"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain" data-active="" data-toggle=":/commonMain">common</button><button class="platform-bookmark" data-filterable-current=":/metalMain" data-filterable-set=":/metalMain" data-toggle=":/metalMain">Metal</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-toggle=":/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">constructor</span><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">ctx<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-z-rendering-context/">ZRenderingContext</a><span class="token punctuation">, </span></span><span class="parameter ">data<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.components.shader/-z-shader-data/">ZShaderData</a></span></span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-togglable=":/metalMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">constructor</span><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">ctx<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-z-rendering-context/">ZRenderingContext</a><span class="token punctuation">, </span></span><span class="parameter ">data<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.components.shader/-z-shader-data/">ZShaderData</a></span></span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">constructor</span><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">ctx<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-z-rendering-context/">ZRenderingContext</a><span class="token punctuation">, </span></span><span class="parameter ">data<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.components.shader/-z-shader-data/">ZShaderData</a></span></span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">constructor</span><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">ctx<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-z-rendering-context/">ZRenderingContext</a><span class="token punctuation">, </span></span><span class="parameter ">data<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.components.shader/-z-shader-data/">ZShaderData</a></span></span><span class="token punctuation">)</span></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div data-togglable="PROPERTY">
+        <h2 class="tableheader">Properties</h2>
+        <div class="table api-cards-grid"><a data-name="-2147359533%2FProperties%2F501477275" anchor-label="fragmentShader" id="-2147359533%2FProperties%2F501477275" data-filterable-set=":/metalMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/metalMain" data-filterable-set=":/metalMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.components.shader/-z-shader-renderer/fragment-shader/"><span>fragment</span><wbr><span><span>Shader</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-2147359533%2FProperties%2F501477275"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/metalMain" data-filterable-set=":/metalMain" data-active="" data-toggle=":/metalMain">Metal</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":/metalMain"><div class="symbol monospace"><span class="token keyword">lateinit </span><span class="token keyword">var </span><a href="/api/-zernikalos/zernikalos.components.shader/-z-shader-renderer/fragment-shader/">fragmentShader</a><span class="token operator">: </span><span data-unresolved-link="platform.Metal/MTLFunctionProtocol///PointingToDeclaration/">MTLFunctionProtocol</span></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1608885239%2FProperties%2F501477275" anchor-label="library" id="1608885239%2FProperties%2F501477275" data-filterable-set=":/metalMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/metalMain" data-filterable-set=":/metalMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.components.shader/-z-shader-renderer/library/"><span><span>library</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1608885239%2FProperties%2F501477275"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/metalMain" data-filterable-set=":/metalMain" data-active="" data-toggle=":/metalMain">Metal</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":/metalMain"><div class="symbol monospace"><span class="token keyword">lateinit </span><span class="token keyword">var </span><a href="/api/-zernikalos/zernikalos.components.shader/-z-shader-renderer/library/">library</a><span class="token operator">: </span><span data-unresolved-link="platform.Metal/MTLLibraryProtocol///PointingToDeclaration/">MTLLibraryProtocol</span></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="430838851%2FProperties%2F693462213" anchor-label="shader" id="430838851%2FProperties%2F693462213" data-filterable-set=":/oglMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.components.shader/-z-shader-renderer/shader/"><span><span>shader</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="430838851%2FProperties%2F693462213"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-active="" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">var </span><a href="/api/-zernikalos/zernikalos.components.shader/-z-shader-renderer/shader/">shader</a><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1213783617%2FProperties%2F501477275" anchor-label="vertexShader" id="-1213783617%2FProperties%2F501477275" data-filterable-set=":/metalMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/metalMain" data-filterable-set=":/metalMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.components.shader/-z-shader-renderer/vertex-shader/"><span>vertex</span><wbr><span><span>Shader</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1213783617%2FProperties%2F501477275"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/metalMain" data-filterable-set=":/metalMain" data-active="" data-toggle=":/metalMain">Metal</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":/metalMain"><div class="symbol monospace"><span class="token keyword">lateinit </span><span class="token keyword">var </span><a href="/api/-zernikalos/zernikalos.components.shader/-z-shader-renderer/vertex-shader/">vertexShader</a><span class="token operator">: </span><span data-unresolved-link="platform.Metal/MTLFunctionProtocol///PointingToDeclaration/">MTLFunctionProtocol</span></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div data-togglable="FUNCTION">
+        <h2 class="tableheader">Functions</h2>
+        <div class="table api-cards-grid"><a data-name="-833221830%2FFunctions%2F-910686856" anchor-label="bind" id="-833221830%2FFunctions%2F-910686856" data-filterable-set=":/commonMain,:/metalMain,:/oglMain,:/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/commonMain,:/metalMain,:/oglMain,:/webgpuMain" data-filterable-set=":/commonMain,:/metalMain,:/oglMain,:/webgpuMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.components/-z-component-renderer/bind/"><span><span>bind</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-833221830%2FFunctions%2F-910686856"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain" data-active="" data-toggle=":/commonMain">common</button><button class="platform-bookmark" data-filterable-current=":/metalMain" data-filterable-set=":/metalMain" data-toggle=":/metalMain">Metal</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-toggle=":/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">open </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.components/-z-component-renderer/bind/"><span class="token function">bind</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-togglable=":/metalMain"><div class="symbol monospace"><span class="token keyword">open </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.components/-z-component-renderer/bind/"><span class="token function">bind</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">open </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.components/-z-component-renderer/bind/"><span class="token function">bind</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">open </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.components/-z-component-renderer/bind/"><span class="token function">bind</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1004014321%2FFunctions%2F-910686856" anchor-label="initialize" id="1004014321%2FFunctions%2F-910686856" data-filterable-set=":/commonMain,:/metalMain,:/oglMain,:/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/commonMain,:/metalMain,:/oglMain,:/webgpuMain" data-filterable-set=":/commonMain,:/metalMain,:/oglMain,:/webgpuMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.components.shader/-z-shader-renderer/initialize/"><span><span>initialize</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1004014321%2FFunctions%2F-910686856"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain" data-active="" data-toggle=":/commonMain">common</button><button class="platform-bookmark" data-filterable-current=":/metalMain" data-filterable-set=":/metalMain" data-toggle=":/metalMain">Metal</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-toggle=":/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">open </span><span class="token keyword">override </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.components.shader/-z-shader-renderer/initialize/"><span class="token function">initialize</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span></div><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.components.shader/-z-shader-renderer/initialize/"><span class="token function">initialize</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">source<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.components.shader/-z-shader-source/">ZShaderSource</a></span></span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-togglable=":/metalMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">open </span><span class="token keyword">override </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.components.shader/-z-shader-renderer/initialize/"><span class="token function">initialize</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span></div><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.components.shader/-z-shader-renderer/initialize/"><span class="token function">initialize</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">source<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.components.shader/-z-shader-source/">ZShaderSource</a></span></span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">open </span><span class="token keyword">override </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.components.shader/-z-shader-renderer/initialize/"><span class="token function">initialize</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span></div><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.components.shader/-z-shader-renderer/initialize/"><span class="token function">initialize</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">source<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.components.shader/-z-shader-source/">ZShaderSource</a></span></span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">open </span><span class="token keyword">override </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.components.shader/-z-shader-renderer/initialize/"><span class="token function">initialize</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span></div><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.components.shader/-z-shader-renderer/initialize/"><span class="token function">initialize</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">source<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.components.shader/-z-shader-source/">ZShaderSource</a></span></span><span class="token punctuation">)</span></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1677104513%2FFunctions%2F-910686856" anchor-label="render" id="1677104513%2FFunctions%2F-910686856" data-filterable-set=":/commonMain,:/metalMain,:/oglMain,:/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/commonMain,:/metalMain,:/oglMain,:/webgpuMain" data-filterable-set=":/commonMain,:/metalMain,:/oglMain,:/webgpuMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.components/-z-component-renderer/render/"><span><span>render</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1677104513%2FFunctions%2F-910686856"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain" data-active="" data-toggle=":/commonMain">common</button><button class="platform-bookmark" data-filterable-current=":/metalMain" data-filterable-set=":/metalMain" data-toggle=":/metalMain">Metal</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-toggle=":/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">open </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.components/-z-component-renderer/render/"><span class="token function">render</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-togglable=":/metalMain"><div class="symbol monospace"><span class="token keyword">open </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.components/-z-component-renderer/render/"><span class="token function">render</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">open </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.components/-z-component-renderer/render/"><span class="token function">render</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">open </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.components/-z-component-renderer/render/"><span class="token function">render</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1460695233%2FFunctions%2F-910686856" anchor-label="unbind" id="1460695233%2FFunctions%2F-910686856" data-filterable-set=":/commonMain,:/metalMain,:/oglMain,:/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/commonMain,:/metalMain,:/oglMain,:/webgpuMain" data-filterable-set=":/commonMain,:/metalMain,:/oglMain,:/webgpuMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.components/-z-component-renderer/unbind/"><span><span>unbind</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1460695233%2FFunctions%2F-910686856"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain" data-active="" data-toggle=":/commonMain">common</button><button class="platform-bookmark" data-filterable-current=":/metalMain" data-filterable-set=":/metalMain" data-toggle=":/metalMain">Metal</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-toggle=":/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">open </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.components/-z-component-renderer/unbind/"><span class="token function">unbind</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-togglable=":/metalMain"><div class="symbol monospace"><span class="token keyword">open </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.components/-z-component-renderer/unbind/"><span class="token function">unbind</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">open </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.components/-z-component-renderer/unbind/"><span class="token function">unbind</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">open </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.components/-z-component-renderer/unbind/"><span class="token function">unbind</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+0:{"buildId":"J4kfUpdNDSHITeYHYWwkQ","rsc":["$","$1","c",{"children":[[false,["$","article",null,{"id":"nd-page","data-full":true,"className":"flex flex-col w-full mx-auto [grid-area:main] px-4 py-6 gap-4 md:px-6 md:pt-8 xl:px-8 xl:pt-14 max-w-[1200px]","children":[["$","$L2",null,{}],["$","div",null,{"className":"prose flex-1 dokka-container","children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}],false],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
+4:["$","$L8",null,{}]
+5:["$","$L9",null,{}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/6d4c7442ee3701fa.js","async":true}]
+7:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+c:null

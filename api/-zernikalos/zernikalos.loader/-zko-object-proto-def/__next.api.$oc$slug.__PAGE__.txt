@@ -1,0 +1,182 @@
+1:"$Sreact.fragment"
+2:I[914571,["/_next/static/chunks/2d627784dc11df5f.js","/_next/static/chunks/77061c7a1015ca2e.js","/_next/static/chunks/2119eb48d3f80bca.js","/_next/static/chunks/e97d47045d0c478d.js","/_next/static/chunks/ae544453766ef5bf.js","/_next/static/chunks/54d90cb7a91de5a4.js","/_next/static/chunks/6d4c7442ee3701fa.js"],"PageBreadcrumb"]
+8:I[299854,["/_next/static/chunks/2d627784dc11df5f.js","/_next/static/chunks/77061c7a1015ca2e.js","/_next/static/chunks/2119eb48d3f80bca.js","/_next/static/chunks/e97d47045d0c478d.js","/_next/static/chunks/ae544453766ef5bf.js","/_next/static/chunks/54d90cb7a91de5a4.js","/_next/static/chunks/6d4c7442ee3701fa.js"],"default"]
+9:I[914571,["/_next/static/chunks/2d627784dc11df5f.js","/_next/static/chunks/77061c7a1015ca2e.js","/_next/static/chunks/2119eb48d3f80bca.js","/_next/static/chunks/e97d47045d0c478d.js","/_next/static/chunks/ae544453766ef5bf.js","/_next/static/chunks/54d90cb7a91de5a4.js","/_next/static/chunks/6d4c7442ee3701fa.js"],"PageFooter"]
+a:I[249566,["/_next/static/chunks/9110786c46909d7d.js","/_next/static/chunks/2e9c03183f9af1f7.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+3:T514c,<div class="main-content" data-page-type="classlike" id="content" pageids="Zernikalos::zernikalos.loader/ZkoObjectProtoDef///PointingToDeclaration//1558683979">
+  <div class="breadcrumbs"><a href="/api/">Zernikalos</a><span class="delimiter">/</span><a href="/api/-zernikalos/zernikalos.loader/">zernikalos.loader</a><span class="delimiter">/</span><span class="current">ZkoObjectProtoDef</span></div>
+  <div class="cover ">
+    <h1 class="cover"><span>Zko</span><wbr><span>Object</span><wbr><span>Proto</span><wbr><span><span>Def</span></span></h1>
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><span data-unresolved-link="kotlinx.serialization/Serializable///PointingToDeclaration/"><span class="token annotation builtin">Serializable</span></span></div></div><span class="token keyword">data </span><span class="token keyword">class </span><a href="/api/-zernikalos/zernikalos.loader/-zko-object-proto-def/">ZkoObjectProtoDef</a><span class="token punctuation">(</span><span class="parameters "><span class="parameter "><span class="token keyword">val </span>type<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.objects/-z-object-type/">ZObjectType</a><span class="token punctuation">, </span></span><span class="parameter "><span class="token keyword">val </span>refId<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a><span class="token punctuation">, </span></span><span class="parameter "><span class="token keyword">val </span>isReference<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-boolean/index.html">Boolean</a><span class="token punctuation">, </span></span><span class="parameter "><span class="token keyword">val </span>scene<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.objects/-z-scene/">ZScene</a><span class="token operator">?</span><span class="token punctuation">, </span></span><span class="parameter "><span class="token keyword">val </span>group<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.objects/-z-group/">ZGroup</a><span class="token operator">?</span><span class="token punctuation">, </span></span><span class="parameter "><span class="token keyword">val </span>model<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.objects/-z-model/">ZModel</a><span class="token operator">?</span><span class="token punctuation">, </span></span><span class="parameter "><span class="token keyword">val </span>camera<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.objects/-z-camera/">ZCamera</a><span class="token operator">?</span><span class="token punctuation">, </span></span><span class="parameter "><span class="token keyword">val </span>skeleton<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.objects/-z-skeleton/">ZSkeleton</a><span class="token operator">?</span><span class="token punctuation">, </span></span><span class="parameter "><span class="token keyword">val </span>light<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.objects/-z-light/">ZLight</a><span class="token operator">?</span></span></span><span class="token punctuation">)</span><span class="source-link-wrapper"><span class="source-link" data-element-type="source-link">(<a href="https://github.com/Zernikalos/Zernikalos/tree/main/src/commonMain/kotlin/zernikalos/loader/ZkoObjectProto.kt#L28">source</a>)</span></span></div></div></div>
+  </div>
+  <div class="tabbedcontent">
+    <div class="tabs-section" tabs-section="tabs-section"><button class="section-tab" data-active="" data-togglable="CONSTRUCTOR,TYPE,PROPERTY,FUNCTION">Members</button></div>
+    <div class="tabs-section-body">
+      <div data-togglable="CONSTRUCTOR">
+        <h2 class="tableheader">Constructors</h2>
+        <div class="table api-cards-grid"><a data-name="-1542211978%2FConstructors%2F1558683979" anchor-label="ZkoObjectProtoDef" id="-1542211978%2FConstructors%2F1558683979" data-filterable-set=":/commonMain"></a>
+          <div class="table-row table-row_content" data-togglable="CONSTRUCTOR" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.loader/-zko-object-proto-def/-zko-object-proto-def/"><span>Zko</span><wbr><span>Object</span><wbr><span>Proto</span><wbr><span><span>Def</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1542211978%2FConstructors%2F1558683979"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">constructor</span><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">type<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.objects/-z-object-type/">ZObjectType</a><span class="token punctuation">, </span></span><span class="parameter ">refId<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a><span class="token punctuation">, </span></span><span class="parameter ">isReference<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-boolean/index.html">Boolean</a><span class="token punctuation">, </span></span><span class="parameter ">scene<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.objects/-z-scene/">ZScene</a><span class="token operator">?</span><span class="token punctuation">, </span></span><span class="parameter ">group<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.objects/-z-group/">ZGroup</a><span class="token operator">?</span><span class="token punctuation">, </span></span><span class="parameter ">model<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.objects/-z-model/">ZModel</a><span class="token operator">?</span><span class="token punctuation">, </span></span><span class="parameter ">camera<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.objects/-z-camera/">ZCamera</a><span class="token operator">?</span><span class="token punctuation">, </span></span><span class="parameter ">skeleton<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.objects/-z-skeleton/">ZSkeleton</a><span class="token operator">?</span><span class="token punctuation">, </span></span><span class="parameter ">light<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.objects/-z-light/">ZLight</a><span class="token operator">?</span></span></span><span class="token punctuation">)</span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div data-togglable="PROPERTY">
+        <h2 class="tableheader">Properties</h2>
+        <div class="table api-cards-grid"><a data-name="1668458429%2FProperties%2F1558683979" anchor-label="camera" id="1668458429%2FProperties%2F1558683979" data-filterable-set=":/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.loader/-zko-object-proto-def/camera/"><span><span>camera</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1668458429%2FProperties%2F1558683979"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.loader/-zko-object-proto-def/camera/">camera</a><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.objects/-z-camera/">ZCamera</a><span class="token operator">?</span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="478167545%2FProperties%2F1558683979" anchor-label="group" id="478167545%2FProperties%2F1558683979" data-filterable-set=":/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.loader/-zko-object-proto-def/group/"><span><span>group</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="478167545%2FProperties%2F1558683979"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.loader/-zko-object-proto-def/group/">group</a><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.objects/-z-group/">ZGroup</a><span class="token operator">?</span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1754293559%2FProperties%2F1558683979" anchor-label="isReference" id="1754293559%2FProperties%2F1558683979" data-filterable-set=":/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.loader/-zko-object-proto-def/is-reference/"><span>is</span><wbr><span><span>Reference</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1754293559%2FProperties%2F1558683979"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.loader/-zko-object-proto-def/is-reference/">isReference</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-boolean/index.html">Boolean</a></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1137691458%2FProperties%2F1558683979" anchor-label="light" id="1137691458%2FProperties%2F1558683979" data-filterable-set=":/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.loader/-zko-object-proto-def/light/"><span><span>light</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1137691458%2FProperties%2F1558683979"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.loader/-zko-object-proto-def/light/">light</a><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.objects/-z-light/">ZLight</a><span class="token operator">?</span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1356140401%2FProperties%2F1558683979" anchor-label="model" id="-1356140401%2FProperties%2F1558683979" data-filterable-set=":/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.loader/-zko-object-proto-def/model/"><span><span>model</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1356140401%2FProperties%2F1558683979"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.loader/-zko-object-proto-def/model/">model</a><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.objects/-z-model/">ZModel</a><span class="token operator">?</span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1553662390%2FProperties%2F1558683979" anchor-label="refId" id="-1553662390%2FProperties%2F1558683979" data-filterable-set=":/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.loader/-zko-object-proto-def/ref-id/"><span>ref</span><wbr><span><span>Id</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1553662390%2FProperties%2F1558683979"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.loader/-zko-object-proto-def/ref-id/">refId</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1422813044%2FProperties%2F1558683979" anchor-label="scene" id="-1422813044%2FProperties%2F1558683979" data-filterable-set=":/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.loader/-zko-object-proto-def/scene/"><span><span>scene</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1422813044%2FProperties%2F1558683979"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.loader/-zko-object-proto-def/scene/">scene</a><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.objects/-z-scene/">ZScene</a><span class="token operator">?</span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1636778581%2FProperties%2F1558683979" anchor-label="skeleton" id="1636778581%2FProperties%2F1558683979" data-filterable-set=":/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.loader/-zko-object-proto-def/skeleton/"><span><span>skeleton</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1636778581%2FProperties%2F1558683979"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.loader/-zko-object-proto-def/skeleton/">skeleton</a><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.objects/-z-skeleton/">ZSkeleton</a><span class="token operator">?</span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-98284920%2FProperties%2F1558683979" anchor-label="type" id="-98284920%2FProperties%2F1558683979" data-filterable-set=":/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.loader/-zko-object-proto-def/type/"><span><span>type</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-98284920%2FProperties%2F1558683979"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.loader/-zko-object-proto-def/type/">type</a><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.objects/-z-object-type/">ZObjectType</a></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+0:{"buildId":"J4kfUpdNDSHITeYHYWwkQ","rsc":["$","$1","c",{"children":[[false,["$","article",null,{"id":"nd-page","data-full":true,"className":"flex flex-col w-full mx-auto [grid-area:main] px-4 py-6 gap-4 md:px-6 md:pt-8 xl:px-8 xl:pt-14 max-w-[1200px]","children":[["$","$L2",null,{}],["$","div",null,{"className":"prose flex-1 dokka-container","children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}],false],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
+4:["$","$L8",null,{}]
+5:["$","$L9",null,{}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/6d4c7442ee3701fa.js","async":true}]
+7:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+c:null

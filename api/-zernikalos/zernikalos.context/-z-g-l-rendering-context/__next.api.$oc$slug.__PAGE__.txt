@@ -1,0 +1,803 @@
+1:"$Sreact.fragment"
+2:I[914571,["/_next/static/chunks/2d627784dc11df5f.js","/_next/static/chunks/77061c7a1015ca2e.js","/_next/static/chunks/2119eb48d3f80bca.js","/_next/static/chunks/e97d47045d0c478d.js","/_next/static/chunks/ae544453766ef5bf.js","/_next/static/chunks/54d90cb7a91de5a4.js","/_next/static/chunks/6d4c7442ee3701fa.js"],"PageBreadcrumb"]
+8:I[299854,["/_next/static/chunks/2d627784dc11df5f.js","/_next/static/chunks/77061c7a1015ca2e.js","/_next/static/chunks/2119eb48d3f80bca.js","/_next/static/chunks/e97d47045d0c478d.js","/_next/static/chunks/ae544453766ef5bf.js","/_next/static/chunks/54d90cb7a91de5a4.js","/_next/static/chunks/6d4c7442ee3701fa.js"],"default"]
+9:I[914571,["/_next/static/chunks/2d627784dc11df5f.js","/_next/static/chunks/77061c7a1015ca2e.js","/_next/static/chunks/2119eb48d3f80bca.js","/_next/static/chunks/e97d47045d0c478d.js","/_next/static/chunks/ae544453766ef5bf.js","/_next/static/chunks/54d90cb7a91de5a4.js","/_next/static/chunks/6d4c7442ee3701fa.js"],"PageFooter"]
+a:I[249566,["/_next/static/chunks/9110786c46909d7d.js","/_next/static/chunks/2e9c03183f9af1f7.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+3:T24473,<div class="main-content" data-page-type="classlike" id="content" pageids="Zernikalos::zernikalos.context/ZGLRenderingContext///PointingToDeclaration//715777058">
+  <div class="breadcrumbs"><a href="/api/">Zernikalos</a><span class="delimiter">/</span><a href="/api/-zernikalos/zernikalos.context/">zernikalos.context</a><span class="delimiter">/</span><span class="current">ZGLRenderingContext</span></div>
+  <div class="cover ">
+    <h1 class="cover"><span>ZGLRendering</span><wbr><span><span>Context</span></span></h1>
+    <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+      <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">class </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/">ZGLRenderingContext</a><span class="token punctuation">(</span><span class="parameters "><span class="parameter "><span class="token keyword">val </span>surfaceView<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.ui/-z-surface-view/">ZSurfaceView</a></span></span><span class="token punctuation">)</span> : <a href="/api/-zernikalos/zernikalos.context/-z-rendering-context/">ZRenderingContext</a><span class="source-link-wrapper"><span class="source-link" data-element-type="source-link">(<a href="https://github.com/Zernikalos/Zernikalos/tree/main/src/androidMain/kotlin/zernikalos/context/ZRenderingContext.kt#L17">source</a>)</span></span></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">class </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/">ZGLRenderingContext</a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">surfaceView<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.ui/-z-surface-view/">ZSurfaceView</a></span></span><span class="token punctuation">)</span> : <a href="/api/-zernikalos/zernikalos.context/-z-rendering-context/">ZRenderingContext</a><span class="source-link-wrapper"><span class="source-link" data-element-type="source-link">(<a href="https://github.com/Zernikalos/Zernikalos/tree/main/src/oglMain/kotlin/zernikalos/context/ZRenderingContext.kt#L17">source</a>)</span></span></div></div>    </div>
+  </div>
+  <div class="tabbedcontent">
+    <div class="tabs-section" tabs-section="tabs-section"><button class="section-tab" data-active="" data-togglable="CONSTRUCTOR,TYPE,PROPERTY,FUNCTION">Members</button></div>
+    <div class="tabs-section-body">
+      <div data-togglable="CONSTRUCTOR">
+        <h2 class="tableheader">Constructors</h2>
+        <div class="table api-cards-grid"><a data-name="-1245045534%2FConstructors%2F715777058" anchor-label="ZGLRenderingContext" id="-1245045534%2FConstructors%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-togglable="CONSTRUCTOR" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/-z-g-l-rendering-context/"><span>ZGLRendering</span><wbr><span><span>Context</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1245045534%2FConstructors%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">constructor</span><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">surfaceView<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.ui/-z-surface-view/">ZSurfaceView</a></span></span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">constructor</span><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">surfaceView<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.ui/-z-surface-view/">ZSurfaceView</a></span></span><span class="token punctuation">)</span></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div data-togglable="PROPERTY">
+        <h2 class="tableheader">Properties</h2>
+        <div class="table api-cards-grid"><a data-name="-1961812488%2FProperties%2F715777058" anchor-label="maxUniformBuffersBinding" id="-1961812488%2FProperties%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/max-uniform-buffers-binding/"><span>max</span><wbr><span>Uniform</span><wbr><span>Buffers</span><wbr><span><span>Binding</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1961812488%2FProperties%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/max-uniform-buffers-binding/">maxUniformBuffersBinding</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/max-uniform-buffers-binding/">maxUniformBuffersBinding</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1454412110%2FProperties%2F1824429903" anchor-label="surfaceView" id="1454412110%2FProperties%2F1824429903" data-filterable-set=":/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/surface-view/"><span>surface</span><wbr><span><span>View</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1454412110%2FProperties%2F1824429903"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/surface-view/">surfaceView</a><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.ui/-z-surface-view/">ZSurfaceView</a></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div data-togglable="FUNCTION">
+        <h2 class="tableheader">Functions</h2>
+        <div class="table api-cards-grid"><a data-name="1783885739%2FFunctions%2F715777058" anchor-label="activeTexture" id="1783885739%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/active-texture/"><span>active</span><wbr><span><span>Texture</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1783885739%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/active-texture/"><span class="token function">activeTexture</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/active-texture/"><span class="token function">activeTexture</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="586902989%2FFunctions%2F715777058" anchor-label="attachShader" id="586902989%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/attach-shader/"><span>attach</span><wbr><span><span>Shader</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="586902989%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/attach-shader/"><span class="token function">attachShader</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">program<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a><span class="token punctuation">, </span></span><span class="parameter ">shader<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a></span></span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/attach-shader/"><span class="token function">attachShader</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">program<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a><span class="token punctuation">, </span></span><span class="parameter ">shader<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a></span></span><span class="token punctuation">)</span></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1402334110%2FFunctions%2F715777058" anchor-label="bindAttribLocation" id="-1402334110%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/bind-attrib-location/"><span>bind</span><wbr><span>Attrib</span><wbr><span><span>Location</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1402334110%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/bind-attrib-location/"><span class="token function">bindAttribLocation</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">program<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a><span class="token punctuation">, </span></span><span class="parameter ">index<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">attrName<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></span></span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/bind-attrib-location/"><span class="token function">bindAttribLocation</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">program<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a><span class="token punctuation">, </span></span><span class="parameter ">index<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">attrName<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></span></span><span class="token punctuation">)</span></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="2117429508%2FFunctions%2F715777058" anchor-label="bindBuffer" id="2117429508%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/bind-buffer/"><span>bind</span><wbr><span><span>Buffer</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="2117429508%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/bind-buffer/"><span class="token function">bindBuffer</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">targetType<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-buffer-target-type/">BufferTargetType</a><span class="token punctuation">, </span></span><span class="parameter ">buffer<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a></span></span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/bind-buffer/"><span class="token function">bindBuffer</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">targetType<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-buffer-target-type/">BufferTargetType</a><span class="token punctuation">, </span></span><span class="parameter ">buffer<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a></span></span><span class="token punctuation">)</span></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-830029210%2FFunctions%2F715777058" anchor-label="bindBufferBase" id="-830029210%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/bind-buffer-base/"><span>bind</span><wbr><span>Buffer</span><wbr><span><span>Base</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-830029210%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/bind-buffer-base/"><span class="token function">bindBufferBase</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">targetType<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-buffer-target-type/">BufferTargetType</a><span class="token punctuation">, </span></span><span class="parameter ">uniformBlockBinding<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">uniformBufferObject<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a></span></span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/bind-buffer-base/"><span class="token function">bindBufferBase</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">targetType<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-buffer-target-type/">BufferTargetType</a><span class="token punctuation">, </span></span><span class="parameter ">uniformBlockBinding<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">uniformBufferObject<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a></span></span><span class="token punctuation">)</span></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1002740572%2FFunctions%2F715777058" anchor-label="bindTexture" id="1002740572%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/bind-texture/"><span>bind</span><wbr><span><span>Texture</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1002740572%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/bind-texture/"><span class="token function">bindTexture</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">texture<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a></span></span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/bind-texture/"><span class="token function">bindTexture</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">texture<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a></span></span><span class="token punctuation">)</span></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="124671693%2FFunctions%2F715777058" anchor-label="bindVertexArray" id="124671693%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/bind-vertex-array/"><span>bind</span><wbr><span>Vertex</span><wbr><span><span>Array</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="124671693%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/bind-vertex-array/"><span class="token function">bindVertexArray</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">vao<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a><span class="token operator">?</span></span></span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/bind-vertex-array/"><span class="token function">bindVertexArray</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">vao<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a><span class="token operator">?</span></span></span><span class="token punctuation">)</span></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1921278582%2FFunctions%2F715777058" anchor-label="bufferData" id="-1921278582%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/buffer-data/"><span>buffer</span><wbr><span><span>Data</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1921278582%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/buffer-data/"><span class="token function">bufferData</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">targetType<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-buffer-target-type/">BufferTargetType</a><span class="token punctuation">, </span></span><span class="parameter ">dataArray<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-byte-array/index.html">ByteArray</a><span class="token punctuation">, </span></span><span class="parameter ">usageType<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-buffer-usage-type/">BufferUsageType</a></span></span><span class="token punctuation">)</span></div><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/buffer-data/"><span class="token function">bufferData</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">targetType<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-buffer-target-type/">BufferTargetType</a><span class="token punctuation">, </span></span><span class="parameter ">byteSize<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">usageType<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-buffer-usage-type/">BufferUsageType</a></span></span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/buffer-data/"><span class="token function">bufferData</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">targetType<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-buffer-target-type/">BufferTargetType</a><span class="token punctuation">, </span></span><span class="parameter ">dataArray<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-byte-array/index.html">ByteArray</a><span class="token punctuation">, </span></span><span class="parameter ">usageType<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-buffer-usage-type/">BufferUsageType</a></span></span><span class="token punctuation">)</span></div><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/buffer-data/"><span class="token function">bufferData</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">targetType<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-buffer-target-type/">BufferTargetType</a><span class="token punctuation">, </span></span><span class="parameter ">byteSize<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">usageType<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-buffer-usage-type/">BufferUsageType</a></span></span><span class="token punctuation">)</span></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1282092943%2FFunctions%2F715777058" anchor-label="clear" id="-1282092943%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/clear/"><span><span>clear</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1282092943%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/clear/"><span class="token function">clear</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">buffer<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></span></span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/clear/"><span class="token function">clear</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">buffer<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></span></span><span class="token punctuation">)</span></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="155982235%2FFunctions%2F715777058" anchor-label="clearColor" id="155982235%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/clear-color/"><span>clear</span><wbr><span><span>Color</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="155982235%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/clear-color/"><span class="token function">clearColor</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">r<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token punctuation">, </span></span><span class="parameter ">g<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token punctuation">, </span></span><span class="parameter ">b<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token punctuation">, </span></span><span class="parameter ">a<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Viewport</p></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/clear-color/"><span class="token function">clearColor</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">r<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token punctuation">, </span></span><span class="parameter ">g<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token punctuation">, </span></span><span class="parameter ">b<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token punctuation">, </span></span><span class="parameter ">a<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Viewport</p></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="274394998%2FFunctions%2F715777058" anchor-label="compileShader" id="274394998%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/compile-shader/"><span>compile</span><wbr><span><span>Shader</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="274394998%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/compile-shader/"><span class="token function">compileShader</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">shader<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a></span></span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/compile-shader/"><span class="token function">compileShader</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">shader<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a></span></span><span class="token punctuation">)</span></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-424738562%2FFunctions%2F715777058" anchor-label="createBuffer" id="-424738562%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/create-buffer/"><span>create</span><wbr><span><span>Buffer</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-424738562%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/create-buffer/"><span class="token function">createBuffer</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a></div><div class="brief "><p class="paragraph">VBO</p></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/create-buffer/"><span class="token function">createBuffer</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a></div><div class="brief "><p class="paragraph">VBO</p></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="284862552%2FFunctions%2F715777058" anchor-label="createProgram" id="284862552%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/create-program/"><span>create</span><wbr><span><span>Program</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="284862552%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/create-program/"><span class="token function">createProgram</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a></div><div class="brief "><p class="paragraph">ShaderProgram</p></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/create-program/"><span class="token function">createProgram</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a></div><div class="brief "><p class="paragraph">ShaderProgram</p></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1282533207%2FFunctions%2F715777058" anchor-label="createShader" id="1282533207%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/create-shader/"><span>create</span><wbr><span><span>Shader</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1282533207%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/create-shader/"><span class="token function">createShader</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">shaderType<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/create-shader/"><span class="token function">createShader</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">shaderType<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1223672473%2FFunctions%2F715777058" anchor-label="createVertexArray" id="-1223672473%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/create-vertex-array/"><span>create</span><wbr><span>Vertex</span><wbr><span><span>Array</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1223672473%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/create-vertex-array/"><span class="token function">createVertexArray</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a></div><div class="brief "><p class="paragraph">VAO</p></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/create-vertex-array/"><span class="token function">createVertexArray</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a></div><div class="brief "><p class="paragraph">VAO</p></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1846781911%2FFunctions%2F715777058" anchor-label="cullFace" id="-1846781911%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/cull-face/"><span>cull</span><wbr><span><span>Face</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1846781911%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/cull-face/"><span class="token function">cullFace</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">mode<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></span></span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/cull-face/"><span class="token function">cullFace</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">mode<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></span></span><span class="token punctuation">)</span></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="114865044%2FFunctions%2F715777058" anchor-label="deleteShader" id="114865044%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/delete-shader/"><span>delete</span><wbr><span><span>Shader</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="114865044%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/delete-shader/"><span class="token function">deleteShader</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">shader<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a></span></span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/delete-shader/"><span class="token function">deleteShader</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">shader<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a></span></span><span class="token punctuation">)</span></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="673843770%2FFunctions%2F715777058" anchor-label="drawArrays" id="673843770%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/draw-arrays/"><span>draw</span><wbr><span><span>Arrays</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="673843770%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/draw-arrays/"><span class="token function">drawArrays</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">mode<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">first<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">count<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Draw</p></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/draw-arrays/"><span class="token function">drawArrays</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">mode<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">first<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">count<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Draw</p></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-776468896%2FFunctions%2F715777058" anchor-label="drawElements" id="-776468896%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/draw-elements/"><span>draw</span><wbr><span><span>Elements</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-776468896%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/draw-elements/"><span class="token function">drawElements</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">mode<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">count<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">type<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">offset<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></span></span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/draw-elements/"><span class="token function">drawElements</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">mode<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">count<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">type<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">offset<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></span></span><span class="token punctuation">)</span></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-471628715%2FFunctions%2F715777058" anchor-label="enable" id="-471628715%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/enable/"><span><span>enable</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-471628715%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/enable/"><span class="token function">enable</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">feat<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Commons</p></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/enable/"><span class="token function">enable</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">feat<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Commons</p></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-785426201%2FFunctions%2F715777058" anchor-label="enableVertexAttrib" id="-785426201%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/enable-vertex-attrib/"><span>enable</span><wbr><span>Vertex</span><wbr><span><span>Attrib</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-785426201%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/enable-vertex-attrib/"><span class="token function">enableVertexAttrib</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">index<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></span></span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/enable-vertex-attrib/"><span class="token function">enableVertexAttrib</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">index<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></span></span><span class="token punctuation">)</span></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="226335734%2FFunctions%2F715777058" anchor-label="enableVertexAttribArray" id="226335734%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/enable-vertex-attrib-array/"><span>enable</span><wbr><span>Vertex</span><wbr><span>Attrib</span><wbr><span><span>Array</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="226335734%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/enable-vertex-attrib-array/"><span class="token function">enableVertexAttribArray</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">index<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></span></span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/enable-vertex-attrib-array/"><span class="token function">enableVertexAttribArray</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">index<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></span></span><span class="token punctuation">)</span></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="362470351%2FFunctions%2F715777058" anchor-label="genTexture" id="362470351%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/gen-texture/"><span>gen</span><wbr><span><span>Texture</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="362470351%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/gen-texture/"><span class="token function">genTexture</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a></div><div class="brief "><p class="paragraph">Textures</p></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/gen-texture/"><span class="token function">genTexture</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a></div><div class="brief "><p class="paragraph">Textures</p></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="434197752%2FFunctions%2F715777058" anchor-label="getAttribLocation" id="434197752%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/get-attrib-location/"><span>get</span><wbr><span>Attrib</span><wbr><span><span>Location</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="434197752%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/get-attrib-location/"><span class="token function">getAttribLocation</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">program<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a><span class="token punctuation">, </span></span><span class="parameter ">attrName<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/get-attrib-location/"><span class="token function">getAttribLocation</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">program<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a><span class="token punctuation">, </span></span><span class="parameter ">attrName<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-200551352%2FFunctions%2F715777058" anchor-label="getError" id="-200551352%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/get-error/"><span>get</span><wbr><span><span>Error</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-200551352%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/get-error/"><span class="token function">getError</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/get-error/"><span class="token function">getError</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1600277567%2FFunctions%2F715777058" anchor-label="getShaderInfoLog" id="1600277567%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/get-shader-info-log/"><span>get</span><wbr><span>Shader</span><wbr><span>Info</span><wbr><span><span>Log</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1600277567%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/get-shader-info-log/"><span class="token function">getShaderInfoLog</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">shader<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/get-shader-info-log/"><span class="token function">getShaderInfoLog</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">shader<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1579783828%2FFunctions%2F715777058" anchor-label="getUniformBlockIndex" id="-1579783828%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/get-uniform-block-index/"><span>get</span><wbr><span>Uniform</span><wbr><span>Block</span><wbr><span><span>Index</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1579783828%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/get-uniform-block-index/"><span class="token function">getUniformBlockIndex</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">program<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a><span class="token punctuation">, </span></span><span class="parameter ">uniformBlockName<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/get-uniform-block-index/"><span class="token function">getUniformBlockIndex</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">program<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a><span class="token punctuation">, </span></span><span class="parameter ">uniformBlockName<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1005917924%2FFunctions%2F715777058" anchor-label="getUniformLocation" id="-1005917924%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/get-uniform-location/"><span>get</span><wbr><span>Uniform</span><wbr><span><span>Location</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1005917924%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/get-uniform-location/"><span class="token function">getUniformLocation</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">program<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a><span class="token punctuation">, </span></span><span class="parameter ">uniformName<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a></div><div class="brief "><p class="paragraph">UNIFORMS</p></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/get-uniform-location/"><span class="token function">getUniformLocation</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">program<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a><span class="token punctuation">, </span></span><span class="parameter ">uniformName<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a></div><div class="brief "><p class="paragraph">UNIFORMS</p></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1239682024%2FFunctions%2F715777058" anchor-label="initWithSurfaceView" id="1239682024%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/init-with-surface-view/"><span>init</span><wbr><span>With</span><wbr><span>Surface</span><wbr><span><span>View</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1239682024%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">open </span><span class="token keyword">override </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/init-with-surface-view/"><span class="token function">initWithSurfaceView</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">surfaceView<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.ui/-z-surface-view/">ZSurfaceView</a></span></span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">open </span><span class="token keyword">override </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/init-with-surface-view/"><span class="token function">initWithSurfaceView</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">surfaceView<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.ui/-z-surface-view/">ZSurfaceView</a></span></span><span class="token punctuation">)</span></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="2050277224%2FFunctions%2F715777058" anchor-label="linkProgram" id="2050277224%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/link-program/"><span>link</span><wbr><span><span>Program</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="2050277224%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/link-program/"><span class="token function">linkProgram</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">program<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a></span></span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/link-program/"><span class="token function">linkProgram</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">program<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a></span></span><span class="token punctuation">)</span></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1569157015%2FFunctions%2F715777058" anchor-label="shaderSource" id="-1569157015%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/shader-source/"><span>shader</span><wbr><span><span>Source</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1569157015%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/shader-source/"><span class="token function">shaderSource</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">shader<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a><span class="token punctuation">, </span></span><span class="parameter ">source<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></span></span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/shader-source/"><span class="token function">shaderSource</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">shader<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a><span class="token punctuation">, </span></span><span class="parameter ">source<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></span></span><span class="token punctuation">)</span></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-2038090803%2FFunctions%2F715777058" anchor-label="texImage2D" id="-2038090803%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/tex-image2-d/"><span>tex</span><wbr><span><span>Image2D</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-2038090803%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/tex-image2-d/"><span class="token function">texImage2D</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">bitmap<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.components.material/-z-bitmap/">ZBitmap</a></span></span><span class="token punctuation">)</span></div><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/tex-image2-d/"><span class="token function">texImage2D</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">internalFormat<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">width<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">height<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">format<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">pixelType<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">pixels<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-byte-array/index.html">ByteArray</a></span></span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/tex-image2-d/"><span class="token function">texImage2D</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">bitmap<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.components.material/-z-bitmap/">ZBitmap</a></span></span><span class="token punctuation">)</span></div><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/tex-image2-d/"><span class="token function">texImage2D</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">internalFormat<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">width<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">height<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">format<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">pixelType<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">pixels<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-byte-array/index.html">ByteArray</a></span></span><span class="token punctuation">)</span></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1243924917%2FFunctions%2F715777058" anchor-label="texParameterMagFilter" id="1243924917%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/tex-parameter-mag-filter/"><span>tex</span><wbr><span>Parameter</span><wbr><span>Mag</span><wbr><span><span>Filter</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1243924917%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/tex-parameter-mag-filter/"><span class="token function">texParameterMagFilter</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">filter<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></span></span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/tex-parameter-mag-filter/"><span class="token function">texParameterMagFilter</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">filter<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></span></span><span class="token punctuation">)</span></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1477135466%2FFunctions%2F715777058" anchor-label="texParameterMinFilter" id="-1477135466%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/tex-parameter-min-filter/"><span>tex</span><wbr><span>Parameter</span><wbr><span>Min</span><wbr><span><span>Filter</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1477135466%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/tex-parameter-min-filter/"><span class="token function">texParameterMinFilter</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">filter<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></span></span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/tex-parameter-min-filter/"><span class="token function">texParameterMinFilter</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">filter<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></span></span><span class="token punctuation">)</span></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="296863959%2FFunctions%2F715777058" anchor-label="texParameterWrapS" id="296863959%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/tex-parameter-wrap-s/"><span>tex</span><wbr><span>Parameter</span><wbr><span>Wrap</span><wbr><span><span>S</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="296863959%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/tex-parameter-wrap-s/"><span class="token function">texParameterWrapS</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">mode<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></span></span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/tex-parameter-wrap-s/"><span class="token function">texParameterWrapS</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">mode<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></span></span><span class="token punctuation">)</span></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-2047803082%2FFunctions%2F715777058" anchor-label="texParameterWrapT" id="-2047803082%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/tex-parameter-wrap-t/"><span>tex</span><wbr><span>Parameter</span><wbr><span>Wrap</span><wbr><span><span>T</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-2047803082%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/tex-parameter-wrap-t/"><span class="token function">texParameterWrapT</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">mode<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></span></span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/tex-parameter-wrap-t/"><span class="token function">texParameterWrapT</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">mode<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></span></span><span class="token punctuation">)</span></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-2119834861%2FFunctions%2F715777058" anchor-label="uniform1i" id="-2119834861%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/uniform1i/"><span><span>uniform1i</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-2119834861%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/uniform1i/"><span class="token function">uniform1i</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">uniform<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a><span class="token punctuation">, </span></span><span class="parameter ">value<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></span></span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/uniform1i/"><span class="token function">uniform1i</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">uniform<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a><span class="token punctuation">, </span></span><span class="parameter ">value<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></span></span><span class="token punctuation">)</span></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1554514092%2FFunctions%2F715777058" anchor-label="uniformBlockBinding" id="-1554514092%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/uniform-block-binding/"><span>uniform</span><wbr><span>Block</span><wbr><span><span>Binding</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1554514092%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/uniform-block-binding/"><span class="token function">uniformBlockBinding</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">program<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a><span class="token punctuation">, </span></span><span class="parameter ">uniformBlockIndex<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a><span class="token punctuation">, </span></span><span class="parameter ">uniformBlockBinding<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></span></span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/uniform-block-binding/"><span class="token function">uniformBlockBinding</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">program<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a><span class="token punctuation">, </span></span><span class="parameter ">uniformBlockIndex<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a><span class="token punctuation">, </span></span><span class="parameter ">uniformBlockBinding<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></span></span><span class="token punctuation">)</span></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-759238637%2FFunctions%2F715777058" anchor-label="uniformMatrix4fv" id="-759238637%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/uniform-matrix4fv/"><span>uniform</span><wbr><span><span>Matrix4fv</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-759238637%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/uniform-matrix4fv/"><span class="token function">uniformMatrix4fv</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">uniform<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a><span class="token punctuation">, </span></span><span class="parameter ">count<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">transpose<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-boolean/index.html">Boolean</a><span class="token punctuation">, </span></span><span class="parameter ">values<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float-array/index.html">FloatArray</a></span></span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/uniform-matrix4fv/"><span class="token function">uniformMatrix4fv</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">uniform<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a><span class="token punctuation">, </span></span><span class="parameter ">count<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">transpose<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-boolean/index.html">Boolean</a><span class="token punctuation">, </span></span><span class="parameter ">values<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float-array/index.html">FloatArray</a></span></span><span class="token punctuation">)</span></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-148612959%2FFunctions%2F715777058" anchor-label="useProgram" id="-148612959%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/use-program/"><span>use</span><wbr><span><span>Program</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-148612959%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/use-program/"><span class="token function">useProgram</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">program<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a></span></span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/use-program/"><span class="token function">useProgram</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">program<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-g-l-wrap/">GLWrap</a></span></span><span class="token punctuation">)</span></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1679693237%2FFunctions%2F715777058" anchor-label="vertexAttribPointer" id="1679693237%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/vertex-attrib-pointer/"><span>vertex</span><wbr><span>Attrib</span><wbr><span><span>Pointer</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1679693237%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/vertex-attrib-pointer/"><span class="token function">vertexAttribPointer</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">index<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">size<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">type<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">normalized<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-boolean/index.html">Boolean</a><span class="token punctuation">, </span></span><span class="parameter ">stride<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">offset<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></span></span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/vertex-attrib-pointer/"><span class="token function">vertexAttribPointer</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">index<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">size<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">type<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">normalized<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-boolean/index.html">Boolean</a><span class="token punctuation">, </span></span><span class="parameter ">stride<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">offset<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></span></span><span class="token punctuation">)</span></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-2127260501%2FFunctions%2F715777058" anchor-label="viewport" id="-2127260501%2FFunctions%2F715777058" data-filterable-set=":/oglMain,:/androidMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":/oglMain,:/androidMain" data-filterable-set=":/oglMain,:/androidMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/viewport/"><span><span>viewport</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-2127260501%2FFunctions%2F715777058"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/androidMain" data-filterable-set=":/androidMain" data-active="" data-toggle=":/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":/oglMain" data-filterable-set=":/oglMain" data-toggle=":/oglMain">OGL</button></div>
+<div class="content sourceset-dependent-content" data-togglable=":/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/viewport/"><span class="token function">viewport</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">top<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">left<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">width<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">height<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></span></span><span class="token punctuation">)</span></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/viewport/"><span class="token function">viewport</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">top<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">left<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">width<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">height<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></span></span><span class="token punctuation">)</span></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+0:{"buildId":"J4kfUpdNDSHITeYHYWwkQ","rsc":["$","$1","c",{"children":[[false,["$","article",null,{"id":"nd-page","data-full":true,"className":"flex flex-col w-full mx-auto [grid-area:main] px-4 py-6 gap-4 md:px-6 md:pt-8 xl:px-8 xl:pt-14 max-w-[1200px]","children":[["$","$L2",null,{}],["$","div",null,{"className":"prose flex-1 dokka-container","children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}],false],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
+4:["$","$L8",null,{}]
+5:["$","$L9",null,{}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/6d4c7442ee3701fa.js","async":true}]
+7:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+c:null
