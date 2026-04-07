@@ -1,31 +1,31 @@
 1:"$Sreact.fragment"
-2:I[914571,["/_next/static/chunks/5587f2d43ac39585.js","/_next/static/chunks/77061c7a1015ca2e.js","/_next/static/chunks/2119eb48d3f80bca.js","/_next/static/chunks/e97d47045d0c478d.js","/_next/static/chunks/ae544453766ef5bf.js","/_next/static/chunks/54d90cb7a91de5a4.js","/_next/static/chunks/6d4c7442ee3701fa.js"],"PageBreadcrumb"]
-8:I[299854,["/_next/static/chunks/5587f2d43ac39585.js","/_next/static/chunks/77061c7a1015ca2e.js","/_next/static/chunks/2119eb48d3f80bca.js","/_next/static/chunks/e97d47045d0c478d.js","/_next/static/chunks/ae544453766ef5bf.js","/_next/static/chunks/54d90cb7a91de5a4.js","/_next/static/chunks/6d4c7442ee3701fa.js"],"default"]
-9:I[914571,["/_next/static/chunks/5587f2d43ac39585.js","/_next/static/chunks/77061c7a1015ca2e.js","/_next/static/chunks/2119eb48d3f80bca.js","/_next/static/chunks/e97d47045d0c478d.js","/_next/static/chunks/ae544453766ef5bf.js","/_next/static/chunks/54d90cb7a91de5a4.js","/_next/static/chunks/6d4c7442ee3701fa.js"],"PageFooter"]
-a:I[249566,["/_next/static/chunks/9110786c46909d7d.js","/_next/static/chunks/2e9c03183f9af1f7.js"],"OutletBoundary"]
+2:I[699413,["/_next/static/chunks/13m3_bt-npzb8.js","/_next/static/chunks/0d3b4qksca1uo.js","/_next/static/chunks/09r0vq9a5if38.js","/_next/static/chunks/09tmzlddgs1y1.js","/_next/static/chunks/13bn21.hx.3.a.js","/_next/static/chunks/13rdi4-5gzwr4.js","/_next/static/chunks/0fdoel-z5wt0a.js","/_next/static/chunks/0b~1-iikzpv-u.js","/_next/static/chunks/0xn9bloz_qt67.js"],"DocsPage"]
+3:I[699413,["/_next/static/chunks/13m3_bt-npzb8.js","/_next/static/chunks/0d3b4qksca1uo.js","/_next/static/chunks/09r0vq9a5if38.js","/_next/static/chunks/09tmzlddgs1y1.js","/_next/static/chunks/13bn21.hx.3.a.js","/_next/static/chunks/13rdi4-5gzwr4.js","/_next/static/chunks/0fdoel-z5wt0a.js","/_next/static/chunks/0b~1-iikzpv-u.js","/_next/static/chunks/0xn9bloz_qt67.js"],"DocsBody"]
+9:I[299854,["/_next/static/chunks/13m3_bt-npzb8.js","/_next/static/chunks/0d3b4qksca1uo.js","/_next/static/chunks/09r0vq9a5if38.js","/_next/static/chunks/09tmzlddgs1y1.js","/_next/static/chunks/13bn21.hx.3.a.js","/_next/static/chunks/13rdi4-5gzwr4.js","/_next/static/chunks/0fdoel-z5wt0a.js","/_next/static/chunks/0b~1-iikzpv-u.js","/_next/static/chunks/0xn9bloz_qt67.js"],"default"]
+a:I[590522,["/_next/static/chunks/13m3_bt-npzb8.js","/_next/static/chunks/0d3b4qksca1uo.js"],"OutletBoundary"]
 b:"$Sreact.suspense"
-3:T81a0,<div class="main-content" data-page-type="classlike" id="content" pageids="Zernikalos::zernikalos.events/ZEventManager///PointingToDeclaration//1558683979">
+4:T832d,<div class="main-content" data-page-type="classlike" id="content" pageids="Zernikalos::zernikalos.events/ZEventManager///PointingToDeclaration//1015982541">
   <div class="breadcrumbs"><a href="/api/">Zernikalos</a><span class="delimiter">/</span><a href="/api/-zernikalos/zernikalos.events/">zernikalos.events</a><span class="delimiter">/</span><span class="current">ZEventManager</span></div>
   <div class="cover ">
     <h1 class="cover"><span>ZEvent</span><wbr><span><span>Manager</span></span></h1>
-    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">class </span><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/">ZEventManager</a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">owner<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.objects/-z-object/">ZObject</a></span></span><span class="token punctuation">)</span><span class="source-link-wrapper"><span class="source-link" data-element-type="source-link">(<a href="https://github.com/Zernikalos/Zernikalos/blob/v0.8.0/src/commonMain/kotlin/zernikalos/events/ZEventManager.kt#L29">source</a>)</span></span></div><p class="paragraph">Manages event listeners for a ZObject instance. This class encapsulates all listener management functionality, providing a clean API for adding, removing, and notifying listeners for touch, mouse, and keyboard events.</p></div></div>
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">class </span><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/">ZEventManager</a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">owner<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.objects/-z-object/">ZObject</a></span></span><span class="token punctuation">)</span><span class="source-link-wrapper"><span class="source-link" data-element-type="source-link">(<a href="https://github.com/Zernikalos/Zernikalos/blob/v0.9.0/engine/src/commonMain/kotlin/zernikalos/events/ZEventManager.kt#L29">source</a>)</span></span></div><p class="paragraph">Manages event listeners for a ZObject instance. This class encapsulates all listener management functionality, providing a clean API for adding, removing, and notifying listeners for touch, mouse, and keyboard events.</p></div></div>
   </div>
   <div class="tabbedcontent">
     <div class="tabs-section" tabs-section="tabs-section"><button class="section-tab" data-active="" data-togglable="CONSTRUCTOR,TYPE,PROPERTY,FUNCTION">Members</button></div>
     <div class="tabs-section-body">
       <div data-togglable="CONSTRUCTOR">
         <h2 class="tableheader">Constructors</h2>
-        <div class="table api-cards-grid"><a data-name="-1719646263%2FConstructors%2F1558683979" anchor-label="ZEventManager" id="-1719646263%2FConstructors%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-togglable="CONSTRUCTOR" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+        <div class="table api-cards-grid"><a data-name="-1719646263%2FConstructors%2F1015982541" anchor-label="ZEventManager" id="-1719646263%2FConstructors%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-togglable="CONSTRUCTOR" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/-z-event-manager/"><span>ZEvent</span><wbr><span><span>Manager</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1719646263%2FConstructors%2F1558683979"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1719646263%2FConstructors%2F1015982541"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">constructor</span><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">owner<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.objects/-z-object/">ZObject</a></span></span><span class="token punctuation">)</span></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">constructor</span><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">owner<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.objects/-z-object/">ZObject</a></span></span><span class="token punctuation">)</span></div></div></div>
                 </div>
               </div>
             </div>
@@ -34,47 +34,47 @@ b:"$Sreact.suspense"
       </div>
       <div data-togglable="PROPERTY">
         <h2 class="tableheader">Properties</h2>
-        <div class="table api-cards-grid"><a data-name="-1957176739%2FProperties%2F1558683979" anchor-label="hasKeyboardListeners" id="-1957176739%2FProperties%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+        <div class="table api-cards-grid"><a data-name="-1957176739%2FProperties%2F1015982541" anchor-label="hasKeyboardListeners" id="-1957176739%2FProperties%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/has-keyboard-listeners/"><span>has</span><wbr><span>Keyboard</span><wbr><span><span>Listeners</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1957176739%2FProperties%2F1558683979"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1957176739%2FProperties%2F1015982541"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/has-keyboard-listeners/">hasKeyboardListeners</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-boolean/index.html">Boolean</a></div><div class="brief "><p class="paragraph">Returns whether this object has any keyboard listeners registered.</p></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/has-keyboard-listeners/">hasKeyboardListeners</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-boolean/index.html">Boolean</a></div><div class="brief "><p class="paragraph">Returns whether this object has any keyboard listeners registered.</p></div></div></div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="3232555%2FProperties%2F1558683979" anchor-label="hasMouseListeners" id="3232555%2FProperties%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+<a data-name="3232555%2FProperties%2F1015982541" anchor-label="hasMouseListeners" id="3232555%2FProperties%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/has-mouse-listeners/"><span>has</span><wbr><span>Mouse</span><wbr><span><span>Listeners</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="3232555%2FProperties%2F1558683979"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="3232555%2FProperties%2F1015982541"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/has-mouse-listeners/">hasMouseListeners</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-boolean/index.html">Boolean</a></div><div class="brief "><p class="paragraph">Returns whether this object has any mouse listeners registered.</p></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/has-mouse-listeners/">hasMouseListeners</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-boolean/index.html">Boolean</a></div><div class="brief "><p class="paragraph">Returns whether this object has any mouse listeners registered.</p></div></div></div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="1875824453%2FProperties%2F1558683979" anchor-label="hasTouchListeners" id="1875824453%2FProperties%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+<a data-name="1875824453%2FProperties%2F1015982541" anchor-label="hasTouchListeners" id="1875824453%2FProperties%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/has-touch-listeners/"><span>has</span><wbr><span>Touch</span><wbr><span><span>Listeners</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1875824453%2FProperties%2F1558683979"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1875824453%2FProperties%2F1015982541"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/has-touch-listeners/">hasTouchListeners</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-boolean/index.html">Boolean</a></div><div class="brief "><p class="paragraph">Returns whether this object has any touch listeners registered.</p></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/has-touch-listeners/">hasTouchListeners</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-boolean/index.html">Boolean</a></div><div class="brief "><p class="paragraph">Returns whether this object has any touch listeners registered.</p></div></div></div>
                 </div>
               </div>
             </div>
@@ -83,182 +83,182 @@ b:"$Sreact.suspense"
       </div>
       <div data-togglable="FUNCTION">
         <h2 class="tableheader">Functions</h2>
-        <div class="table api-cards-grid"><a data-name="1700575234%2FFunctions%2F1558683979" anchor-label="addKeyboardListener" id="1700575234%2FFunctions%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+        <div class="table api-cards-grid"><a data-name="1700575234%2FFunctions%2F1015982541" anchor-label="addKeyboardListener" id="1700575234%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/add-keyboard-listener/"><span>add</span><wbr><span>Keyboard</span><wbr><span><span>Listener</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1700575234%2FFunctions%2F1558683979"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1700575234%2FFunctions%2F1015982541"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/add-keyboard-listener/"><span class="token function">addKeyboardListener</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">listener<span class="token operator">: </span><span class="token punctuation">(</span><a href="/api/-zernikalos/zernikalos.objects/-z-object/">ZObject</a><span class="token punctuation">, </span><a href="/api/-zernikalos/zernikalos.events.keyboard/-z-keyboard-event/">ZKeyboardEvent</a><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-unit/index.html">Unit</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Adds a keyboard event listener using a lambda function.</p></div><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/add-keyboard-listener/"><span class="token function">addKeyboardListener</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">listener<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.events.keyboard/-z-object-keyboard-listener/">ZObjectKeyboardListener</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Adds a keyboard event listener to this object.</p></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/add-keyboard-listener/"><span class="token function">addKeyboardListener</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">listener<span class="token operator">: </span><span class="token punctuation">(</span><a href="/api/-zernikalos/zernikalos.objects/-z-object/">ZObject</a><span class="token punctuation">, </span><a href="/api/-zernikalos/zernikalos.events.keyboard/-z-keyboard-event/">ZKeyboardEvent</a><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-unit/index.html">Unit</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Adds a keyboard event listener using a lambda function.</p></div><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/add-keyboard-listener/"><span class="token function">addKeyboardListener</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">listener<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.events.keyboard/-z-object-keyboard-listener/">ZObjectKeyboardListener</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Adds a keyboard event listener to this object.</p></div></div></div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="769034218%2FFunctions%2F1558683979" anchor-label="addMouseListener" id="769034218%2FFunctions%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+<a data-name="769034218%2FFunctions%2F1015982541" anchor-label="addMouseListener" id="769034218%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/add-mouse-listener/"><span>add</span><wbr><span>Mouse</span><wbr><span><span>Listener</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="769034218%2FFunctions%2F1558683979"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="769034218%2FFunctions%2F1015982541"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/add-mouse-listener/"><span class="token function">addMouseListener</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">listener<span class="token operator">: </span><span class="token punctuation">(</span><a href="/api/-zernikalos/zernikalos.objects/-z-object/">ZObject</a><span class="token punctuation">, </span><a href="/api/-zernikalos/zernikalos.events.mouse/-z-mouse-event/">ZMouseEvent</a><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-unit/index.html">Unit</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Adds a mouse event listener using a lambda function.</p></div><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/add-mouse-listener/"><span class="token function">addMouseListener</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">listener<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.events.mouse/-z-object-mouse-listener/">ZObjectMouseListener</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Adds a mouse event listener to this object.</p></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/add-mouse-listener/"><span class="token function">addMouseListener</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">listener<span class="token operator">: </span><span class="token punctuation">(</span><a href="/api/-zernikalos/zernikalos.objects/-z-object/">ZObject</a><span class="token punctuation">, </span><a href="/api/-zernikalos/zernikalos.events.mouse/-z-mouse-event/">ZMouseEvent</a><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-unit/index.html">Unit</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Adds a mouse event listener using a lambda function.</p></div><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/add-mouse-listener/"><span class="token function">addMouseListener</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">listener<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.events.mouse/-z-object-mouse-listener/">ZObjectMouseListener</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Adds a mouse event listener to this object.</p></div></div></div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="2048730538%2FFunctions%2F1558683979" anchor-label="addTouchListener" id="2048730538%2FFunctions%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+<a data-name="2048730538%2FFunctions%2F1015982541" anchor-label="addTouchListener" id="2048730538%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/add-touch-listener/"><span>add</span><wbr><span>Touch</span><wbr><span><span>Listener</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="2048730538%2FFunctions%2F1558683979"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="2048730538%2FFunctions%2F1015982541"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/add-touch-listener/"><span class="token function">addTouchListener</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">listener<span class="token operator">: </span><span class="token punctuation">(</span><a href="/api/-zernikalos/zernikalos.objects/-z-object/">ZObject</a><span class="token punctuation">, </span><a href="/api/-zernikalos/zernikalos.events.touch/-z-touch-event/">ZTouchEvent</a><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-unit/index.html">Unit</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Adds a touch event listener using a lambda function.</p></div><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/add-touch-listener/"><span class="token function">addTouchListener</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">listener<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.events.touch/-z-object-touch-listener/">ZObjectTouchListener</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Adds a touch event listener to this object.</p></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/add-touch-listener/"><span class="token function">addTouchListener</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">listener<span class="token operator">: </span><span class="token punctuation">(</span><a href="/api/-zernikalos/zernikalos.objects/-z-object/">ZObject</a><span class="token punctuation">, </span><a href="/api/-zernikalos/zernikalos.events.touch/-z-touch-event/">ZTouchEvent</a><span class="token punctuation">)</span><span class="token operator"> -&gt; </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-unit/index.html">Unit</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Adds a touch event listener using a lambda function.</p></div><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/add-touch-listener/"><span class="token function">addTouchListener</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">listener<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.events.touch/-z-object-touch-listener/">ZObjectTouchListener</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Adds a touch event listener to this object.</p></div></div></div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-314076751%2FFunctions%2F1558683979" anchor-label="notifyKeyboardListeners" id="-314076751%2FFunctions%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+<a data-name="-314076751%2FFunctions%2F1015982541" anchor-label="notifyKeyboardListeners" id="-314076751%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/notify-keyboard-listeners/"><span>notify</span><wbr><span>Keyboard</span><wbr><span><span>Listeners</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-314076751%2FFunctions%2F1558683979"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-314076751%2FFunctions%2F1015982541"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/notify-keyboard-listeners/"><span class="token function">notifyKeyboardListeners</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">event<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.events.keyboard/-z-keyboard-event/">ZKeyboardEvent</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Notifies all registered keyboard listeners of a keyboard event. This method is called internally by the event distribution system.</p></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/notify-keyboard-listeners/"><span class="token function">notifyKeyboardListeners</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">event<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.events.keyboard/-z-keyboard-event/">ZKeyboardEvent</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Notifies all registered keyboard listeners of a keyboard event. This method is called internally by the event distribution system.</p></div></div></div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="67207459%2FFunctions%2F1558683979" anchor-label="notifyMouseListeners" id="67207459%2FFunctions%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+<a data-name="67207459%2FFunctions%2F1015982541" anchor-label="notifyMouseListeners" id="67207459%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/notify-mouse-listeners/"><span>notify</span><wbr><span>Mouse</span><wbr><span><span>Listeners</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="67207459%2FFunctions%2F1558683979"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="67207459%2FFunctions%2F1015982541"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/notify-mouse-listeners/"><span class="token function">notifyMouseListeners</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">event<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.events.mouse/-z-mouse-event/">ZMouseEvent</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Notifies all registered mouse listeners of a mouse event. This method is called internally by the event distribution system.</p></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/notify-mouse-listeners/"><span class="token function">notifyMouseListeners</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">event<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.events.mouse/-z-mouse-event/">ZMouseEvent</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Notifies all registered mouse listeners of a mouse event. This method is called internally by the event distribution system.</p></div></div></div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-1692705399%2FFunctions%2F1558683979" anchor-label="notifyTouchListeners" id="-1692705399%2FFunctions%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+<a data-name="-1692705399%2FFunctions%2F1015982541" anchor-label="notifyTouchListeners" id="-1692705399%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/notify-touch-listeners/"><span>notify</span><wbr><span>Touch</span><wbr><span><span>Listeners</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1692705399%2FFunctions%2F1558683979"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1692705399%2FFunctions%2F1015982541"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/notify-touch-listeners/"><span class="token function">notifyTouchListeners</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">event<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.events.touch/-z-touch-event/">ZTouchEvent</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Notifies all registered touch listeners of a touch event. This method is called internally by the event distribution system.</p></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/notify-touch-listeners/"><span class="token function">notifyTouchListeners</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">event<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.events.touch/-z-touch-event/">ZTouchEvent</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Notifies all registered touch listeners of a touch event. This method is called internally by the event distribution system.</p></div></div></div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="655339520%2FFunctions%2F1558683979" anchor-label="removeAllKeyboardListeners" id="655339520%2FFunctions%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+<a data-name="655339520%2FFunctions%2F1015982541" anchor-label="removeAllKeyboardListeners" id="655339520%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/remove-all-keyboard-listeners/"><span>remove</span><wbr><span>All</span><wbr><span>Keyboard</span><wbr><span><span>Listeners</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="655339520%2FFunctions%2F1558683979"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="655339520%2FFunctions%2F1015982541"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/remove-all-keyboard-listeners/"><span class="token function">removeAllKeyboardListeners</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Removes all keyboard event listeners from this object.</p></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/remove-all-keyboard-listeners/"><span class="token function">removeAllKeyboardListeners</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Removes all keyboard event listeners from this object.</p></div></div></div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-1870456728%2FFunctions%2F1558683979" anchor-label="removeAllMouseListeners" id="-1870456728%2FFunctions%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+<a data-name="-1870456728%2FFunctions%2F1015982541" anchor-label="removeAllMouseListeners" id="-1870456728%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/remove-all-mouse-listeners/"><span>remove</span><wbr><span>All</span><wbr><span>Mouse</span><wbr><span><span>Listeners</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1870456728%2FFunctions%2F1558683979"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1870456728%2FFunctions%2F1015982541"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/remove-all-mouse-listeners/"><span class="token function">removeAllMouseListeners</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Removes all mouse event listeners from this object.</p></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/remove-all-mouse-listeners/"><span class="token function">removeAllMouseListeners</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Removes all mouse event listeners from this object.</p></div></div></div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="2135170%2FFunctions%2F1558683979" anchor-label="removeAllTouchListeners" id="2135170%2FFunctions%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+<a data-name="2135170%2FFunctions%2F1015982541" anchor-label="removeAllTouchListeners" id="2135170%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/remove-all-touch-listeners/"><span>remove</span><wbr><span>All</span><wbr><span>Touch</span><wbr><span><span>Listeners</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="2135170%2FFunctions%2F1558683979"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="2135170%2FFunctions%2F1015982541"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/remove-all-touch-listeners/"><span class="token function">removeAllTouchListeners</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Removes all touch event listeners from this object.</p></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/remove-all-touch-listeners/"><span class="token function">removeAllTouchListeners</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Removes all touch event listeners from this object.</p></div></div></div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-43420208%2FFunctions%2F1558683979" anchor-label="removeKeyboardListener" id="-43420208%2FFunctions%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+<a data-name="-43420208%2FFunctions%2F1015982541" anchor-label="removeKeyboardListener" id="-43420208%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/remove-keyboard-listener/"><span>remove</span><wbr><span>Keyboard</span><wbr><span><span>Listener</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-43420208%2FFunctions%2F1558683979"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-43420208%2FFunctions%2F1015982541"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/remove-keyboard-listener/"><span class="token function">removeKeyboardListener</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">listener<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.events.keyboard/-z-object-keyboard-listener/">ZObjectKeyboardListener</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Removes a keyboard event listener from this object.</p></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/remove-keyboard-listener/"><span class="token function">removeKeyboardListener</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">listener<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.events.keyboard/-z-object-keyboard-listener/">ZObjectKeyboardListener</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Removes a keyboard event listener from this object.</p></div></div></div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-629932926%2FFunctions%2F1558683979" anchor-label="removeMouseListener" id="-629932926%2FFunctions%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+<a data-name="-629932926%2FFunctions%2F1015982541" anchor-label="removeMouseListener" id="-629932926%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/remove-mouse-listener/"><span>remove</span><wbr><span>Mouse</span><wbr><span><span>Listener</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-629932926%2FFunctions%2F1558683979"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-629932926%2FFunctions%2F1015982541"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/remove-mouse-listener/"><span class="token function">removeMouseListener</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">listener<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.events.mouse/-z-object-mouse-listener/">ZObjectMouseListener</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Removes a mouse event listener from this object.</p></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/remove-mouse-listener/"><span class="token function">removeMouseListener</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">listener<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.events.mouse/-z-object-mouse-listener/">ZObjectMouseListener</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Removes a mouse event listener from this object.</p></div></div></div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="398451176%2FFunctions%2F1558683979" anchor-label="removeTouchListener" id="398451176%2FFunctions%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+<a data-name="398451176%2FFunctions%2F1015982541" anchor-label="removeTouchListener" id="398451176%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/remove-touch-listener/"><span>remove</span><wbr><span>Touch</span><wbr><span><span>Listener</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="398451176%2FFunctions%2F1558683979"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="398451176%2FFunctions%2F1015982541"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/remove-touch-listener/"><span class="token function">removeTouchListener</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">listener<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.events.touch/-z-object-touch-listener/">ZObjectTouchListener</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Removes a touch event listener from this object.</p></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/remove-touch-listener/"><span class="token function">removeTouchListener</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">listener<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.events.touch/-z-object-touch-listener/">ZObjectTouchListener</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Removes a touch event listener from this object.</p></div></div></div>
                 </div>
               </div>
             </div>
@@ -268,9 +268,9 @@ b:"$Sreact.suspense"
     </div>
   </div>
 </div>
-0:{"buildId":"TWNiPPyaQyI5O5C9VZKgd","rsc":["$","$1","c",{"children":[[false,["$","article",null,{"id":"nd-page","data-full":true,"className":"flex flex-col w-full mx-auto [grid-area:main] px-4 py-6 gap-4 md:px-6 md:pt-8 xl:px-8 xl:pt-14 max-w-[1200px]","children":[["$","$L2",null,{}],["$","div",null,{"className":"prose flex-1 dokka-container","children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}],false],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
-4:["$","$L8",null,{}]
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"full":true,"children":["$","$L3",null,{"className":"dokka-container","children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5"]}]}],["$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"UH87WZr7ecgOYER1sgzrd"}
 5:["$","$L9",null,{}]
-6:["$","script","script-0",{"src":"/_next/static/chunks/6d4c7442ee3701fa.js","async":true}]
-7:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/0b~1-iikzpv-u.js","async":true}]
+7:["$","script","script-1",{"src":"/_next/static/chunks/0xn9bloz_qt67.js","async":true}]
+8:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
 c:null

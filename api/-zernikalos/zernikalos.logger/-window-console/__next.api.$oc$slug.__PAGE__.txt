@@ -1,35 +1,35 @@
 1:"$Sreact.fragment"
-2:I[914571,["/_next/static/chunks/5587f2d43ac39585.js","/_next/static/chunks/77061c7a1015ca2e.js","/_next/static/chunks/2119eb48d3f80bca.js","/_next/static/chunks/e97d47045d0c478d.js","/_next/static/chunks/ae544453766ef5bf.js","/_next/static/chunks/54d90cb7a91de5a4.js","/_next/static/chunks/6d4c7442ee3701fa.js"],"PageBreadcrumb"]
-8:I[299854,["/_next/static/chunks/5587f2d43ac39585.js","/_next/static/chunks/77061c7a1015ca2e.js","/_next/static/chunks/2119eb48d3f80bca.js","/_next/static/chunks/e97d47045d0c478d.js","/_next/static/chunks/ae544453766ef5bf.js","/_next/static/chunks/54d90cb7a91de5a4.js","/_next/static/chunks/6d4c7442ee3701fa.js"],"default"]
-9:I[914571,["/_next/static/chunks/5587f2d43ac39585.js","/_next/static/chunks/77061c7a1015ca2e.js","/_next/static/chunks/2119eb48d3f80bca.js","/_next/static/chunks/e97d47045d0c478d.js","/_next/static/chunks/ae544453766ef5bf.js","/_next/static/chunks/54d90cb7a91de5a4.js","/_next/static/chunks/6d4c7442ee3701fa.js"],"PageFooter"]
-a:I[249566,["/_next/static/chunks/9110786c46909d7d.js","/_next/static/chunks/2e9c03183f9af1f7.js"],"OutletBoundary"]
+2:I[699413,["/_next/static/chunks/13m3_bt-npzb8.js","/_next/static/chunks/0d3b4qksca1uo.js","/_next/static/chunks/09r0vq9a5if38.js","/_next/static/chunks/09tmzlddgs1y1.js","/_next/static/chunks/13bn21.hx.3.a.js","/_next/static/chunks/13rdi4-5gzwr4.js","/_next/static/chunks/0fdoel-z5wt0a.js","/_next/static/chunks/0b~1-iikzpv-u.js","/_next/static/chunks/0xn9bloz_qt67.js"],"DocsPage"]
+3:I[699413,["/_next/static/chunks/13m3_bt-npzb8.js","/_next/static/chunks/0d3b4qksca1uo.js","/_next/static/chunks/09r0vq9a5if38.js","/_next/static/chunks/09tmzlddgs1y1.js","/_next/static/chunks/13bn21.hx.3.a.js","/_next/static/chunks/13rdi4-5gzwr4.js","/_next/static/chunks/0fdoel-z5wt0a.js","/_next/static/chunks/0b~1-iikzpv-u.js","/_next/static/chunks/0xn9bloz_qt67.js"],"DocsBody"]
+9:I[299854,["/_next/static/chunks/13m3_bt-npzb8.js","/_next/static/chunks/0d3b4qksca1uo.js","/_next/static/chunks/09r0vq9a5if38.js","/_next/static/chunks/09tmzlddgs1y1.js","/_next/static/chunks/13bn21.hx.3.a.js","/_next/static/chunks/13rdi4-5gzwr4.js","/_next/static/chunks/0fdoel-z5wt0a.js","/_next/static/chunks/0b~1-iikzpv-u.js","/_next/static/chunks/0xn9bloz_qt67.js"],"default"]
+a:I[590522,["/_next/static/chunks/13m3_bt-npzb8.js","/_next/static/chunks/0d3b4qksca1uo.js"],"OutletBoundary"]
 b:"$Sreact.suspense"
-3:T3df8,<div class="main-content" data-page-type="classlike" id="content" pageids="Zernikalos::zernikalos.logger/WindowConsole///PointingToDeclaration//1806089581">
+4:T3f3d,<div class="main-content" data-page-type="classlike" id="content" pageids="Zernikalos::zernikalos.logger/WindowConsole///PointingToDeclaration//2001008879">
   <div class="breadcrumbs"><a href="/api/">Zernikalos</a><span class="delimiter">/</span><a href="/api/-zernikalos/zernikalos.logger/">zernikalos.logger</a><span class="delimiter">/</span><span class="current">WindowConsole</span></div>
   <div class="cover ">
     <h1 class="cover"><span>Window</span><wbr><span><span>Console</span></span></h1>
     <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-      <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/jsMain" data-filterable-set=":/jsMain" data-active="" data-toggle=":/jsMain">JS</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/jsMain"><div class="symbol monospace"><span class="token keyword">abstract </span><span class="token keyword">external </span><span class="token keyword">class </span><a href="/api/-zernikalos/zernikalos.logger/-window-console/">WindowConsole</a> : <a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin.js/-console/index.html">Console</a><span class="source-link-wrapper"><span class="source-link" data-element-type="source-link">(<a href="https://github.com/Zernikalos/Zernikalos/blob/v0.8.0/src/jsMain/kotlin/zernikalos/logger/ZLoggerAdapter.js.kt#L13">source</a>)</span></span></div></div>    </div>
+      <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/jsMain" data-filterable-set=":engine/jsMain" data-active="" data-toggle=":engine/jsMain">JS</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/jsMain"><div class="symbol monospace"><span class="token keyword">abstract </span><span class="token keyword">external </span><span class="token keyword">class </span><a href="/api/-zernikalos/zernikalos.logger/-window-console/">WindowConsole</a> : <a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin.js/-console/index.html">Console</a><span class="source-link-wrapper"><span class="source-link" data-element-type="source-link">(<a href="https://github.com/Zernikalos/Zernikalos/blob/v0.9.0/engine/src/jsMain/kotlin/zernikalos/logger/ZLoggerAdapter.js.kt#L13">source</a>)</span></span></div></div>    </div>
   </div>
   <div class="tabbedcontent">
     <div class="tabs-section" tabs-section="tabs-section"><button class="section-tab" data-active="" data-togglable="CONSTRUCTOR,TYPE,PROPERTY,FUNCTION">Members</button></div>
     <div class="tabs-section-body">
       <div data-togglable="CONSTRUCTOR">
         <h2 class="tableheader">Constructors</h2>
-        <div class="table api-cards-grid"><a data-name="420863335%2FConstructors%2F1806089581" anchor-label="WindowConsole" id="420863335%2FConstructors%2F1806089581" data-filterable-set=":/jsMain"></a>
-          <div class="table-row table-row_content" data-togglable="CONSTRUCTOR" data-filterable-current=":/jsMain" data-filterable-set=":/jsMain">
+        <div class="table api-cards-grid"><a data-name="420863335%2FConstructors%2F2001008879" anchor-label="WindowConsole" id="420863335%2FConstructors%2F2001008879" data-filterable-set=":engine/jsMain"></a>
+          <div class="table-row table-row_content" data-togglable="CONSTRUCTOR" data-filterable-current=":engine/jsMain" data-filterable-set=":engine/jsMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.logger/-window-console/-window-console/"><span>Window</span><wbr><span><span>Console</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="420863335%2FConstructors%2F1806089581"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="420863335%2FConstructors%2F2001008879"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/jsMain" data-filterable-set=":/jsMain" data-active="" data-toggle=":/jsMain">JS</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/jsMain"><div class="symbol monospace"><span class="token keyword">constructor</span><span class="token punctuation">(</span><span class="token punctuation">)</span></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/jsMain" data-filterable-set=":engine/jsMain" data-active="" data-toggle=":engine/jsMain">JS</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/jsMain"><div class="symbol monospace"><span class="token keyword">constructor</span><span class="token punctuation">(</span><span class="token punctuation">)</span></div></div>                  </div>
                 </div>
               </div>
             </div>
@@ -38,104 +38,104 @@ b:"$Sreact.suspense"
       </div>
       <div data-togglable="FUNCTION">
         <h2 class="tableheader">Functions</h2>
-        <div class="table api-cards-grid"><a data-name="-104748347%2FFunctions%2F1806089581" anchor-label="debug" id="-104748347%2FFunctions%2F1806089581" data-filterable-set=":/jsMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/jsMain" data-filterable-set=":/jsMain">
+        <div class="table api-cards-grid"><a data-name="-104748347%2FFunctions%2F2001008879" anchor-label="debug" id="-104748347%2FFunctions%2F2001008879" data-filterable-set=":engine/jsMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/jsMain" data-filterable-set=":engine/jsMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.logger/-window-console/debug/"><span><span>debug</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-104748347%2FFunctions%2F1806089581"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-104748347%2FFunctions%2F2001008879"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/jsMain" data-filterable-set=":/jsMain" data-active="" data-toggle=":/jsMain">JS</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/jsMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.logger/-window-console/debug/"><span class="token function">debug</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter "><span class="token keyword">vararg </span>o<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-any/index.html">Any</a><span class="token operator">?</span></span></span><span class="token punctuation">)</span></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/jsMain" data-filterable-set=":engine/jsMain" data-active="" data-toggle=":engine/jsMain">JS</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/jsMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.logger/-window-console/debug/"><span class="token function">debug</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter "><span class="token keyword">vararg </span>o<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-any/index.html">Any</a><span class="token operator">?</span></span></span><span class="token punctuation">)</span></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-808163198%2FFunctions%2F1806089581" anchor-label="dir" id="-808163198%2FFunctions%2F1806089581" data-filterable-set=":/jsMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/jsMain" data-filterable-set=":/jsMain">
+<a data-name="-808163198%2FFunctions%2F2001008879" anchor-label="dir" id="-808163198%2FFunctions%2F2001008879" data-filterable-set=":engine/jsMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/jsMain" data-filterable-set=":engine/jsMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
-                  <div><a href="/api/-zernikalos/zernikalos.logger/-window-console/#-808163198%2FFunctions%2F1806089581"><span><span>dir</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-808163198%2FFunctions%2F1806089581"></span>
+                  <div><a href="/api/-zernikalos/zernikalos.logger/-window-console/#-808163198%2FFunctions%2F2001008879"><span><span>dir</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-808163198%2FFunctions%2F2001008879"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/jsMain" data-filterable-set=":/jsMain" data-active="" data-toggle=":/jsMain">JS</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/jsMain"><div class="symbol monospace"><span class="token keyword">abstract </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.logger/-window-console/#-808163198%2FFunctions%2F1806089581"><span class="token function">dir</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">o<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-any/index.html">Any</a></span></span><span class="token punctuation">)</span></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/jsMain" data-filterable-set=":engine/jsMain" data-active="" data-toggle=":engine/jsMain">JS</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/jsMain"><div class="symbol monospace"><span class="token keyword">abstract </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.logger/-window-console/#-808163198%2FFunctions%2F2001008879"><span class="token function">dir</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">o<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-any/index.html">Any</a></span></span><span class="token punctuation">)</span></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-1569354694%2FFunctions%2F1806089581" anchor-label="error" id="-1569354694%2FFunctions%2F1806089581" data-filterable-set=":/jsMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/jsMain" data-filterable-set=":/jsMain">
+<a data-name="-1569354694%2FFunctions%2F2001008879" anchor-label="error" id="-1569354694%2FFunctions%2F2001008879" data-filterable-set=":engine/jsMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/jsMain" data-filterable-set=":engine/jsMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
-                  <div><a href="/api/-zernikalos/zernikalos.logger/-window-console/#-1569354694%2FFunctions%2F1806089581"><span><span>error</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1569354694%2FFunctions%2F1806089581"></span>
+                  <div><a href="/api/-zernikalos/zernikalos.logger/-window-console/#-1569354694%2FFunctions%2F2001008879"><span><span>error</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1569354694%2FFunctions%2F2001008879"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/jsMain" data-filterable-set=":/jsMain" data-active="" data-toggle=":/jsMain">JS</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/jsMain"><div class="symbol monospace"><span class="token keyword">abstract </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.logger/-window-console/#-1569354694%2FFunctions%2F1806089581"><span class="token function">error</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter "><span class="token keyword">vararg </span>o<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-any/index.html">Any</a><span class="token operator">?</span></span></span><span class="token punctuation">)</span></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/jsMain" data-filterable-set=":engine/jsMain" data-active="" data-toggle=":engine/jsMain">JS</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/jsMain"><div class="symbol monospace"><span class="token keyword">abstract </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.logger/-window-console/#-1569354694%2FFunctions%2F2001008879"><span class="token function">error</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter "><span class="token keyword">vararg </span>o<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-any/index.html">Any</a><span class="token operator">?</span></span></span><span class="token punctuation">)</span></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-1988194142%2FFunctions%2F1806089581" anchor-label="info" id="-1988194142%2FFunctions%2F1806089581" data-filterable-set=":/jsMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/jsMain" data-filterable-set=":/jsMain">
+<a data-name="-1988194142%2FFunctions%2F2001008879" anchor-label="info" id="-1988194142%2FFunctions%2F2001008879" data-filterable-set=":engine/jsMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/jsMain" data-filterable-set=":engine/jsMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
-                  <div><a href="/api/-zernikalos/zernikalos.logger/-window-console/#-1988194142%2FFunctions%2F1806089581"><span><span>info</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1988194142%2FFunctions%2F1806089581"></span>
+                  <div><a href="/api/-zernikalos/zernikalos.logger/-window-console/#-1988194142%2FFunctions%2F2001008879"><span><span>info</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1988194142%2FFunctions%2F2001008879"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/jsMain" data-filterable-set=":/jsMain" data-active="" data-toggle=":/jsMain">JS</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/jsMain"><div class="symbol monospace"><span class="token keyword">abstract </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.logger/-window-console/#-1988194142%2FFunctions%2F1806089581"><span class="token function">info</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter "><span class="token keyword">vararg </span>o<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-any/index.html">Any</a><span class="token operator">?</span></span></span><span class="token punctuation">)</span></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/jsMain" data-filterable-set=":engine/jsMain" data-active="" data-toggle=":engine/jsMain">JS</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/jsMain"><div class="symbol monospace"><span class="token keyword">abstract </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.logger/-window-console/#-1988194142%2FFunctions%2F2001008879"><span class="token function">info</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter "><span class="token keyword">vararg </span>o<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-any/index.html">Any</a><span class="token operator">?</span></span></span><span class="token punctuation">)</span></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-1573645514%2FFunctions%2F1806089581" anchor-label="log" id="-1573645514%2FFunctions%2F1806089581" data-filterable-set=":/jsMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/jsMain" data-filterable-set=":/jsMain">
+<a data-name="-1573645514%2FFunctions%2F2001008879" anchor-label="log" id="-1573645514%2FFunctions%2F2001008879" data-filterable-set=":engine/jsMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/jsMain" data-filterable-set=":engine/jsMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
-                  <div><a href="/api/-zernikalos/zernikalos.logger/-window-console/#-1573645514%2FFunctions%2F1806089581"><span><span>log</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1573645514%2FFunctions%2F1806089581"></span>
+                  <div><a href="/api/-zernikalos/zernikalos.logger/-window-console/#-1573645514%2FFunctions%2F2001008879"><span><span>log</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1573645514%2FFunctions%2F2001008879"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/jsMain" data-filterable-set=":/jsMain" data-active="" data-toggle=":/jsMain">JS</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/jsMain"><div class="symbol monospace"><span class="token keyword">abstract </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.logger/-window-console/#-1573645514%2FFunctions%2F1806089581"><span class="token function">log</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter "><span class="token keyword">vararg </span>o<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-any/index.html">Any</a><span class="token operator">?</span></span></span><span class="token punctuation">)</span></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/jsMain" data-filterable-set=":engine/jsMain" data-active="" data-toggle=":engine/jsMain">JS</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/jsMain"><div class="symbol monospace"><span class="token keyword">abstract </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.logger/-window-console/#-1573645514%2FFunctions%2F2001008879"><span class="token function">log</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter "><span class="token keyword">vararg </span>o<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-any/index.html">Any</a><span class="token operator">?</span></span></span><span class="token punctuation">)</span></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-765896070%2FFunctions%2F1806089581" anchor-label="warn" id="-765896070%2FFunctions%2F1806089581" data-filterable-set=":/jsMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/jsMain" data-filterable-set=":/jsMain">
+<a data-name="-765896070%2FFunctions%2F2001008879" anchor-label="warn" id="-765896070%2FFunctions%2F2001008879" data-filterable-set=":engine/jsMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/jsMain" data-filterable-set=":engine/jsMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
-                  <div><a href="/api/-zernikalos/zernikalos.logger/-window-console/#-765896070%2FFunctions%2F1806089581"><span><span>warn</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-765896070%2FFunctions%2F1806089581"></span>
+                  <div><a href="/api/-zernikalos/zernikalos.logger/-window-console/#-765896070%2FFunctions%2F2001008879"><span><span>warn</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-765896070%2FFunctions%2F2001008879"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/jsMain" data-filterable-set=":/jsMain" data-active="" data-toggle=":/jsMain">JS</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/jsMain"><div class="symbol monospace"><span class="token keyword">abstract </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.logger/-window-console/#-765896070%2FFunctions%2F1806089581"><span class="token function">warn</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter "><span class="token keyword">vararg </span>o<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-any/index.html">Any</a><span class="token operator">?</span></span></span><span class="token punctuation">)</span></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/jsMain" data-filterable-set=":engine/jsMain" data-active="" data-toggle=":engine/jsMain">JS</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/jsMain"><div class="symbol monospace"><span class="token keyword">abstract </span><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.logger/-window-console/#-765896070%2FFunctions%2F2001008879"><span class="token function">warn</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter "><span class="token keyword">vararg </span>o<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-any/index.html">Any</a><span class="token operator">?</span></span></span><span class="token punctuation">)</span></div></div>                  </div>
                 </div>
               </div>
             </div>
@@ -145,9 +145,9 @@ b:"$Sreact.suspense"
     </div>
   </div>
 </div>
-0:{"buildId":"TWNiPPyaQyI5O5C9VZKgd","rsc":["$","$1","c",{"children":[[false,["$","article",null,{"id":"nd-page","data-full":true,"className":"flex flex-col w-full mx-auto [grid-area:main] px-4 py-6 gap-4 md:px-6 md:pt-8 xl:px-8 xl:pt-14 max-w-[1200px]","children":[["$","$L2",null,{}],["$","div",null,{"className":"prose flex-1 dokka-container","children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}],false],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
-4:["$","$L8",null,{}]
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"full":true,"children":["$","$L3",null,{"className":"dokka-container","children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5"]}]}],["$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"UH87WZr7ecgOYER1sgzrd"}
 5:["$","$L9",null,{}]
-6:["$","script","script-0",{"src":"/_next/static/chunks/6d4c7442ee3701fa.js","async":true}]
-7:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/0b~1-iikzpv-u.js","async":true}]
+7:["$","script","script-1",{"src":"/_next/static/chunks/0xn9bloz_qt67.js","async":true}]
+8:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
 c:null

@@ -1,35 +1,35 @@
 1:"$Sreact.fragment"
-2:I[914571,["/_next/static/chunks/5587f2d43ac39585.js","/_next/static/chunks/77061c7a1015ca2e.js","/_next/static/chunks/2119eb48d3f80bca.js","/_next/static/chunks/e97d47045d0c478d.js","/_next/static/chunks/ae544453766ef5bf.js","/_next/static/chunks/54d90cb7a91de5a4.js","/_next/static/chunks/6d4c7442ee3701fa.js"],"PageBreadcrumb"]
-8:I[299854,["/_next/static/chunks/5587f2d43ac39585.js","/_next/static/chunks/77061c7a1015ca2e.js","/_next/static/chunks/2119eb48d3f80bca.js","/_next/static/chunks/e97d47045d0c478d.js","/_next/static/chunks/ae544453766ef5bf.js","/_next/static/chunks/54d90cb7a91de5a4.js","/_next/static/chunks/6d4c7442ee3701fa.js"],"default"]
-9:I[914571,["/_next/static/chunks/5587f2d43ac39585.js","/_next/static/chunks/77061c7a1015ca2e.js","/_next/static/chunks/2119eb48d3f80bca.js","/_next/static/chunks/e97d47045d0c478d.js","/_next/static/chunks/ae544453766ef5bf.js","/_next/static/chunks/54d90cb7a91de5a4.js","/_next/static/chunks/6d4c7442ee3701fa.js"],"PageFooter"]
-a:I[249566,["/_next/static/chunks/9110786c46909d7d.js","/_next/static/chunks/2e9c03183f9af1f7.js"],"OutletBoundary"]
+2:I[699413,["/_next/static/chunks/13m3_bt-npzb8.js","/_next/static/chunks/0d3b4qksca1uo.js","/_next/static/chunks/09r0vq9a5if38.js","/_next/static/chunks/09tmzlddgs1y1.js","/_next/static/chunks/13bn21.hx.3.a.js","/_next/static/chunks/13rdi4-5gzwr4.js","/_next/static/chunks/0fdoel-z5wt0a.js","/_next/static/chunks/0b~1-iikzpv-u.js","/_next/static/chunks/0xn9bloz_qt67.js"],"DocsPage"]
+3:I[699413,["/_next/static/chunks/13m3_bt-npzb8.js","/_next/static/chunks/0d3b4qksca1uo.js","/_next/static/chunks/09r0vq9a5if38.js","/_next/static/chunks/09tmzlddgs1y1.js","/_next/static/chunks/13bn21.hx.3.a.js","/_next/static/chunks/13rdi4-5gzwr4.js","/_next/static/chunks/0fdoel-z5wt0a.js","/_next/static/chunks/0b~1-iikzpv-u.js","/_next/static/chunks/0xn9bloz_qt67.js"],"DocsBody"]
+9:I[299854,["/_next/static/chunks/13m3_bt-npzb8.js","/_next/static/chunks/0d3b4qksca1uo.js","/_next/static/chunks/09r0vq9a5if38.js","/_next/static/chunks/09tmzlddgs1y1.js","/_next/static/chunks/13bn21.hx.3.a.js","/_next/static/chunks/13rdi4-5gzwr4.js","/_next/static/chunks/0fdoel-z5wt0a.js","/_next/static/chunks/0b~1-iikzpv-u.js","/_next/static/chunks/0xn9bloz_qt67.js"],"default"]
+a:I[590522,["/_next/static/chunks/13m3_bt-npzb8.js","/_next/static/chunks/0d3b4qksca1uo.js"],"OutletBoundary"]
 b:"$Sreact.suspense"
-3:T3e27,<div class="main-content" data-page-type="classlike" id="content" pageids="Zernikalos::zernikalos.events/WebInputEventManager///PointingToDeclaration//-1486018803">
+4:T3f2f,<div class="main-content" data-page-type="classlike" id="content" pageids="Zernikalos::zernikalos.events/WebInputEventManager///PointingToDeclaration//1163968655">
   <div class="breadcrumbs"><a href="/api/">Zernikalos</a><span class="delimiter">/</span><a href="/api/-zernikalos/zernikalos.events/">zernikalos.events</a><span class="delimiter">/</span><span class="current">WebInputEventManager</span></div>
   <div class="cover ">
     <h1 class="cover"><span>Web</span><wbr><span>Input</span><wbr><span>Event</span><wbr><span><span>Manager</span></span></h1>
     <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-      <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">class </span><a href="/api/-zernikalos/zernikalos.events/-web-input-event-manager/">WebInputEventManager</a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">canvas<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/org.w3c.dom/-h-t-m-l-canvas-element/index.html">HTMLCanvasElement</a><span class="token punctuation">, </span></span><span class="parameter ">eventQueue<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.events/-z-event-queue/">ZEventQueue</a><span class="token operator">?</span></span></span><span class="token punctuation">)</span><span class="source-link-wrapper"><span class="source-link" data-element-type="source-link">(<a href="https://github.com/Zernikalos/Zernikalos/blob/v0.8.0/src/webgpuMain/kotlin/zernikalos/events/WebInputEventManager.kt#L30">source</a>)</span></span></div><p class="paragraph">Manages the capture and conversion of DOM input events (mouse and keyboard) for a canvas element, converting them to Zernikalos events and enqueuing them in an event queue for synchronous processing during the game loop.</p><p class="paragraph">This class handles:</p><ul><li><p class="paragraph">Registering event listeners on the canvas</p></li><li><p class="paragraph">Converting DOM events to Zernikalos events using adapters</p></li><li><p class="paragraph">Enqueuing events in the event queue instead of processing them immediately</p></li><li><p class="paragraph">Cleaning up event listeners on disposal</p></li></ul></div>    </div>
+      <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">class </span><a href="/api/-zernikalos/zernikalos.events/-web-input-event-manager/">WebInputEventManager</a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">canvas<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/org.w3c.dom/-h-t-m-l-canvas-element/index.html">HTMLCanvasElement</a><span class="token punctuation">, </span></span><span class="parameter ">eventQueue<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.events/-z-event-queue/">ZEventQueue</a><span class="token operator">?</span></span></span><span class="token punctuation">)</span><span class="source-link-wrapper"><span class="source-link" data-element-type="source-link">(<a href="https://github.com/Zernikalos/Zernikalos/blob/v0.9.0/engine/src/webgpuMain/kotlin/zernikalos/events/WebInputEventManager.kt#L30">source</a>)</span></span></div><p class="paragraph">Manages the capture and conversion of DOM input events (mouse and keyboard) for a canvas element, converting them to Zernikalos events and enqueuing them in an event queue for synchronous processing during the game loop.</p><p class="paragraph">This class handles:</p><ul><li><p class="paragraph">Registering event listeners on the canvas</p></li><li><p class="paragraph">Converting DOM events to Zernikalos events using adapters</p></li><li><p class="paragraph">Enqueuing events in the event queue instead of processing them immediately</p></li><li><p class="paragraph">Cleaning up event listeners on disposal</p></li></ul></div>    </div>
   </div>
   <div class="tabbedcontent">
     <div class="tabs-section" tabs-section="tabs-section"><button class="section-tab" data-active="" data-togglable="CONSTRUCTOR,TYPE,PROPERTY,FUNCTION">Members</button></div>
     <div class="tabs-section-body">
       <div data-togglable="CONSTRUCTOR">
         <h2 class="tableheader">Constructors</h2>
-        <div class="table api-cards-grid"><a data-name="-732167014%2FConstructors%2F-1486018803" anchor-label="WebInputEventManager" id="-732167014%2FConstructors%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-togglable="CONSTRUCTOR" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+        <div class="table api-cards-grid"><a data-name="-732167014%2FConstructors%2F1163968655" anchor-label="WebInputEventManager" id="-732167014%2FConstructors%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-togglable="CONSTRUCTOR" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.events/-web-input-event-manager/-web-input-event-manager/"><span>Web</span><wbr><span>Input</span><wbr><span>Event</span><wbr><span><span>Manager</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-732167014%2FConstructors%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-732167014%2FConstructors%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">constructor</span><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">canvas<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/org.w3c.dom/-h-t-m-l-canvas-element/index.html">HTMLCanvasElement</a><span class="token punctuation">, </span></span><span class="parameter ">eventQueue<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.events/-z-event-queue/">ZEventQueue</a><span class="token operator">?</span></span></span><span class="token punctuation">)</span></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">constructor</span><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">canvas<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/org.w3c.dom/-h-t-m-l-canvas-element/index.html">HTMLCanvasElement</a><span class="token punctuation">, </span></span><span class="parameter ">eventQueue<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.events/-z-event-queue/">ZEventQueue</a><span class="token operator">?</span></span></span><span class="token punctuation">)</span></div></div>                  </div>
                 </div>
               </div>
             </div>
@@ -38,87 +38,87 @@ b:"$Sreact.suspense"
       </div>
       <div data-togglable="FUNCTION">
         <h2 class="tableheader">Functions</h2>
-        <div class="table api-cards-grid"><a data-name="1605001444%2FFunctions%2F-1486018803" anchor-label="dispose" id="1605001444%2FFunctions%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+        <div class="table api-cards-grid"><a data-name="1605001444%2FFunctions%2F1163968655" anchor-label="dispose" id="1605001444%2FFunctions%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.events/-web-input-event-manager/dispose/"><span><span>dispose</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1605001444%2FFunctions%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1605001444%2FFunctions%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.events/-web-input-event-manager/dispose/"><span class="token function">dispose</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Disposes the manager and removes all event listeners. Call this when the canvas is no longer needed.</p></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.events/-web-input-event-manager/dispose/"><span class="token function">dispose</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Disposes the manager and removes all event listeners. Call this when the canvas is no longer needed.</p></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="1523735478%2FFunctions%2F-1486018803" anchor-label="getEventQueue" id="1523735478%2FFunctions%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="1523735478%2FFunctions%2F1163968655" anchor-label="getEventQueue" id="1523735478%2FFunctions%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.events/-web-input-event-manager/get-event-queue/"><span>get</span><wbr><span>Event</span><wbr><span><span>Queue</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1523735478%2FFunctions%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1523735478%2FFunctions%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.events/-web-input-event-manager/get-event-queue/"><span class="token function">getEventQueue</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.events/-z-event-queue/">ZEventQueue</a><span class="token operator">?</span></div><div class="brief "><p class="paragraph">Gets the current event queue.</p></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.events/-web-input-event-manager/get-event-queue/"><span class="token function">getEventQueue</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.events/-z-event-queue/">ZEventQueue</a><span class="token operator">?</span></div><div class="brief "><p class="paragraph">Gets the current event queue.</p></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="1034025731%2FFunctions%2F-1486018803" anchor-label="getHandler" id="1034025731%2FFunctions%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="1034025731%2FFunctions%2F1163968655" anchor-label="getHandler" id="1034025731%2FFunctions%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.events/-web-input-event-manager/get-handler/"><span>get</span><wbr><span><span>Handler</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1034025731%2FFunctions%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1034025731%2FFunctions%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.events/-web-input-event-manager/get-handler/"><span class="token function">getHandler</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.events/-z-user-input-event-handler/">ZUserInputEventHandler</a><span class="token operator">?</span></div><div class="brief "><p class="paragraph">Gets the current event handler (for compatibility with ZUserInputEventHandler interface). Returns the event queue since it implements ZUserInputEventHandler.</p></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.events/-web-input-event-manager/get-handler/"><span class="token function">getHandler</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.events/-z-user-input-event-handler/">ZUserInputEventHandler</a><span class="token operator">?</span></div><div class="brief "><p class="paragraph">Gets the current event handler (for compatibility with ZUserInputEventHandler interface). Returns the event queue since it implements ZUserInputEventHandler.</p></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-147280291%2FFunctions%2F-1486018803" anchor-label="setEventQueue" id="-147280291%2FFunctions%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="-147280291%2FFunctions%2F1163968655" anchor-label="setEventQueue" id="-147280291%2FFunctions%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.events/-web-input-event-manager/set-event-queue/"><span>set</span><wbr><span>Event</span><wbr><span><span>Queue</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-147280291%2FFunctions%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-147280291%2FFunctions%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.events/-web-input-event-manager/set-event-queue/"><span class="token function">setEventQueue</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">newQueue<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.events/-z-event-queue/">ZEventQueue</a><span class="token operator">?</span></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Updates the event queue that receives converted events.</p></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.events/-web-input-event-manager/set-event-queue/"><span class="token function">setEventQueue</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">newQueue<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.events/-z-event-queue/">ZEventQueue</a><span class="token operator">?</span></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Updates the event queue that receives converted events.</p></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-143243256%2FFunctions%2F-1486018803" anchor-label="setHandler" id="-143243256%2FFunctions%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="-143243256%2FFunctions%2F1163968655" anchor-label="setHandler" id="-143243256%2FFunctions%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.events/-web-input-event-manager/set-handler/"><span>set</span><wbr><span><span>Handler</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-143243256%2FFunctions%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-143243256%2FFunctions%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.events/-web-input-event-manager/set-handler/"><span class="token function">setHandler</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">newHandler<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.events/-z-user-input-event-handler/">ZUserInputEventHandler</a><span class="token operator">?</span></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Updates the event handler (for compatibility with ZUserInputEventHandler interface). If the handler is a ZEventQueue, it will be used directly. Otherwise, it will be ignored.</p></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.events/-web-input-event-manager/set-handler/"><span class="token function">setHandler</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">newHandler<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.events/-z-user-input-event-handler/">ZUserInputEventHandler</a><span class="token operator">?</span></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Updates the event handler (for compatibility with ZUserInputEventHandler interface). If the handler is a ZEventQueue, it will be used directly. Otherwise, it will be ignored.</p></div></div>                  </div>
                 </div>
               </div>
             </div>
@@ -128,9 +128,9 @@ b:"$Sreact.suspense"
     </div>
   </div>
 </div>
-0:{"buildId":"TWNiPPyaQyI5O5C9VZKgd","rsc":["$","$1","c",{"children":[[false,["$","article",null,{"id":"nd-page","data-full":true,"className":"flex flex-col w-full mx-auto [grid-area:main] px-4 py-6 gap-4 md:px-6 md:pt-8 xl:px-8 xl:pt-14 max-w-[1200px]","children":[["$","$L2",null,{}],["$","div",null,{"className":"prose flex-1 dokka-container","children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}],false],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
-4:["$","$L8",null,{}]
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"full":true,"children":["$","$L3",null,{"className":"dokka-container","children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5"]}]}],["$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"UH87WZr7ecgOYER1sgzrd"}
 5:["$","$L9",null,{}]
-6:["$","script","script-0",{"src":"/_next/static/chunks/6d4c7442ee3701fa.js","async":true}]
-7:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/0b~1-iikzpv-u.js","async":true}]
+7:["$","script","script-1",{"src":"/_next/static/chunks/0xn9bloz_qt67.js","async":true}]
+8:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
 c:null

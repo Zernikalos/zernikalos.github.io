@@ -1,35 +1,35 @@
 1:"$Sreact.fragment"
-2:I[914571,["/_next/static/chunks/5587f2d43ac39585.js","/_next/static/chunks/77061c7a1015ca2e.js","/_next/static/chunks/2119eb48d3f80bca.js","/_next/static/chunks/e97d47045d0c478d.js","/_next/static/chunks/ae544453766ef5bf.js","/_next/static/chunks/54d90cb7a91de5a4.js","/_next/static/chunks/6d4c7442ee3701fa.js"],"PageBreadcrumb"]
-8:I[299854,["/_next/static/chunks/5587f2d43ac39585.js","/_next/static/chunks/77061c7a1015ca2e.js","/_next/static/chunks/2119eb48d3f80bca.js","/_next/static/chunks/e97d47045d0c478d.js","/_next/static/chunks/ae544453766ef5bf.js","/_next/static/chunks/54d90cb7a91de5a4.js","/_next/static/chunks/6d4c7442ee3701fa.js"],"default"]
-9:I[914571,["/_next/static/chunks/5587f2d43ac39585.js","/_next/static/chunks/77061c7a1015ca2e.js","/_next/static/chunks/2119eb48d3f80bca.js","/_next/static/chunks/e97d47045d0c478d.js","/_next/static/chunks/ae544453766ef5bf.js","/_next/static/chunks/54d90cb7a91de5a4.js","/_next/static/chunks/6d4c7442ee3701fa.js"],"PageFooter"]
-a:I[249566,["/_next/static/chunks/9110786c46909d7d.js","/_next/static/chunks/2e9c03183f9af1f7.js"],"OutletBoundary"]
+2:I[699413,["/_next/static/chunks/13m3_bt-npzb8.js","/_next/static/chunks/0d3b4qksca1uo.js","/_next/static/chunks/09r0vq9a5if38.js","/_next/static/chunks/09tmzlddgs1y1.js","/_next/static/chunks/13bn21.hx.3.a.js","/_next/static/chunks/13rdi4-5gzwr4.js","/_next/static/chunks/0fdoel-z5wt0a.js","/_next/static/chunks/0b~1-iikzpv-u.js","/_next/static/chunks/0xn9bloz_qt67.js"],"DocsPage"]
+3:I[699413,["/_next/static/chunks/13m3_bt-npzb8.js","/_next/static/chunks/0d3b4qksca1uo.js","/_next/static/chunks/09r0vq9a5if38.js","/_next/static/chunks/09tmzlddgs1y1.js","/_next/static/chunks/13bn21.hx.3.a.js","/_next/static/chunks/13rdi4-5gzwr4.js","/_next/static/chunks/0fdoel-z5wt0a.js","/_next/static/chunks/0b~1-iikzpv-u.js","/_next/static/chunks/0xn9bloz_qt67.js"],"DocsBody"]
+9:I[299854,["/_next/static/chunks/13m3_bt-npzb8.js","/_next/static/chunks/0d3b4qksca1uo.js","/_next/static/chunks/09r0vq9a5if38.js","/_next/static/chunks/09tmzlddgs1y1.js","/_next/static/chunks/13bn21.hx.3.a.js","/_next/static/chunks/13rdi4-5gzwr4.js","/_next/static/chunks/0fdoel-z5wt0a.js","/_next/static/chunks/0b~1-iikzpv-u.js","/_next/static/chunks/0xn9bloz_qt67.js"],"default"]
+a:I[590522,["/_next/static/chunks/13m3_bt-npzb8.js","/_next/static/chunks/0d3b4qksca1uo.js"],"OutletBoundary"]
 b:"$Sreact.suspense"
-3:T65da,<div class="main-content" data-page-type="classlike" id="content" pageids="Zernikalos::zernikalos.context/ZWebGPUDevice///PointingToDeclaration//-1486018803">
+4:T67a5,<div class="main-content" data-page-type="classlike" id="content" pageids="Zernikalos::zernikalos.context/ZWebGPUDevice///PointingToDeclaration//1163968655">
   <div class="breadcrumbs"><a href="/api/">Zernikalos</a><span class="delimiter">/</span><a href="/api/-zernikalos/zernikalos.context/">zernikalos.context</a><span class="delimiter">/</span><span class="current">ZWebGPUDevice</span></div>
   <div class="cover ">
     <h1 class="cover"><span>ZWeb</span><wbr><span><span>GPUDevice</span></span></h1>
     <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-      <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">class </span><a href="/api/-zernikalos/zernikalos.context/-z-web-g-p-u-device/">ZWebGPUDevice</a><span class="token punctuation">(</span><span class="parameters "><span class="parameter "><span class="token keyword">val </span>nativeDevice<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-device/">GPUDevice</a></span></span><span class="token punctuation">)</span><span class="source-link-wrapper"><span class="source-link" data-element-type="source-link">(<a href="https://github.com/Zernikalos/Zernikalos/blob/v0.8.0/src/webgpuMain/kotlin/zernikalos/context/ZWebGPUDevice.kt#L16">source</a>)</span></span></div></div>    </div>
+      <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">class </span><a href="/api/-zernikalos/zernikalos.context/-z-web-g-p-u-device/">ZWebGPUDevice</a><span class="token punctuation">(</span><span class="parameters "><span class="parameter "><span class="token keyword">val </span>nativeDevice<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-device/">GPUDevice</a></span></span><span class="token punctuation">)</span><span class="source-link-wrapper"><span class="source-link" data-element-type="source-link">(<a href="https://github.com/Zernikalos/Zernikalos/blob/v0.9.0/engine/src/webgpuMain/kotlin/zernikalos/context/ZWebGPUDevice.kt#L16">source</a>)</span></span></div></div>    </div>
   </div>
   <div class="tabbedcontent">
     <div class="tabs-section" tabs-section="tabs-section"><button class="section-tab" data-active="" data-togglable="CONSTRUCTOR,TYPE,PROPERTY,FUNCTION">Members</button></div>
     <div class="tabs-section-body">
       <div data-togglable="CONSTRUCTOR">
         <h2 class="tableheader">Constructors</h2>
-        <div class="table api-cards-grid"><a data-name="439877423%2FConstructors%2F-1486018803" anchor-label="ZWebGPUDevice" id="439877423%2FConstructors%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-togglable="CONSTRUCTOR" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+        <div class="table api-cards-grid"><a data-name="439877423%2FConstructors%2F1163968655" anchor-label="ZWebGPUDevice" id="439877423%2FConstructors%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-togglable="CONSTRUCTOR" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context/-z-web-g-p-u-device/-z-web-g-p-u-device/"><span>ZWeb</span><wbr><span><span>GPUDevice</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="439877423%2FConstructors%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="439877423%2FConstructors%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">constructor</span><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">nativeDevice<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-device/">GPUDevice</a></span></span><span class="token punctuation">)</span></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">constructor</span><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">nativeDevice<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-device/">GPUDevice</a></span></span><span class="token punctuation">)</span></div></div>                  </div>
                 </div>
               </div>
             </div>
@@ -38,19 +38,19 @@ b:"$Sreact.suspense"
       </div>
       <div data-togglable="PROPERTY">
         <h2 class="tableheader">Properties</h2>
-        <div class="table api-cards-grid"><a data-name="450549875%2FProperties%2F-1486018803" anchor-label="nativeDevice" id="450549875%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+        <div class="table api-cards-grid"><a data-name="450549875%2FProperties%2F1163968655" anchor-label="nativeDevice" id="450549875%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context/-z-web-g-p-u-device/native-device/"><span>native</span><wbr><span><span>Device</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="450549875%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="450549875%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context/-z-web-g-p-u-device/native-device/">nativeDevice</a><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-device/">GPUDevice</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context/-z-web-g-p-u-device/native-device/">nativeDevice</a><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-device/">GPUDevice</a></div></div>                  </div>
                 </div>
               </div>
             </div>
@@ -59,155 +59,155 @@ b:"$Sreact.suspense"
       </div>
       <div data-togglable="FUNCTION">
         <h2 class="tableheader">Functions</h2>
-        <div class="table api-cards-grid"><a data-name="-163130258%2FFunctions%2F-1486018803" anchor-label="createBindGroup" id="-163130258%2FFunctions%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+        <div class="table api-cards-grid"><a data-name="-163130258%2FFunctions%2F1163968655" anchor-label="createBindGroup" id="-163130258%2FFunctions%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context/-z-web-g-p-u-device/create-bind-group/"><span>create</span><wbr><span>Bind</span><wbr><span><span>Group</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-163130258%2FFunctions%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-163130258%2FFunctions%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-web-g-p-u-device/create-bind-group/"><span class="token function">createBindGroup</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">descriptor<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-bind-group-descriptor/">GPUBindGroupDescriptor</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-bind-group/">GPUBindGroup</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-web-g-p-u-device/create-bind-group/"><span class="token function">createBindGroup</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">descriptor<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-bind-group-descriptor/">GPUBindGroupDescriptor</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-bind-group/">GPUBindGroup</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-1129098342%2FFunctions%2F-1486018803" anchor-label="createBindGroupLayout" id="-1129098342%2FFunctions%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="-1129098342%2FFunctions%2F1163968655" anchor-label="createBindGroupLayout" id="-1129098342%2FFunctions%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context/-z-web-g-p-u-device/create-bind-group-layout/"><span>create</span><wbr><span>Bind</span><wbr><span>Group</span><wbr><span><span>Layout</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1129098342%2FFunctions%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1129098342%2FFunctions%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-web-g-p-u-device/create-bind-group-layout/"><span class="token function">createBindGroupLayout</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">descriptor<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-bind-group-layout-descriptor/">GPUBindGroupLayoutDescriptor</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-bind-group-layout/">GPUBindGroupLayout</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-web-g-p-u-device/create-bind-group-layout/"><span class="token function">createBindGroupLayout</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">descriptor<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-bind-group-layout-descriptor/">GPUBindGroupLayoutDescriptor</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-bind-group-layout/">GPUBindGroupLayout</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="719848597%2FFunctions%2F-1486018803" anchor-label="createBuffer" id="719848597%2FFunctions%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="719848597%2FFunctions%2F1163968655" anchor-label="createBuffer" id="719848597%2FFunctions%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context/-z-web-g-p-u-device/create-buffer/"><span>create</span><wbr><span><span>Buffer</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="719848597%2FFunctions%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="719848597%2FFunctions%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-web-g-p-u-device/create-buffer/"><span class="token function">createBuffer</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">byteSize<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">usage<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-buffer-usage-flags/">GPUBufferUsageFlags</a><span class="token punctuation">, </span></span><span class="parameter ">mappedAtCreation<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-boolean/index.html">Boolean</a><span class="token punctuation">, </span></span><span class="parameter ">label<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a><span class="token operator">?</span><span class="token operator"> = </span>null</span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-buffer/">GPUBuffer</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-web-g-p-u-device/create-buffer/"><span class="token function">createBuffer</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">byteSize<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">usage<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-buffer-usage-flags/">GPUBufferUsageFlags</a><span class="token punctuation">, </span></span><span class="parameter ">mappedAtCreation<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-boolean/index.html">Boolean</a><span class="token punctuation">, </span></span><span class="parameter ">label<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a><span class="token operator">?</span><span class="token operator"> = </span>null</span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-buffer/">GPUBuffer</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="1148555091%2FFunctions%2F-1486018803" anchor-label="createCommandEncoder" id="1148555091%2FFunctions%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="1148555091%2FFunctions%2F1163968655" anchor-label="createCommandEncoder" id="1148555091%2FFunctions%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context/-z-web-g-p-u-device/create-command-encoder/"><span>create</span><wbr><span>Command</span><wbr><span><span>Encoder</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1148555091%2FFunctions%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1148555091%2FFunctions%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-web-g-p-u-device/create-command-encoder/"><span class="token function">createCommandEncoder</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-command-encoder/">GPUCommandEncoder</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-web-g-p-u-device/create-command-encoder/"><span class="token function">createCommandEncoder</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-command-encoder/">GPUCommandEncoder</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-369775580%2FFunctions%2F-1486018803" anchor-label="createPipelineLayout" id="-369775580%2FFunctions%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="-369775580%2FFunctions%2F1163968655" anchor-label="createPipelineLayout" id="-369775580%2FFunctions%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context/-z-web-g-p-u-device/create-pipeline-layout/"><span>create</span><wbr><span>Pipeline</span><wbr><span><span>Layout</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-369775580%2FFunctions%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-369775580%2FFunctions%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-web-g-p-u-device/create-pipeline-layout/"><span class="token function">createPipelineLayout</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">descriptor<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-pipeline-layout-descriptor/">GPUPipelineLayoutDescriptor</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-pipeline-layout/">GPUPipelineLayout</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-web-g-p-u-device/create-pipeline-layout/"><span class="token function">createPipelineLayout</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">descriptor<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-pipeline-layout-descriptor/">GPUPipelineLayoutDescriptor</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-pipeline-layout/">GPUPipelineLayout</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-1766822748%2FFunctions%2F-1486018803" anchor-label="createRenderPipeline" id="-1766822748%2FFunctions%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="-1766822748%2FFunctions%2F1163968655" anchor-label="createRenderPipeline" id="-1766822748%2FFunctions%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context/-z-web-g-p-u-device/create-render-pipeline/"><span>create</span><wbr><span>Render</span><wbr><span><span>Pipeline</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1766822748%2FFunctions%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1766822748%2FFunctions%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-web-g-p-u-device/create-render-pipeline/"><span class="token function">createRenderPipeline</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">descriptor<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-render-pipeline-descriptor/">GPURenderPipelineDescriptor</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-render-pipeline/">GPURenderPipeline</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-web-g-p-u-device/create-render-pipeline/"><span class="token function">createRenderPipeline</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">descriptor<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-render-pipeline-descriptor/">GPURenderPipelineDescriptor</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-render-pipeline/">GPURenderPipeline</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-422348638%2FFunctions%2F-1486018803" anchor-label="createSampler" id="-422348638%2FFunctions%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="-422348638%2FFunctions%2F1163968655" anchor-label="createSampler" id="-422348638%2FFunctions%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context/-z-web-g-p-u-device/create-sampler/"><span>create</span><wbr><span><span>Sampler</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-422348638%2FFunctions%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-422348638%2FFunctions%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-web-g-p-u-device/create-sampler/"><span class="token function">createSampler</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">descriptor<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-sampler-descriptor/">GPUSamplerDescriptor</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-sampler/">GPUSampler</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-web-g-p-u-device/create-sampler/"><span class="token function">createSampler</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">descriptor<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-sampler-descriptor/">GPUSamplerDescriptor</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-sampler/">GPUSampler</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-394685903%2FFunctions%2F-1486018803" anchor-label="createShaderModule" id="-394685903%2FFunctions%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="-394685903%2FFunctions%2F1163968655" anchor-label="createShaderModule" id="-394685903%2FFunctions%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context/-z-web-g-p-u-device/create-shader-module/"><span>create</span><wbr><span>Shader</span><wbr><span><span>Module</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-394685903%2FFunctions%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-394685903%2FFunctions%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-web-g-p-u-device/create-shader-module/"><span class="token function">createShaderModule</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">source<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-shader-module/">GPUShaderModule</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-web-g-p-u-device/create-shader-module/"><span class="token function">createShaderModule</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">source<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-shader-module/">GPUShaderModule</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="1098533244%2FFunctions%2F-1486018803" anchor-label="createTexture" id="1098533244%2FFunctions%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="1098533244%2FFunctions%2F1163968655" anchor-label="createTexture" id="1098533244%2FFunctions%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context/-z-web-g-p-u-device/create-texture/"><span>create</span><wbr><span><span>Texture</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1098533244%2FFunctions%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1098533244%2FFunctions%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-web-g-p-u-device/create-texture/"><span class="token function">createTexture</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">descriptor<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-texture-descriptor/">GPUTextureDescriptor</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-texture/">GPUTexture</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.context/-z-web-g-p-u-device/create-texture/"><span class="token function">createTexture</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">descriptor<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-texture-descriptor/">GPUTextureDescriptor</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-texture/">GPUTexture</a></div></div>                  </div>
                 </div>
               </div>
             </div>
@@ -217,9 +217,9 @@ b:"$Sreact.suspense"
     </div>
   </div>
 </div>
-0:{"buildId":"TWNiPPyaQyI5O5C9VZKgd","rsc":["$","$1","c",{"children":[[false,["$","article",null,{"id":"nd-page","data-full":true,"className":"flex flex-col w-full mx-auto [grid-area:main] px-4 py-6 gap-4 md:px-6 md:pt-8 xl:px-8 xl:pt-14 max-w-[1200px]","children":[["$","$L2",null,{}],["$","div",null,{"className":"prose flex-1 dokka-container","children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}],false],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
-4:["$","$L8",null,{}]
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"full":true,"children":["$","$L3",null,{"className":"dokka-container","children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5"]}]}],["$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"UH87WZr7ecgOYER1sgzrd"}
 5:["$","$L9",null,{}]
-6:["$","script","script-0",{"src":"/_next/static/chunks/6d4c7442ee3701fa.js","async":true}]
-7:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/0b~1-iikzpv-u.js","async":true}]
+7:["$","script","script-1",{"src":"/_next/static/chunks/0xn9bloz_qt67.js","async":true}]
+8:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
 c:null

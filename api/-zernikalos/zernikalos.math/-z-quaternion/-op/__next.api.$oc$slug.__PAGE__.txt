@@ -1,31 +1,31 @@
 1:"$Sreact.fragment"
-2:I[914571,["/_next/static/chunks/5587f2d43ac39585.js","/_next/static/chunks/77061c7a1015ca2e.js","/_next/static/chunks/2119eb48d3f80bca.js","/_next/static/chunks/e97d47045d0c478d.js","/_next/static/chunks/ae544453766ef5bf.js","/_next/static/chunks/54d90cb7a91de5a4.js","/_next/static/chunks/6d4c7442ee3701fa.js"],"PageBreadcrumb"]
-8:I[299854,["/_next/static/chunks/5587f2d43ac39585.js","/_next/static/chunks/77061c7a1015ca2e.js","/_next/static/chunks/2119eb48d3f80bca.js","/_next/static/chunks/e97d47045d0c478d.js","/_next/static/chunks/ae544453766ef5bf.js","/_next/static/chunks/54d90cb7a91de5a4.js","/_next/static/chunks/6d4c7442ee3701fa.js"],"default"]
-9:I[914571,["/_next/static/chunks/5587f2d43ac39585.js","/_next/static/chunks/77061c7a1015ca2e.js","/_next/static/chunks/2119eb48d3f80bca.js","/_next/static/chunks/e97d47045d0c478d.js","/_next/static/chunks/ae544453766ef5bf.js","/_next/static/chunks/54d90cb7a91de5a4.js","/_next/static/chunks/6d4c7442ee3701fa.js"],"PageFooter"]
-a:I[249566,["/_next/static/chunks/9110786c46909d7d.js","/_next/static/chunks/2e9c03183f9af1f7.js"],"OutletBoundary"]
+2:I[699413,["/_next/static/chunks/13m3_bt-npzb8.js","/_next/static/chunks/0d3b4qksca1uo.js","/_next/static/chunks/09r0vq9a5if38.js","/_next/static/chunks/09tmzlddgs1y1.js","/_next/static/chunks/13bn21.hx.3.a.js","/_next/static/chunks/13rdi4-5gzwr4.js","/_next/static/chunks/0fdoel-z5wt0a.js","/_next/static/chunks/0b~1-iikzpv-u.js","/_next/static/chunks/0xn9bloz_qt67.js"],"DocsPage"]
+3:I[699413,["/_next/static/chunks/13m3_bt-npzb8.js","/_next/static/chunks/0d3b4qksca1uo.js","/_next/static/chunks/09r0vq9a5if38.js","/_next/static/chunks/09tmzlddgs1y1.js","/_next/static/chunks/13bn21.hx.3.a.js","/_next/static/chunks/13rdi4-5gzwr4.js","/_next/static/chunks/0fdoel-z5wt0a.js","/_next/static/chunks/0b~1-iikzpv-u.js","/_next/static/chunks/0xn9bloz_qt67.js"],"DocsBody"]
+9:I[299854,["/_next/static/chunks/13m3_bt-npzb8.js","/_next/static/chunks/0d3b4qksca1uo.js","/_next/static/chunks/09r0vq9a5if38.js","/_next/static/chunks/09tmzlddgs1y1.js","/_next/static/chunks/13bn21.hx.3.a.js","/_next/static/chunks/13rdi4-5gzwr4.js","/_next/static/chunks/0fdoel-z5wt0a.js","/_next/static/chunks/0b~1-iikzpv-u.js","/_next/static/chunks/0xn9bloz_qt67.js"],"default"]
+a:I[590522,["/_next/static/chunks/13m3_bt-npzb8.js","/_next/static/chunks/0d3b4qksca1uo.js"],"OutletBoundary"]
 b:"$Sreact.suspense"
-3:T9b68,<div class="main-content" data-page-type="classlike" id="content" pageids="Zernikalos::zernikalos.math/ZQuaternion.Op///PointingToDeclaration//1558683979">
+4:T9d25,<div class="main-content" data-page-type="classlike" id="content" pageids="Zernikalos::zernikalos.math/ZQuaternion.Op///PointingToDeclaration//1015982541">
   <div class="breadcrumbs"><a href="/api/">Zernikalos</a><span class="delimiter">/</span><a href="/api/-zernikalos/zernikalos.math/">zernikalos.math</a><span class="delimiter">/</span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="delimiter">/</span><span class="current">Op</span></div>
   <div class="cover ">
     <h1 class="cover"><span><span>Op</span></span></h1>
-    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">object </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/">Op</a><span class="source-link-wrapper"><span class="source-link" data-element-type="source-link">(<a href="https://github.com/Zernikalos/Zernikalos/blob/v0.8.0/src/commonMain/kotlin/zernikalos/math/ZQuaternion.kt#L177">source</a>)</span></span></div></div></div>
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">object </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/">Op</a><span class="source-link-wrapper"><span class="source-link" data-element-type="source-link">(<a href="https://github.com/Zernikalos/Zernikalos/blob/v0.9.0/engine/src/commonMain/kotlin/zernikalos/math/ZQuaternion.kt#L177">source</a>)</span></span></div></div></div>
   </div>
   <div class="tabbedcontent">
     <div class="tabs-section" tabs-section="tabs-section"><button class="section-tab" data-active="" data-togglable="CONSTRUCTOR,TYPE,PROPERTY,FUNCTION">Members</button></div>
     <div class="tabs-section-body">
       <div data-togglable="PROPERTY">
         <h2 class="tableheader">Properties</h2>
-        <div class="table api-cards-grid"><a data-name="605916344%2FProperties%2F1558683979" anchor-label="Identity" id="605916344%2FProperties%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+        <div class="table api-cards-grid"><a data-name="605916344%2FProperties%2F1015982541" anchor-label="Identity" id="605916344%2FProperties%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/-identity/"><span><span>Identity</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="605916344%2FProperties%2F1558683979"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="605916344%2FProperties%2F1015982541"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/-identity/">Identity</a><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/-identity/">Identity</a><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a></div></div></div>
                 </div>
               </div>
             </div>
@@ -34,257 +34,257 @@ b:"$Sreact.suspense"
       </div>
       <div data-togglable="FUNCTION">
         <h2 class="tableheader">Functions</h2>
-        <div class="table api-cards-grid"><a data-name="-1112389875%2FFunctions%2F1558683979" anchor-label="add" id="-1112389875%2FFunctions%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+        <div class="table api-cards-grid"><a data-name="-1112389875%2FFunctions%2F1015982541" anchor-label="add" id="-1112389875%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/add/"><span><span>add</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1112389875%2FFunctions%2F1558683979"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1112389875%2FFunctions%2F1015982541"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/add/"><span class="token function">add</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">result<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">q1<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">q2<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a></span></span><span class="token punctuation">)</span></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/add/"><span class="token function">add</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">result<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">q1<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">q2<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a></span></span><span class="token punctuation">)</span></div></div></div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="14834921%2FFunctions%2F1558683979" anchor-label="conjugate" id="14834921%2FFunctions%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+<a data-name="14834921%2FFunctions%2F1015982541" anchor-label="conjugate" id="14834921%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/conjugate/"><span><span>conjugate</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="14834921%2FFunctions%2F1558683979"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="14834921%2FFunctions%2F1015982541"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/conjugate/"><span class="token function">conjugate</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">result<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">q<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a></span></span><span class="token punctuation">)</span></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/conjugate/"><span class="token function">conjugate</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">result<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">q<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a></span></span><span class="token punctuation">)</span></div></div></div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-1980524556%2FFunctions%2F1558683979" anchor-label="copy" id="-1980524556%2FFunctions%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+<a data-name="-1980524556%2FFunctions%2F1015982541" anchor-label="copy" id="-1980524556%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/copy/"><span><span>copy</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1980524556%2FFunctions%2F1558683979"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1980524556%2FFunctions%2F1015982541"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/copy/"><span class="token function">copy</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">result<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">q<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a></span></span><span class="token punctuation">)</span></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/copy/"><span class="token function">copy</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">result<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">q<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a></span></span><span class="token punctuation">)</span></div></div></div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-1388459430%2FFunctions%2F1558683979" anchor-label="dot" id="-1388459430%2FFunctions%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+<a data-name="-1388459430%2FFunctions%2F1015982541" anchor-label="dot" id="-1388459430%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/dot/"><span><span>dot</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1388459430%2FFunctions%2F1558683979"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1388459430%2FFunctions%2F1015982541"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/dot/"><span class="token function">dot</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">q1<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">q2<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/dot/"><span class="token function">dot</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">q1<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">q2<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a></div></div></div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-591772291%2FFunctions%2F1558683979" anchor-label="fromAngleAxis" id="-591772291%2FFunctions%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+<a data-name="-591772291%2FFunctions%2F1015982541" anchor-label="fromAngleAxis" id="-591772291%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/from-angle-axis/"><span>from</span><wbr><span>Angle</span><wbr><span><span>Axis</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-591772291%2FFunctions%2F1558683979"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-591772291%2FFunctions%2F1015982541"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/from-angle-axis/"><span class="token function">fromAngleAxis</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">result<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">angle<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token punctuation">, </span></span><span class="parameter ">axis<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-vector3/">ZVector3</a></span></span><span class="token punctuation">)</span></div><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/from-angle-axis/"><span class="token function">fromAngleAxis</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">result<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">angle<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token punctuation">, </span></span><span class="parameter ">x<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token punctuation">, </span></span><span class="parameter ">y<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token punctuation">, </span></span><span class="parameter ">z<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a></span></span><span class="token punctuation">)</span></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/from-angle-axis/"><span class="token function">fromAngleAxis</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">result<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">angle<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token punctuation">, </span></span><span class="parameter ">axis<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-vector3/">ZVector3</a></span></span><span class="token punctuation">)</span></div><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/from-angle-axis/"><span class="token function">fromAngleAxis</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">result<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">angle<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token punctuation">, </span></span><span class="parameter ">x<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token punctuation">, </span></span><span class="parameter ">y<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token punctuation">, </span></span><span class="parameter ">z<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a></span></span><span class="token punctuation">)</span></div></div></div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="1555944795%2FFunctions%2F1558683979" anchor-label="fromEuler" id="1555944795%2FFunctions%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+<a data-name="1555944795%2FFunctions%2F1015982541" anchor-label="fromEuler" id="1555944795%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/from-euler/"><span>from</span><wbr><span><span>Euler</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1555944795%2FFunctions%2F1558683979"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1555944795%2FFunctions%2F1015982541"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/from-euler/"><span class="token function">fromEuler</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">euler<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-euler/">ZEuler</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a></div><br><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/from-euler/"><span class="token function">fromEuler</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">result<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">euler<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-euler/">ZEuler</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Converts Euler angles to quaternion using ZYX (yaw-pitch-roll) convention.</p></div><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/from-euler/"><span class="token function">fromEuler</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">roll<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token punctuation">, </span></span><span class="parameter ">pitch<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token punctuation">, </span></span><span class="parameter ">yaw<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a></div><div class="brief "><p class="paragraph">Creates a new quaternion from Euler angles.</p></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/from-euler/"><span class="token function">fromEuler</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">euler<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-euler/">ZEuler</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a></div><br><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/from-euler/"><span class="token function">fromEuler</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">result<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">euler<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-euler/">ZEuler</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Converts Euler angles to quaternion using ZYX (yaw-pitch-roll) convention.</p></div><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/from-euler/"><span class="token function">fromEuler</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">roll<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token punctuation">, </span></span><span class="parameter ">pitch<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token punctuation">, </span></span><span class="parameter ">yaw<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a></div><div class="brief "><p class="paragraph">Creates a new quaternion from Euler angles.</p></div></div></div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-287077807%2FFunctions%2F1558683979" anchor-label="fromMatrix4" id="-287077807%2FFunctions%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+<a data-name="-287077807%2FFunctions%2F1015982541" anchor-label="fromMatrix4" id="-287077807%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/from-matrix4/"><span>from</span><wbr><span><span>Matrix4</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-287077807%2FFunctions%2F1558683979"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-287077807%2FFunctions%2F1015982541"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/from-matrix4/"><span class="token function">fromMatrix4</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">m<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-matrix4/">ZMatrix4</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a></div><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/from-matrix4/"><span class="token function">fromMatrix4</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">result<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">m<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-matrix4/">ZMatrix4</a></span></span><span class="token punctuation">)</span></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/from-matrix4/"><span class="token function">fromMatrix4</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">m<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-matrix4/">ZMatrix4</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a></div><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/from-matrix4/"><span class="token function">fromMatrix4</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">result<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">m<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-matrix4/">ZMatrix4</a></span></span><span class="token punctuation">)</span></div></div></div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="490123052%2FFunctions%2F1558683979" anchor-label="fromVec3" id="490123052%2FFunctions%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+<a data-name="490123052%2FFunctions%2F1015982541" anchor-label="fromVec3" id="490123052%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/from-vec3/"><span>from</span><wbr><span><span>Vec3</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="490123052%2FFunctions%2F1558683979"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="490123052%2FFunctions%2F1015982541"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/from-vec3/"><span class="token function">fromVec3</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">result<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">v<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-vector3/">ZVector3</a></span></span><span class="token punctuation">)</span></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/from-vec3/"><span class="token function">fromVec3</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">result<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">v<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-vector3/">ZVector3</a></span></span><span class="token punctuation">)</span></div></div></div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="2000409186%2FFunctions%2F1558683979" anchor-label="identity" id="2000409186%2FFunctions%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+<a data-name="2000409186%2FFunctions%2F1015982541" anchor-label="identity" id="2000409186%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/identity/"><span><span>identity</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="2000409186%2FFunctions%2F1558683979"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="2000409186%2FFunctions%2F1015982541"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/identity/"><span class="token function">identity</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">result<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a></span></span><span class="token punctuation">)</span></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/identity/"><span class="token function">identity</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">result<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a></span></span><span class="token punctuation">)</span></div></div></div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-33363819%2FFunctions%2F1558683979" anchor-label="invert" id="-33363819%2FFunctions%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+<a data-name="-33363819%2FFunctions%2F1015982541" anchor-label="invert" id="-33363819%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/invert/"><span><span>invert</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-33363819%2FFunctions%2F1558683979"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-33363819%2FFunctions%2F1015982541"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/invert/"><span class="token function">invert</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">result<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">q<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a></span></span><span class="token punctuation">)</span></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/invert/"><span class="token function">invert</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">result<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">q<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a></span></span><span class="token punctuation">)</span></div></div></div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="1047811978%2FFunctions%2F1558683979" anchor-label="mult" id="1047811978%2FFunctions%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+<a data-name="1047811978%2FFunctions%2F1015982541" anchor-label="mult" id="1047811978%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/mult/"><span><span>mult</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1047811978%2FFunctions%2F1558683979"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1047811978%2FFunctions%2F1015982541"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/mult/"><span class="token function">mult</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">result<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">q1<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">q2<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a></span></span><span class="token punctuation">)</span></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/mult/"><span class="token function">mult</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">result<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">q1<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">q2<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a></span></span><span class="token punctuation">)</span></div></div></div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-1588097077%2FFunctions%2F1558683979" anchor-label="multScalar" id="-1588097077%2FFunctions%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+<a data-name="-1588097077%2FFunctions%2F1015982541" anchor-label="multScalar" id="-1588097077%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/mult-scalar/"><span>mult</span><wbr><span><span>Scalar</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1588097077%2FFunctions%2F1558683979"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1588097077%2FFunctions%2F1015982541"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/mult-scalar/"><span class="token function">multScalar</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">result<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">r<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token punctuation">, </span></span><span class="parameter ">q<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a></span></span><span class="token punctuation">)</span></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/mult-scalar/"><span class="token function">multScalar</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">result<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">r<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token punctuation">, </span></span><span class="parameter ">q<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a></span></span><span class="token punctuation">)</span></div></div></div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-322734754%2FFunctions%2F1558683979" anchor-label="normalize" id="-322734754%2FFunctions%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+<a data-name="-322734754%2FFunctions%2F1015982541" anchor-label="normalize" id="-322734754%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/normalize/"><span><span>normalize</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-322734754%2FFunctions%2F1558683979"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-322734754%2FFunctions%2F1015982541"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/normalize/"><span class="token function">normalize</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">result<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">q<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Normalizes the quaternion.</p></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/normalize/"><span class="token function">normalize</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">result<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">q<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Normalizes the quaternion.</p></div></div></div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="1362149283%2FFunctions%2F1558683979" anchor-label="rotate" id="1362149283%2FFunctions%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+<a data-name="1362149283%2FFunctions%2F1015982541" anchor-label="rotate" id="1362149283%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/rotate/"><span><span>rotate</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1362149283%2FFunctions%2F1558683979"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1362149283%2FFunctions%2F1015982541"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/rotate/"><span class="token function">rotate</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">result<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">q<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">angle<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token punctuation">, </span></span><span class="parameter ">axis<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-vector3/">ZVector3</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Rotates a quaternion by a specified angle around a specified axis.</p></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/rotate/"><span class="token function">rotate</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">result<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">q<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">angle<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token punctuation">, </span></span><span class="parameter ">axis<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-vector3/">ZVector3</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Rotates a quaternion by a specified angle around a specified axis.</p></div></div></div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="1329114353%2FFunctions%2F1558683979" anchor-label="slerp" id="1329114353%2FFunctions%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+<a data-name="1329114353%2FFunctions%2F1015982541" anchor-label="slerp" id="1329114353%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/slerp/"><span><span>slerp</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1329114353%2FFunctions%2F1558683979"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1329114353%2FFunctions%2F1015982541"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/slerp/"><span class="token function">slerp</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">t<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token punctuation">, </span></span><span class="parameter ">q1<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">q2<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a></div><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/slerp/"><span class="token function">slerp</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">result<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">t<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token punctuation">, </span></span><span class="parameter ">qa<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">qb<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a></span></span><span class="token punctuation">)</span></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/slerp/"><span class="token function">slerp</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">t<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token punctuation">, </span></span><span class="parameter ">q1<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">q2<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a></div><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/slerp/"><span class="token function">slerp</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">result<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">t<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token punctuation">, </span></span><span class="parameter ">qa<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">qb<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a></span></span><span class="token punctuation">)</span></div></div></div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-1446641682%2FFunctions%2F1558683979" anchor-label="subtract" id="-1446641682%2FFunctions%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+<a data-name="-1446641682%2FFunctions%2F1015982541" anchor-label="subtract" id="-1446641682%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/subtract/"><span><span>subtract</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1446641682%2FFunctions%2F1558683979"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1446641682%2FFunctions%2F1015982541"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/subtract/"><span class="token function">subtract</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">result<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">q1<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">q2<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a></span></span><span class="token punctuation">)</span></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/subtract/"><span class="token function">subtract</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">result<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">q1<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a><span class="token punctuation">, </span></span><span class="parameter ">q2<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a></span></span><span class="token punctuation">)</span></div></div></div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-1310762292%2FFunctions%2F1558683979" anchor-label="zero" id="-1310762292%2FFunctions%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+<a data-name="-1310762292%2FFunctions%2F1015982541" anchor-label="zero" id="-1310762292%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/zero/"><span><span>zero</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1310762292%2FFunctions%2F1558683979"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1310762292%2FFunctions%2F1015982541"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/zero/"><span class="token function">zero</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">result<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a></span></span><span class="token punctuation">)</span></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/zero/"><span class="token function">zero</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">result<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-quaternion/">ZQuaternion</a></span></span><span class="token punctuation">)</span></div></div></div>
                 </div>
               </div>
             </div>
@@ -294,9 +294,9 @@ b:"$Sreact.suspense"
     </div>
   </div>
 </div>
-0:{"buildId":"TWNiPPyaQyI5O5C9VZKgd","rsc":["$","$1","c",{"children":[[false,["$","article",null,{"id":"nd-page","data-full":true,"className":"flex flex-col w-full mx-auto [grid-area:main] px-4 py-6 gap-4 md:px-6 md:pt-8 xl:px-8 xl:pt-14 max-w-[1200px]","children":[["$","$L2",null,{}],["$","div",null,{"className":"prose flex-1 dokka-container","children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}],false],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
-4:["$","$L8",null,{}]
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"full":true,"children":["$","$L3",null,{"className":"dokka-container","children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5"]}]}],["$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"UH87WZr7ecgOYER1sgzrd"}
 5:["$","$L9",null,{}]
-6:["$","script","script-0",{"src":"/_next/static/chunks/6d4c7442ee3701fa.js","async":true}]
-7:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/0b~1-iikzpv-u.js","async":true}]
+7:["$","script","script-1",{"src":"/_next/static/chunks/0xn9bloz_qt67.js","async":true}]
+8:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
 c:null

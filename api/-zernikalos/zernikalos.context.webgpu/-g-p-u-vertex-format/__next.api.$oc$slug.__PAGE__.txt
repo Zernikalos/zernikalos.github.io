@@ -1,783 +1,783 @@
 1:"$Sreact.fragment"
-2:I[914571,["/_next/static/chunks/5587f2d43ac39585.js","/_next/static/chunks/77061c7a1015ca2e.js","/_next/static/chunks/2119eb48d3f80bca.js","/_next/static/chunks/e97d47045d0c478d.js","/_next/static/chunks/ae544453766ef5bf.js","/_next/static/chunks/54d90cb7a91de5a4.js","/_next/static/chunks/6d4c7442ee3701fa.js"],"PageBreadcrumb"]
-8:I[299854,["/_next/static/chunks/5587f2d43ac39585.js","/_next/static/chunks/77061c7a1015ca2e.js","/_next/static/chunks/2119eb48d3f80bca.js","/_next/static/chunks/e97d47045d0c478d.js","/_next/static/chunks/ae544453766ef5bf.js","/_next/static/chunks/54d90cb7a91de5a4.js","/_next/static/chunks/6d4c7442ee3701fa.js"],"default"]
-9:I[914571,["/_next/static/chunks/5587f2d43ac39585.js","/_next/static/chunks/77061c7a1015ca2e.js","/_next/static/chunks/2119eb48d3f80bca.js","/_next/static/chunks/e97d47045d0c478d.js","/_next/static/chunks/ae544453766ef5bf.js","/_next/static/chunks/54d90cb7a91de5a4.js","/_next/static/chunks/6d4c7442ee3701fa.js"],"PageFooter"]
-a:I[249566,["/_next/static/chunks/9110786c46909d7d.js","/_next/static/chunks/2e9c03183f9af1f7.js"],"OutletBoundary"]
+2:I[699413,["/_next/static/chunks/13m3_bt-npzb8.js","/_next/static/chunks/0d3b4qksca1uo.js","/_next/static/chunks/09r0vq9a5if38.js","/_next/static/chunks/09tmzlddgs1y1.js","/_next/static/chunks/13bn21.hx.3.a.js","/_next/static/chunks/13rdi4-5gzwr4.js","/_next/static/chunks/0fdoel-z5wt0a.js","/_next/static/chunks/0b~1-iikzpv-u.js","/_next/static/chunks/0xn9bloz_qt67.js"],"DocsPage"]
+3:I[699413,["/_next/static/chunks/13m3_bt-npzb8.js","/_next/static/chunks/0d3b4qksca1uo.js","/_next/static/chunks/09r0vq9a5if38.js","/_next/static/chunks/09tmzlddgs1y1.js","/_next/static/chunks/13bn21.hx.3.a.js","/_next/static/chunks/13rdi4-5gzwr4.js","/_next/static/chunks/0fdoel-z5wt0a.js","/_next/static/chunks/0b~1-iikzpv-u.js","/_next/static/chunks/0xn9bloz_qt67.js"],"DocsBody"]
+9:I[299854,["/_next/static/chunks/13m3_bt-npzb8.js","/_next/static/chunks/0d3b4qksca1uo.js","/_next/static/chunks/09r0vq9a5if38.js","/_next/static/chunks/09tmzlddgs1y1.js","/_next/static/chunks/13bn21.hx.3.a.js","/_next/static/chunks/13rdi4-5gzwr4.js","/_next/static/chunks/0fdoel-z5wt0a.js","/_next/static/chunks/0b~1-iikzpv-u.js","/_next/static/chunks/0xn9bloz_qt67.js"],"default"]
+a:I[590522,["/_next/static/chunks/13m3_bt-npzb8.js","/_next/static/chunks/0d3b4qksca1uo.js"],"OutletBoundary"]
 b:"$Sreact.suspense"
-3:T13fd2,<div class="main-content" data-page-type="classlike" id="content" pageids="Zernikalos::zernikalos.context.webgpu/GPUVertexFormat///PointingToDeclaration//-1486018803">
+4:T146cb,<div class="main-content" data-page-type="classlike" id="content" pageids="Zernikalos::zernikalos.context.webgpu/GPUVertexFormat///PointingToDeclaration//1163968655">
   <div class="breadcrumbs"><a href="/api/">Zernikalos</a><span class="delimiter">/</span><a href="/api/-zernikalos/zernikalos.context.webgpu/">zernikalos.context.webgpu</a><span class="delimiter">/</span><span class="current">GPUVertexFormat</span></div>
   <div class="cover ">
     <h1 class="cover"><span>GPUVertex</span><wbr><span><span>Format</span></span></h1>
     <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-      <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">object </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/">GPUVertexFormat</a><span class="source-link-wrapper"><span class="source-link" data-element-type="source-link">(<a href="https://github.com/Zernikalos/Zernikalos/blob/v0.8.0/src/webgpuMain/kotlin/zernikalos/context/webgpu/declarations.kt#L803">source</a>)</span></span></div></div>    </div>
+      <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">object </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/">GPUVertexFormat</a><span class="source-link-wrapper"><span class="source-link" data-element-type="source-link">(<a href="https://github.com/Zernikalos/Zernikalos/blob/v0.9.0/engine/src/webgpuMain/kotlin/zernikalos/context/webgpu/declarations.kt#L806">source</a>)</span></span></div></div>    </div>
   </div>
   <div class="tabbedcontent">
     <div class="tabs-section" tabs-section="tabs-section"><button class="section-tab" data-active="" data-togglable="CONSTRUCTOR,TYPE,PROPERTY,FUNCTION">Members</button></div>
     <div class="tabs-section-body">
       <div data-togglable="PROPERTY">
         <h2 class="tableheader">Properties</h2>
-        <div class="table api-cards-grid"><a data-name="-989718234%2FProperties%2F-1486018803" anchor-label="FLOAT16" id="-989718234%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+        <div class="table api-cards-grid"><a data-name="-989718234%2FProperties%2F1163968655" anchor-label="FLOAT16" id="-989718234%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-f-l-o-a-t16/"><span><span>FLOAT16</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-989718234%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-989718234%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-f-l-o-a-t16/">FLOAT16</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-f-l-o-a-t16/">FLOAT16</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-1265999540%2FProperties%2F-1486018803" anchor-label="FLOAT16X2" id="-1265999540%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="-1265999540%2FProperties%2F1163968655" anchor-label="FLOAT16X2" id="-1265999540%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-f-l-o-a-t16-x2/"><span><span>FLOAT16X2</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1265999540%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1265999540%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-f-l-o-a-t16-x2/">FLOAT16X2</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-f-l-o-a-t16-x2/">FLOAT16X2</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-1203959926%2FProperties%2F-1486018803" anchor-label="FLOAT16X4" id="-1203959926%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="-1203959926%2FProperties%2F1163968655" anchor-label="FLOAT16X4" id="-1203959926%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-f-l-o-a-t16-x4/"><span><span>FLOAT16X4</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1203959926%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1203959926%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-f-l-o-a-t16-x4/">FLOAT16X4</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-f-l-o-a-t16-x4/">FLOAT16X4</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="809430572%2FProperties%2F-1486018803" anchor-label="FLOAT32" id="809430572%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="809430572%2FProperties%2F1163968655" anchor-label="FLOAT32" id="809430572%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-f-l-o-a-t32/"><span><span>FLOAT32</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="809430572%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="809430572%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-f-l-o-a-t32/">FLOAT32</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-f-l-o-a-t32/">FLOAT32</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="1139150034%2FProperties%2F-1486018803" anchor-label="FLOAT32X2" id="1139150034%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="1139150034%2FProperties%2F1163968655" anchor-label="FLOAT32X2" id="1139150034%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-f-l-o-a-t32-x2/"><span><span>FLOAT32X2</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1139150034%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1139150034%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-f-l-o-a-t32-x2/">FLOAT32X2</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-f-l-o-a-t32-x2/">FLOAT32X2</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="1170169841%2FProperties%2F-1486018803" anchor-label="FLOAT32X3" id="1170169841%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="1170169841%2FProperties%2F1163968655" anchor-label="FLOAT32X3" id="1170169841%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-f-l-o-a-t32-x3/"><span><span>FLOAT32X3</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1170169841%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1170169841%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-f-l-o-a-t32-x3/">FLOAT32X3</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-f-l-o-a-t32-x3/">FLOAT32X3</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="1201189648%2FProperties%2F-1486018803" anchor-label="FLOAT32X4" id="1201189648%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="1201189648%2FProperties%2F1163968655" anchor-label="FLOAT32X4" id="1201189648%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-f-l-o-a-t32-x4/"><span><span>FLOAT32X4</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1201189648%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1201189648%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-f-l-o-a-t32-x4/">FLOAT32X4</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-f-l-o-a-t32-x4/">FLOAT32X4</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-538655059%2FProperties%2F-1486018803" anchor-label="FLOAT64" id="-538655059%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="-538655059%2FProperties%2F1163968655" anchor-label="FLOAT64" id="-538655059%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-f-l-o-a-t64/"><span><span>FLOAT64</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-538655059%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-538655059%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-f-l-o-a-t64/">FLOAT64</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-f-l-o-a-t64/">FLOAT64</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-1585985261%2FProperties%2F-1486018803" anchor-label="FLOAT64X2" id="-1585985261%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="-1585985261%2FProperties%2F1163968655" anchor-label="FLOAT64X2" id="-1585985261%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-f-l-o-a-t64-x2/"><span><span>FLOAT64X2</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1585985261%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1585985261%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-f-l-o-a-t64-x2/">FLOAT64X2</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-f-l-o-a-t64-x2/">FLOAT64X2</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-1554965454%2FProperties%2F-1486018803" anchor-label="FLOAT64X3" id="-1554965454%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="-1554965454%2FProperties%2F1163968655" anchor-label="FLOAT64X3" id="-1554965454%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-f-l-o-a-t64-x3/"><span><span>FLOAT64X3</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1554965454%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1554965454%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-f-l-o-a-t64-x3/">FLOAT64X3</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-f-l-o-a-t64-x3/">FLOAT64X3</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-1523945647%2FProperties%2F-1486018803" anchor-label="FLOAT64X4" id="-1523945647%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="-1523945647%2FProperties%2F1163968655" anchor-label="FLOAT64X4" id="-1523945647%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-f-l-o-a-t64-x4/"><span><span>FLOAT64X4</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1523945647%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1523945647%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-f-l-o-a-t64-x4/">FLOAT64X4</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-f-l-o-a-t64-x4/">FLOAT64X4</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="1631405106%2FProperties%2F-1486018803" anchor-label="SINT16" id="1631405106%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="1631405106%2FProperties%2F1163968655" anchor-label="SINT16" id="1631405106%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-i-n-t16/"><span><span>SINT16</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1631405106%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1631405106%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-i-n-t16/">SINT16</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-i-n-t16/">SINT16</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="782694744%2FProperties%2F-1486018803" anchor-label="SINT16X2" id="782694744%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="782694744%2FProperties%2F1163968655" anchor-label="SINT16X2" id="782694744%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-i-n-t16-x2/"><span><span>SINT16X2</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="782694744%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="782694744%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-i-n-t16-x2/">SINT16X2</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-i-n-t16-x2/">SINT16X2</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="844734358%2FProperties%2F-1486018803" anchor-label="SINT16X4" id="844734358%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="844734358%2FProperties%2F1163968655" anchor-label="SINT16X4" id="844734358%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-i-n-t16-x4/"><span><span>SINT16X4</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="844734358%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="844734358%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-i-n-t16-x4/">SINT16X4</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-i-n-t16-x4/">SINT16X4</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-864413384%2FProperties%2F-1486018803" anchor-label="SINT32" id="-864413384%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="-864413384%2FProperties%2F1163968655" anchor-label="SINT32" id="-864413384%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-i-n-t32/"><span><span>SINT32</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-864413384%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-864413384%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-i-n-t32/">SINT32</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-i-n-t32/">SINT32</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-1107122978%2FProperties%2F-1486018803" anchor-label="SINT32X2" id="-1107122978%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="-1107122978%2FProperties%2F1163968655" anchor-label="SINT32X2" id="-1107122978%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-i-n-t32-x2/"><span><span>SINT32X2</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1107122978%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1107122978%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-i-n-t32-x2/">SINT32X2</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-i-n-t32-x2/">SINT32X2</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-1076103171%2FProperties%2F-1486018803" anchor-label="SINT32X3" id="-1076103171%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="-1076103171%2FProperties%2F1163968655" anchor-label="SINT32X3" id="-1076103171%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-i-n-t32-x3/"><span><span>SINT32X3</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1076103171%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1076103171%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-i-n-t32-x3/">SINT32X3</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-i-n-t32-x3/">SINT32X3</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-1045083364%2FProperties%2F-1486018803" anchor-label="SINT32X4" id="-1045083364%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="-1045083364%2FProperties%2F1163968655" anchor-label="SINT32X4" id="-1045083364%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-i-n-t32-x4/"><span><span>SINT32X4</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1045083364%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1045083364%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-i-n-t32-x4/">SINT32X4</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-i-n-t32-x4/">SINT32X4</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="141731915%2FProperties%2F-1486018803" anchor-label="SINT8" id="141731915%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="141731915%2FProperties%2F1163968655" anchor-label="SINT8" id="141731915%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-i-n-t8/"><span><span>SINT8</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="141731915%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="141731915%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-i-n-t8/">SINT8</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-i-n-t8/">SINT8</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-569132239%2FProperties%2F-1486018803" anchor-label="SINT8X2" id="-569132239%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="-569132239%2FProperties%2F1163968655" anchor-label="SINT8X2" id="-569132239%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-i-n-t8-x2/"><span><span>SINT8X2</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-569132239%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-569132239%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-i-n-t8-x2/">SINT8X2</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-i-n-t8-x2/">SINT8X2</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-507092625%2FProperties%2F-1486018803" anchor-label="SINT8X4" id="-507092625%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="-507092625%2FProperties%2F1163968655" anchor-label="SINT8X4" id="-507092625%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-i-n-t8-x4/"><span><span>SINT8X4</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-507092625%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-507092625%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-i-n-t8-x4/">SINT8X4</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-i-n-t8-x4/">SINT8X4</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="31318259%2FProperties%2F-1486018803" anchor-label="SNORM16" id="31318259%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="31318259%2FProperties%2F1163968655" anchor-label="SNORM16" id="31318259%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-n-o-r-m16/"><span><span>SNORM16</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="31318259%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="31318259%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-n-o-r-m16/">SNORM16</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-n-o-r-m16/">SNORM16</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="697526745%2FProperties%2F-1486018803" anchor-label="SNORM16X2" id="697526745%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="697526745%2FProperties%2F1163968655" anchor-label="SNORM16X2" id="697526745%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-n-o-r-m16-x2/"><span><span>SNORM16X2</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="697526745%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="697526745%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-n-o-r-m16-x2/">SNORM16X2</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-n-o-r-m16-x2/">SNORM16X2</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="759566359%2FProperties%2F-1486018803" anchor-label="SNORM16X4" id="759566359%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="759566359%2FProperties%2F1163968655" anchor-label="SNORM16X4" id="759566359%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-n-o-r-m16-x4/"><span><span>SNORM16X4</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="759566359%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="759566359%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-n-o-r-m16-x4/">SNORM16X4</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-n-o-r-m16-x4/">SNORM16X4</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-186978454%2FProperties%2F-1486018803" anchor-label="SNORM8" id="-186978454%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="-186978454%2FProperties%2F1163968655" anchor-label="SNORM8" id="-186978454%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-n-o-r-m8/"><span><span>SNORM8</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-186978454%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-186978454%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-n-o-r-m8/">SNORM8</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-n-o-r-m8/">SNORM8</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="1367783056%2FProperties%2F-1486018803" anchor-label="SNORM8X2" id="1367783056%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="1367783056%2FProperties%2F1163968655" anchor-label="SNORM8X2" id="1367783056%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-n-o-r-m8-x2/"><span><span>SNORM8X2</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1367783056%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1367783056%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-n-o-r-m8-x2/">SNORM8X2</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-n-o-r-m8-x2/">SNORM8X2</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="1429822670%2FProperties%2F-1486018803" anchor-label="SNORM8X4" id="1429822670%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="1429822670%2FProperties%2F1163968655" anchor-label="SNORM8X4" id="1429822670%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-n-o-r-m8-x4/"><span><span>SNORM8X4</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1429822670%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1429822670%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-n-o-r-m8-x4/">SNORM8X4</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-s-n-o-r-m8-x4/">SNORM8X4</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-1961962316%2FProperties%2F-1486018803" anchor-label="UINT16" id="-1961962316%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="-1961962316%2FProperties%2F1163968655" anchor-label="UINT16" id="-1961962316%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-i-n-t16/"><span><span>UINT16</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1961962316%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1961962316%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-i-n-t16/">UINT16</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-i-n-t16/">UINT16</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="710308186%2FProperties%2F-1486018803" anchor-label="UINT16X2" id="710308186%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="710308186%2FProperties%2F1163968655" anchor-label="UINT16X2" id="710308186%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-i-n-t16-x2/"><span><span>UINT16X2</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="710308186%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="710308186%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-i-n-t16-x2/">UINT16X2</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-i-n-t16-x2/">UINT16X2</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="772347800%2FProperties%2F-1486018803" anchor-label="UINT16X4" id="772347800%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="772347800%2FProperties%2F1163968655" anchor-label="UINT16X4" id="772347800%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-i-n-t16-x4/"><span><span>UINT16X4</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="772347800%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="772347800%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-i-n-t16-x4/">UINT16X4</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-i-n-t16-x4/">UINT16X4</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-162813510%2FProperties%2F-1486018803" anchor-label="UINT32" id="-162813510%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="-162813510%2FProperties%2F1163968655" anchor-label="UINT32" id="-162813510%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-i-n-t32/"><span><span>UINT32</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-162813510%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-162813510%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-i-n-t32/">UINT32</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-i-n-t32/">UINT32</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-1179509536%2FProperties%2F-1486018803" anchor-label="UINT32X2" id="-1179509536%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="-1179509536%2FProperties%2F1163968655" anchor-label="UINT32X2" id="-1179509536%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-i-n-t32-x2/"><span><span>UINT32X2</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1179509536%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1179509536%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-i-n-t32-x2/">UINT32X2</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-i-n-t32-x2/">UINT32X2</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-1148489729%2FProperties%2F-1486018803" anchor-label="UINT32X3" id="-1148489729%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="-1148489729%2FProperties%2F1163968655" anchor-label="UINT32X3" id="-1148489729%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-i-n-t32-x3/"><span><span>UINT32X3</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1148489729%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1148489729%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-i-n-t32-x3/">UINT32X3</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-i-n-t32-x3/">UINT32X3</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-1117469922%2FProperties%2F-1486018803" anchor-label="UINT32X4" id="-1117469922%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="-1117469922%2FProperties%2F1163968655" anchor-label="UINT32X4" id="-1117469922%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-i-n-t32-x4/"><span><span>UINT32X4</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1117469922%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1117469922%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-i-n-t32-x4/">UINT32X4</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-i-n-t32-x4/">UINT32X4</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="164364169%2FProperties%2F-1486018803" anchor-label="UINT8" id="164364169%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="164364169%2FProperties%2F1163968655" anchor-label="UINT8" id="164364169%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-i-n-t8/"><span><span>UINT8</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="164364169%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="164364169%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-i-n-t8/">UINT8</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-i-n-t8/">UINT8</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-294372625%2FProperties%2F-1486018803" anchor-label="UINT8X2" id="-294372625%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="-294372625%2FProperties%2F1163968655" anchor-label="UINT8X2" id="-294372625%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-i-n-t8-x2/"><span><span>UINT8X2</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-294372625%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-294372625%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-i-n-t8-x2/">UINT8X2</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-i-n-t8-x2/">UINT8X2</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-232333011%2FProperties%2F-1486018803" anchor-label="UINT8X4" id="-232333011%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="-232333011%2FProperties%2F1163968655" anchor-label="UINT8X4" id="-232333011%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-i-n-t8-x4/"><span><span>UINT8X4</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-232333011%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-232333011%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-i-n-t8-x4/">UINT8X4</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-i-n-t8-x4/">UINT8X4</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="289759332%2FProperties%2F-1486018803" anchor-label="UNORM10_10_10_2" id="289759332%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="289759332%2FProperties%2F1163968655" anchor-label="UNORM10_10_10_2" id="289759332%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-n-o-r-m10_10_10_2/"><span>UNORM10_</span><wbr><span>10_</span><wbr><span>10_</span><wbr><span>2</span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="289759332%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="289759332%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-n-o-r-m10_10_10_2/">UNORM10_10_10_2</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-n-o-r-m10_10_10_2/">UNORM10_10_10_2</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="306077873%2FProperties%2F-1486018803" anchor-label="UNORM16" id="306077873%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="306077873%2FProperties%2F1163968655" anchor-label="UNORM16" id="306077873%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-n-o-r-m16/"><span><span>UNORM16</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="306077873%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="306077873%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-n-o-r-m16/">UNORM16</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-n-o-r-m16/">UNORM16</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-1546456553%2FProperties%2F-1486018803" anchor-label="UNORM16X2" id="-1546456553%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="-1546456553%2FProperties%2F1163968655" anchor-label="UNORM16X2" id="-1546456553%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-n-o-r-m16-x2/"><span><span>UNORM16X2</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1546456553%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1546456553%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-n-o-r-m16-x2/">UNORM16X2</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-n-o-r-m16-x2/">UNORM16X2</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-1484416939%2FProperties%2F-1486018803" anchor-label="UNORM16X4" id="-1484416939%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="-1484416939%2FProperties%2F1163968655" anchor-label="UNORM16X4" id="-1484416939%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-n-o-r-m16-x4/"><span><span>UNORM16X4</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1484416939%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1484416939%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-n-o-r-m16-x4/">UNORM16X4</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-n-o-r-m16-x4/">UNORM16X4</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="514621420%2FProperties%2F-1486018803" anchor-label="UNORM8" id="514621420%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="514621420%2FProperties%2F1163968655" anchor-label="UNORM8" id="514621420%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-n-o-r-m8/"><span><span>UNORM8</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="514621420%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="514621420%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-n-o-r-m8/">UNORM8</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-n-o-r-m8/">UNORM8</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="1295396498%2FProperties%2F-1486018803" anchor-label="UNORM8X2" id="1295396498%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="1295396498%2FProperties%2F1163968655" anchor-label="UNORM8X2" id="1295396498%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-n-o-r-m8-x2/"><span><span>UNORM8X2</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1295396498%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1295396498%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-n-o-r-m8-x2/">UNORM8X2</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-n-o-r-m8-x2/">UNORM8X2</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="1357436112%2FProperties%2F-1486018803" anchor-label="UNORM8X4" id="1357436112%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="1357436112%2FProperties%2F1163968655" anchor-label="UNORM8X4" id="1357436112%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-n-o-r-m8-x4/"><span><span>UNORM8X4</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1357436112%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1357436112%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-n-o-r-m8-x4/">UNORM8X4</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-n-o-r-m8-x4/">UNORM8X4</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="2014594007%2FProperties%2F-1486018803" anchor-label="UNORM8X4_BGRA" id="2014594007%2FProperties%2F-1486018803" data-filterable-set=":/webgpuMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain">
+<a data-name="2014594007%2FProperties%2F1163968655" anchor-label="UNORM8X4_BGRA" id="2014594007%2FProperties%2F1163968655" data-filterable-set=":engine/webgpuMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-n-o-r-m8-x4_-b-g-r-a/"><span>UNORM8X4_</span><wbr><span>BGRA</span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="2014594007%2FProperties%2F-1486018803"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="2014594007%2FProperties%2F1163968655"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
-                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":/webgpuMain" data-filterable-set=":/webgpuMain" data-active="" data-toggle=":/webgpuMain">WebGPU</button></div>
-<div class="content sourceset-dependent-content" data-active="" data-togglable=":/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-n-o-r-m8-x4_-b-g-r-a/">UNORM8X4_BGRA</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
+                    <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/webgpuMain" data-filterable-set=":engine/webgpuMain" data-active="" data-toggle=":engine/webgpuMain">WebGPU</button></div>
+<div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/webgpuMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.context.webgpu/-g-p-u-vertex-format/-u-n-o-r-m8-x4_-b-g-r-a/">UNORM8X4_BGRA</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div></div>                  </div>
                 </div>
               </div>
             </div>
@@ -787,9 +787,9 @@ b:"$Sreact.suspense"
     </div>
   </div>
 </div>
-0:{"buildId":"TWNiPPyaQyI5O5C9VZKgd","rsc":["$","$1","c",{"children":[[false,["$","article",null,{"id":"nd-page","data-full":true,"className":"flex flex-col w-full mx-auto [grid-area:main] px-4 py-6 gap-4 md:px-6 md:pt-8 xl:px-8 xl:pt-14 max-w-[1200px]","children":[["$","$L2",null,{}],["$","div",null,{"className":"prose flex-1 dokka-container","children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}],false],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
-4:["$","$L8",null,{}]
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"full":true,"children":["$","$L3",null,{"className":"dokka-container","children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5"]}]}],["$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"UH87WZr7ecgOYER1sgzrd"}
 5:["$","$L9",null,{}]
-6:["$","script","script-0",{"src":"/_next/static/chunks/6d4c7442ee3701fa.js","async":true}]
-7:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/0b~1-iikzpv-u.js","async":true}]
+7:["$","script","script-1",{"src":"/_next/static/chunks/0xn9bloz_qt67.js","async":true}]
+8:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
 c:null

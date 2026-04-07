@@ -1,286 +1,121 @@
 1:"$Sreact.fragment"
-2:I[914571,["/_next/static/chunks/5587f2d43ac39585.js","/_next/static/chunks/77061c7a1015ca2e.js","/_next/static/chunks/2119eb48d3f80bca.js","/_next/static/chunks/e97d47045d0c478d.js","/_next/static/chunks/ae544453766ef5bf.js","/_next/static/chunks/54d90cb7a91de5a4.js","/_next/static/chunks/6d4c7442ee3701fa.js"],"PageBreadcrumb"]
-8:I[299854,["/_next/static/chunks/5587f2d43ac39585.js","/_next/static/chunks/77061c7a1015ca2e.js","/_next/static/chunks/2119eb48d3f80bca.js","/_next/static/chunks/e97d47045d0c478d.js","/_next/static/chunks/ae544453766ef5bf.js","/_next/static/chunks/54d90cb7a91de5a4.js","/_next/static/chunks/6d4c7442ee3701fa.js"],"default"]
-9:I[914571,["/_next/static/chunks/5587f2d43ac39585.js","/_next/static/chunks/77061c7a1015ca2e.js","/_next/static/chunks/2119eb48d3f80bca.js","/_next/static/chunks/e97d47045d0c478d.js","/_next/static/chunks/ae544453766ef5bf.js","/_next/static/chunks/54d90cb7a91de5a4.js","/_next/static/chunks/6d4c7442ee3701fa.js"],"PageFooter"]
-a:I[249566,["/_next/static/chunks/9110786c46909d7d.js","/_next/static/chunks/2e9c03183f9af1f7.js"],"OutletBoundary"]
+2:I[699413,["/_next/static/chunks/13m3_bt-npzb8.js","/_next/static/chunks/0d3b4qksca1uo.js","/_next/static/chunks/09r0vq9a5if38.js","/_next/static/chunks/09tmzlddgs1y1.js","/_next/static/chunks/13bn21.hx.3.a.js","/_next/static/chunks/13rdi4-5gzwr4.js","/_next/static/chunks/0fdoel-z5wt0a.js","/_next/static/chunks/0b~1-iikzpv-u.js","/_next/static/chunks/0xn9bloz_qt67.js"],"DocsPage"]
+3:I[699413,["/_next/static/chunks/13m3_bt-npzb8.js","/_next/static/chunks/0d3b4qksca1uo.js","/_next/static/chunks/09r0vq9a5if38.js","/_next/static/chunks/09tmzlddgs1y1.js","/_next/static/chunks/13bn21.hx.3.a.js","/_next/static/chunks/13rdi4-5gzwr4.js","/_next/static/chunks/0fdoel-z5wt0a.js","/_next/static/chunks/0b~1-iikzpv-u.js","/_next/static/chunks/0xn9bloz_qt67.js"],"DocsBody"]
+9:I[299854,["/_next/static/chunks/13m3_bt-npzb8.js","/_next/static/chunks/0d3b4qksca1uo.js","/_next/static/chunks/09r0vq9a5if38.js","/_next/static/chunks/09tmzlddgs1y1.js","/_next/static/chunks/13bn21.hx.3.a.js","/_next/static/chunks/13rdi4-5gzwr4.js","/_next/static/chunks/0fdoel-z5wt0a.js","/_next/static/chunks/0b~1-iikzpv-u.js","/_next/static/chunks/0xn9bloz_qt67.js"],"default"]
+a:I[590522,["/_next/static/chunks/13m3_bt-npzb8.js","/_next/static/chunks/0d3b4qksca1uo.js"],"OutletBoundary"]
 b:"$Sreact.suspense"
-3:T7ae4,<div class="main-content" data-page-type="classlike" id="content" pageids="Zernikalos::zernikalos.components.shader/UNIFORM_IDS///PointingToDeclaration//1558683979">
+4:T31f1,<div class="main-content" data-page-type="classlike" id="content" pageids="Zernikalos::zernikalos.components.shader/UNIFORM_IDS///PointingToDeclaration//1015982541">
   <div class="breadcrumbs"><a href="/api/">Zernikalos</a><span class="delimiter">/</span><a href="/api/-zernikalos/zernikalos.components.shader/">zernikalos.components.shader</a><span class="delimiter">/</span><span class="current">UNIFORM_IDS</span></div>
   <div class="cover ">
     <h1 class="cover"><span>UNIFORM_</span><wbr><span>IDS</span></h1>
-    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">object </span><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/">UNIFORM_IDS</a><span class="source-link-wrapper"><span class="source-link" data-element-type="source-link">(<a href="https://github.com/Zernikalos/Zernikalos/blob/v0.8.0/src/commonMain/kotlin/zernikalos/components/shader/ZUniformDescriptor.kt#L34">source</a>)</span></span></div></div></div>
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">object </span><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/">UNIFORM_IDS</a><span class="source-link-wrapper"><span class="source-link" data-element-type="source-link">(<a href="https://github.com/Zernikalos/Zernikalos/blob/v0.9.0/engine/src/commonMain/kotlin/zernikalos/components/shader/ZUniformDescriptor.kt#L62">source</a>)</span></span></div></div></div>
   </div>
   <div class="tabbedcontent">
     <div class="tabs-section" tabs-section="tabs-section"><button class="section-tab" data-active="" data-togglable="CONSTRUCTOR,TYPE,PROPERTY,FUNCTION">Members</button></div>
     <div class="tabs-section-body">
       <div data-togglable="PROPERTY">
         <h2 class="tableheader">Properties</h2>
-        <div class="table api-cards-grid"><a data-name="-1486200645%2FProperties%2F1558683979" anchor-label="BLOCK_PBR_MATERIAL" id="-1486200645%2FProperties%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+        <div class="table api-cards-grid"><a data-name="-907584886%2FProperties%2F1015982541" anchor-label="BLOCK_AMBIENT_LIGHT" id="-907584886%2FProperties%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-b-l-o-c-k_-a-m-b-i-e-n-t_-l-i-g-h-t/"><span>BLOCK_</span><wbr><span>AMBIENT_</span><wbr><span>LIGHT</span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-907584886%2FProperties%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-b-l-o-c-k_-a-m-b-i-e-n-t_-l-i-g-h-t/">BLOCK_AMBIENT_LIGHT</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1733725213%2FProperties%2F1015982541" anchor-label="BLOCK_LIGHT" id="-1733725213%2FProperties%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-b-l-o-c-k_-l-i-g-h-t/"><span>BLOCK_</span><wbr><span>LIGHT</span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1733725213%2FProperties%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-b-l-o-c-k_-l-i-g-h-t/">BLOCK_LIGHT</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-96608416%2FProperties%2F1015982541" anchor-label="BLOCK_MODEL_SKINNING_MATRIX" id="-96608416%2FProperties%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-b-l-o-c-k_-m-o-d-e-l_-s-k-i-n-n-i-n-g_-m-a-t-r-i-x/"><span>BLOCK_</span><wbr><span>MODEL_</span><wbr><span>SKINNING_</span><wbr><span>MATRIX</span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-96608416%2FProperties%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-b-l-o-c-k_-m-o-d-e-l_-s-k-i-n-n-i-n-g_-m-a-t-r-i-x/">BLOCK_MODEL_SKINNING_MATRIX</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1486200645%2FProperties%2F1015982541" anchor-label="BLOCK_PBR_MATERIAL" id="-1486200645%2FProperties%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-b-l-o-c-k_-p-b-r_-m-a-t-e-r-i-a-l/"><span>BLOCK_</span><wbr><span>PBR_</span><wbr><span>MATERIAL</span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1486200645%2FProperties%2F1558683979"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1486200645%2FProperties%2F1015982541"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">const </span><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-b-l-o-c-k_-p-b-r_-m-a-t-e-r-i-a-l/">BLOCK_PBR_MATERIAL</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token operator"> = </span><span class="token constant">16</span></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-b-l-o-c-k_-p-b-r_-m-a-t-e-r-i-a-l/">BLOCK_PBR_MATERIAL</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></div></div></div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="1048956011%2FProperties%2F1558683979" anchor-label="BLOCK_PHONG_MATERIAL" id="1048956011%2FProperties%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+<a data-name="1048956011%2FProperties%2F1015982541" anchor-label="BLOCK_PHONG_MATERIAL" id="1048956011%2FProperties%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-b-l-o-c-k_-p-h-o-n-g_-m-a-t-e-r-i-a-l/"><span>BLOCK_</span><wbr><span>PHONG_</span><wbr><span>MATERIAL</span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1048956011%2FProperties%2F1558683979"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1048956011%2FProperties%2F1015982541"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">const </span><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-b-l-o-c-k_-p-h-o-n-g_-m-a-t-e-r-i-a-l/">BLOCK_PHONG_MATERIAL</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token operator"> = </span><span class="token constant">17</span></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-b-l-o-c-k_-p-h-o-n-g_-m-a-t-e-r-i-a-l/">BLOCK_PHONG_MATERIAL</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></div></div></div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="722353005%2FProperties%2F1558683979" anchor-label="BLOCK_SCENE_MATRIX" id="722353005%2FProperties%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+<a data-name="722353005%2FProperties%2F1015982541" anchor-label="BLOCK_SCENE_MATRIX" id="722353005%2FProperties%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-b-l-o-c-k_-s-c-e-n-e_-m-a-t-r-i-x/"><span>BLOCK_</span><wbr><span>SCENE_</span><wbr><span>MATRIX</span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="722353005%2FProperties%2F1558683979"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="722353005%2FProperties%2F1015982541"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">const </span><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-b-l-o-c-k_-s-c-e-n-e_-m-a-t-r-i-x/">BLOCK_SCENE_MATRIX</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token operator"> = </span><span class="token constant">14</span></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-b-l-o-c-k_-s-c-e-n-e_-m-a-t-r-i-x/">BLOCK_SCENE_MATRIX</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></div></div></div>
                 </div>
               </div>
             </div>
           </div>
-<a data-name="-342416406%2FProperties%2F1558683979" anchor-label="BLOCK_SKINNING_MATRIX" id="-342416406%2FProperties%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
+<a data-name="-342416406%2FProperties%2F1015982541" anchor-label="BLOCK_SKINNING_MATRIX" id="-342416406%2FProperties%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-b-l-o-c-k_-s-k-i-n-n-i-n-g_-m-a-t-r-i-x/"><span>BLOCK_</span><wbr><span>SKINNING_</span><wbr><span>MATRIX</span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-342416406%2FProperties%2F1558683979"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-342416406%2FProperties%2F1015982541"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">const </span><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-b-l-o-c-k_-s-k-i-n-n-i-n-g_-m-a-t-r-i-x/">BLOCK_SKINNING_MATRIX</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token operator"> = </span><span class="token constant">15</span></div></div></div>
-                </div>
-              </div>
-            </div>
-          </div>
-<a data-name="2022150744%2FProperties%2F1558683979" anchor-label="BONES" id="2022150744%2FProperties%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
-            <div class="main-subrow keyValue ">
-              <div class=""><span class="inline-flex">
-                  <div><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-b-o-n-e-s/"><span><span>BONES</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="2022150744%2FProperties%2F1558683979"></span>
-                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
-                  </span></span></div>
-              <div>
-                <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">const </span><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-b-o-n-e-s/">BONES</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token operator"> = </span><span class="token constant">5</span></div></div></div>
-                </div>
-              </div>
-            </div>
-          </div>
-<a data-name="148736819%2FProperties%2F1558683979" anchor-label="INVERSE_BIND_MATRIX" id="148736819%2FProperties%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
-            <div class="main-subrow keyValue ">
-              <div class=""><span class="inline-flex">
-                  <div><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-i-n-v-e-r-s-e_-b-i-n-d_-m-a-t-r-i-x/"><span>INVERSE_</span><wbr><span>BIND_</span><wbr><span>MATRIX</span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="148736819%2FProperties%2F1558683979"></span>
-                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
-                  </span></span></div>
-              <div>
-                <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">const </span><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-i-n-v-e-r-s-e_-b-i-n-d_-m-a-t-r-i-x/">INVERSE_BIND_MATRIX</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token operator"> = </span><span class="token constant">6</span></div></div></div>
-                </div>
-              </div>
-            </div>
-          </div>
-<a data-name="-1960687418%2FProperties%2F1558683979" anchor-label="MODEL_VIEW_PROJECTION_MATRIX" id="-1960687418%2FProperties%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
-            <div class="main-subrow keyValue ">
-              <div class=""><span class="inline-flex">
-                  <div><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-m-o-d-e-l_-v-i-e-w_-p-r-o-j-e-c-t-i-o-n_-m-a-t-r-i-x/"><span>MODEL_</span><wbr><span>VIEW_</span><wbr><span>PROJECTION_</span><wbr><span>MATRIX</span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1960687418%2FProperties%2F1558683979"></span>
-                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
-                  </span></span></div>
-              <div>
-                <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">const </span><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-m-o-d-e-l_-v-i-e-w_-p-r-o-j-e-c-t-i-o-n_-m-a-t-r-i-x/">MODEL_VIEW_PROJECTION_MATRIX</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token operator"> = </span><span class="token constant">2</span></div></div></div>
-                </div>
-              </div>
-            </div>
-          </div>
-<a data-name="1512183331%2FProperties%2F1558683979" anchor-label="PBR_COLOR" id="1512183331%2FProperties%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
-            <div class="main-subrow keyValue ">
-              <div class=""><span class="inline-flex">
-                  <div><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-p-b-r_-c-o-l-o-r/"><span>PBR_</span><wbr><span>COLOR</span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1512183331%2FProperties%2F1558683979"></span>
-                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
-                  </span></span></div>
-              <div>
-                <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">const </span><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-p-b-r_-c-o-l-o-r/">PBR_COLOR</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token operator"> = </span><span class="token constant">7</span></div></div></div>
-                </div>
-              </div>
-            </div>
-          </div>
-<a data-name="-2041600931%2FProperties%2F1558683979" anchor-label="PBR_EMISSIVE" id="-2041600931%2FProperties%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
-            <div class="main-subrow keyValue ">
-              <div class=""><span class="inline-flex">
-                  <div><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-p-b-r_-e-m-i-s-s-i-v-e/"><span>PBR_</span><wbr><span>EMISSIVE</span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-2041600931%2FProperties%2F1558683979"></span>
-                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
-                  </span></span></div>
-              <div>
-                <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">const </span><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-p-b-r_-e-m-i-s-s-i-v-e/">PBR_EMISSIVE</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token operator"> = </span><span class="token constant">7</span></div></div></div>
-                </div>
-              </div>
-            </div>
-          </div>
-<a data-name="1515292745%2FProperties%2F1558683979" anchor-label="PBR_EMISSIVE_INTENSITY" id="1515292745%2FProperties%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
-            <div class="main-subrow keyValue ">
-              <div class=""><span class="inline-flex">
-                  <div><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-p-b-r_-e-m-i-s-s-i-v-e_-i-n-t-e-n-s-i-t-y/"><span>PBR_</span><wbr><span>EMISSIVE_</span><wbr><span>INTENSITY</span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1515292745%2FProperties%2F1558683979"></span>
-                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
-                  </span></span></div>
-              <div>
-                <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">const </span><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-p-b-r_-e-m-i-s-s-i-v-e_-i-n-t-e-n-s-i-t-y/">PBR_EMISSIVE_INTENSITY</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token operator"> = </span><span class="token constant">8</span></div></div></div>
-                </div>
-              </div>
-            </div>
-          </div>
-<a data-name="-1339111544%2FProperties%2F1558683979" anchor-label="PBR_METALNESS" id="-1339111544%2FProperties%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
-            <div class="main-subrow keyValue ">
-              <div class=""><span class="inline-flex">
-                  <div><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-p-b-r_-m-e-t-a-l-n-e-s-s/"><span>PBR_</span><wbr><span>METALNESS</span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1339111544%2FProperties%2F1558683979"></span>
-                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
-                  </span></span></div>
-              <div>
-                <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">const </span><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-p-b-r_-m-e-t-a-l-n-e-s-s/">PBR_METALNESS</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token operator"> = </span><span class="token constant">8</span></div></div></div>
-                </div>
-              </div>
-            </div>
-          </div>
-<a data-name="-819120362%2FProperties%2F1558683979" anchor-label="PBR_ROUGHNESS" id="-819120362%2FProperties%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
-            <div class="main-subrow keyValue ">
-              <div class=""><span class="inline-flex">
-                  <div><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-p-b-r_-r-o-u-g-h-n-e-s-s/"><span>PBR_</span><wbr><span>ROUGHNESS</span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-819120362%2FProperties%2F1558683979"></span>
-                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
-                  </span></span></div>
-              <div>
-                <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">const </span><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-p-b-r_-r-o-u-g-h-n-e-s-s/">PBR_ROUGHNESS</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token operator"> = </span><span class="token constant">9</span></div></div></div>
-                </div>
-              </div>
-            </div>
-          </div>
-<a data-name="997216542%2FProperties%2F1558683979" anchor-label="PHONG_AMBIENT" id="997216542%2FProperties%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
-            <div class="main-subrow keyValue ">
-              <div class=""><span class="inline-flex">
-                  <div><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-p-h-o-n-g_-a-m-b-i-e-n-t/"><span>PHONG_</span><wbr><span>AMBIENT</span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="997216542%2FProperties%2F1558683979"></span>
-                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
-                  </span></span></div>
-              <div>
-                <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">const </span><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-p-h-o-n-g_-a-m-b-i-e-n-t/">PHONG_AMBIENT</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token operator"> = </span><span class="token constant">10</span></div></div></div>
-                </div>
-              </div>
-            </div>
-          </div>
-<a data-name="386587540%2FProperties%2F1558683979" anchor-label="PHONG_DIFFUSE" id="386587540%2FProperties%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
-            <div class="main-subrow keyValue ">
-              <div class=""><span class="inline-flex">
-                  <div><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-p-h-o-n-g_-d-i-f-f-u-s-e/"><span>PHONG_</span><wbr><span>DIFFUSE</span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="386587540%2FProperties%2F1558683979"></span>
-                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
-                  </span></span></div>
-              <div>
-                <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">const </span><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-p-h-o-n-g_-d-i-f-f-u-s-e/">PHONG_DIFFUSE</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token operator"> = </span><span class="token constant">11</span></div></div></div>
-                </div>
-              </div>
-            </div>
-          </div>
-<a data-name="1175381232%2FProperties%2F1558683979" anchor-label="PHONG_SHININESS" id="1175381232%2FProperties%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
-            <div class="main-subrow keyValue ">
-              <div class=""><span class="inline-flex">
-                  <div><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-p-h-o-n-g_-s-h-i-n-i-n-e-s-s/"><span>PHONG_</span><wbr><span>SHININESS</span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1175381232%2FProperties%2F1558683979"></span>
-                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
-                  </span></span></div>
-              <div>
-                <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">const </span><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-p-h-o-n-g_-s-h-i-n-i-n-e-s-s/">PHONG_SHININESS</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token operator"> = </span><span class="token constant">13</span></div></div></div>
-                </div>
-              </div>
-            </div>
-          </div>
-<a data-name="1907591201%2FProperties%2F1558683979" anchor-label="PHONG_SPECULAR" id="1907591201%2FProperties%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
-            <div class="main-subrow keyValue ">
-              <div class=""><span class="inline-flex">
-                  <div><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-p-h-o-n-g_-s-p-e-c-u-l-a-r/"><span>PHONG_</span><wbr><span>SPECULAR</span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1907591201%2FProperties%2F1558683979"></span>
-                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
-                  </span></span></div>
-              <div>
-                <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">const </span><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-p-h-o-n-g_-s-p-e-c-u-l-a-r/">PHONG_SPECULAR</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token operator"> = </span><span class="token constant">12</span></div></div></div>
-                </div>
-              </div>
-            </div>
-          </div>
-<a data-name="-1607292938%2FProperties%2F1558683979" anchor-label="PROJECTION_MATRIX" id="-1607292938%2FProperties%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
-            <div class="main-subrow keyValue ">
-              <div class=""><span class="inline-flex">
-                  <div><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-p-r-o-j-e-c-t-i-o-n_-m-a-t-r-i-x/"><span>PROJECTION_</span><wbr><span>MATRIX</span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1607292938%2FProperties%2F1558683979"></span>
-                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
-                  </span></span></div>
-              <div>
-                <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">const </span><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-p-r-o-j-e-c-t-i-o-n_-m-a-t-r-i-x/">PROJECTION_MATRIX</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token operator"> = </span><span class="token constant">0</span></div></div></div>
-                </div>
-              </div>
-            </div>
-          </div>
-<a data-name="1858644940%2FProperties%2F1558683979" anchor-label="VIEW_MATRIX" id="1858644940%2FProperties%2F1558683979" data-filterable-set=":/commonMain"></a>
-          <div class="table-row table-row_content" data-filterable-current=":/commonMain" data-filterable-set=":/commonMain">
-            <div class="main-subrow keyValue ">
-              <div class=""><span class="inline-flex">
-                  <div><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-v-i-e-w_-m-a-t-r-i-x/"><span>VIEW_</span><wbr><span>MATRIX</span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1858644940%2FProperties%2F1558683979"></span>
-                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
-                  </span></span></div>
-              <div>
-                <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":/commonMain"><div class="symbol monospace"><span class="token keyword">const </span><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-v-i-e-w_-m-a-t-r-i-x/">VIEW_MATRIX</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token operator"> = </span><span class="token constant">1</span></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.components.shader/-u-n-i-f-o-r-m_-i-d-s/-b-l-o-c-k_-s-k-i-n-n-i-n-g_-m-a-t-r-i-x/">BLOCK_SKINNING_MATRIX</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></div></div></div>
                 </div>
               </div>
             </div>
@@ -290,9 +125,9 @@ b:"$Sreact.suspense"
     </div>
   </div>
 </div>
-0:{"buildId":"TWNiPPyaQyI5O5C9VZKgd","rsc":["$","$1","c",{"children":[[false,["$","article",null,{"id":"nd-page","data-full":true,"className":"flex flex-col w-full mx-auto [grid-area:main] px-4 py-6 gap-4 md:px-6 md:pt-8 xl:px-8 xl:pt-14 max-w-[1200px]","children":[["$","$L2",null,{}],["$","div",null,{"className":"prose flex-1 dokka-container","children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}],false],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
-4:["$","$L8",null,{}]
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"full":true,"children":["$","$L3",null,{"className":"dokka-container","children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5"]}]}],["$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"UH87WZr7ecgOYER1sgzrd"}
 5:["$","$L9",null,{}]
-6:["$","script","script-0",{"src":"/_next/static/chunks/6d4c7442ee3701fa.js","async":true}]
-7:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/0b~1-iikzpv-u.js","async":true}]
+7:["$","script","script-1",{"src":"/_next/static/chunks/0xn9bloz_qt67.js","async":true}]
+8:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
 c:null
