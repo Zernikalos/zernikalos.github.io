@@ -1,0 +1,578 @@
+1:"$Sreact.fragment"
+2:I[584440,["/_next/static/chunks/0di96s32utfbd.js","/_next/static/chunks/1xazftpjh_4-t.js","/_next/static/chunks/3vl-4s1si0lhz.js","/_next/static/chunks/0ftl8rrpncco8.js","/_next/static/chunks/3n2qgwy72vru9.js","/_next/static/chunks/2rd-9y-xqhvf9.js","/_next/static/chunks/3qfu-xq-sfbwa.js","/_next/static/chunks/3r-4jc26w-a2q.js","/_next/static/chunks/03tptp3ixsiay.js"],"DocsPage"]
+3:I[584440,["/_next/static/chunks/0di96s32utfbd.js","/_next/static/chunks/1xazftpjh_4-t.js","/_next/static/chunks/3vl-4s1si0lhz.js","/_next/static/chunks/0ftl8rrpncco8.js","/_next/static/chunks/3n2qgwy72vru9.js","/_next/static/chunks/2rd-9y-xqhvf9.js","/_next/static/chunks/3qfu-xq-sfbwa.js","/_next/static/chunks/3r-4jc26w-a2q.js","/_next/static/chunks/03tptp3ixsiay.js"],"DocsBody"]
+4:Tf255,<div class="main-content" data-page-type="classlike" id="content" pageids="Zernikalos::zernikalos.geometries/ZPlane///PointingToDeclaration//1015982541">
+  <div class="breadcrumbs"><a href="/api/">Zernikalos</a><span class="delimiter">/</span><a href="/api/-zernikalos/zernikalos.geometries/">zernikalos.geometries</a><span class="delimiter">/</span><span class="current">ZPlane</span></div>
+  <div class="cover ">
+    <h1 class="cover"><span><span>ZPlane</span></span></h1>
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><span data-unresolved-link="kotlinx.serialization/Serializable///PointingToDeclaration/"><span class="token annotation builtin">Serializable</span></span></div></div><span class="token keyword">class </span><a href="/api/-zernikalos/zernikalos.geometries/-z-plane/">ZPlane</a><span class="token punctuation">(</span><span class="parameters "><span class="parameter "><span class="token keyword">val </span>halfExtent<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token operator"> = </span><span class="token constant">0.5f</span></span></span><span class="token punctuation">)</span> : <a href="/api/-zernikalos/zernikalos.objects/-z-model/">ZModel</a><span class="source-link-wrapper"><span class="source-link" data-element-type="source-link">(<a href="https://github.com/Zernikalos/Zernikalos/blob/v0.10.1/engine/src/commonMain/kotlin/zernikalos/geometries/ZPlane.kt#L21">source</a>)</span></span></div><p class="paragraph">Single quad on the XZ plane (Y = 0), centered at the origin, normal +Y, UVs in 0, 1. Indexed triangles, 16-bit indices (all backends).</p></div></div>
+  </div>
+  <div class="tabbedcontent">
+    <div class="tabs-section" tabs-section="tabs-section"><button class="section-tab" data-active="" data-togglable="CONSTRUCTOR,TYPE,PROPERTY,FUNCTION">Members</button></div>
+    <div class="tabs-section-body">
+      <div data-togglable="CONSTRUCTOR">
+        <h2 class="tableheader">Constructors</h2>
+        <div class="table api-cards-grid"><a data-name="876773832%2FConstructors%2F1015982541" anchor-label="ZPlane" id="876773832%2FConstructors%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-togglable="CONSTRUCTOR" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.geometries/-z-plane/-z-plane/"><span><span>ZPlane</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="876773832%2FConstructors%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">constructor</span><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">halfExtent<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token operator"> = </span><span class="token constant">0.5f</span></span></span><span class="token punctuation">)</span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div data-togglable="PROPERTY">
+        <h2 class="tableheader">Properties</h2>
+        <div class="table api-cards-grid"><a data-name="-1824442505%2FProperties%2F1015982541" anchor-label="children" id="-1824442505%2FProperties%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.objects/-z-object/children/"><span><span>children</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1824442505%2FProperties%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">open </span><span class="token keyword">override </span><span class="token keyword">var </span><a href="/api/-zernikalos/zernikalos.objects/-z-object/children/">children</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-array/index.html">Array</a><span class="token operator">&lt;</span><a href="/api/-zernikalos/zernikalos.objects/-z-object/">ZObject</a><span class="token operator">&gt;</span></div><div class="brief "><p class="paragraph">An array of <a href="/api/-zernikalos/zernikalos.objects/-z-object/">ZObject</a>s that are children of this object, allowing for a hierarchical structure.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1500502631%2FProperties%2F1015982541" anchor-label="drawMode" id="1500502631%2FProperties%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.objects/-z-model/draw-mode/"><span>draw</span><wbr><span><span>Mode</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1500502631%2FProperties%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">var </span><a href="/api/-zernikalos/zernikalos.objects/-z-model/draw-mode/">drawMode</a><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.components.mesh/-z-draw-mode/">ZDrawMode</a></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="16574429%2FProperties%2F1015982541" anchor-label="events" id="16574429%2FProperties%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.objects/-z-object/events/"><span><span>events</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="16574429%2FProperties%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><span data-unresolved-link="kotlinx.serialization/Transient///PointingToDeclaration/"><span class="token annotation builtin">Transient</span></span></div></div><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.objects/-z-object/events/">events</a><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.events/-z-event-manager/">ZEventManager</a></div><div class="brief "><p class="paragraph">Event manager for this object, providing access to listener management functionality.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1190964732%2FProperties%2F1015982541" anchor-label="halfExtent" id="1190964732%2FProperties%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.geometries/-z-plane/half-extent/"><span>half</span><wbr><span><span>Extent</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1190964732%2FProperties%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.geometries/-z-plane/half-extent/">halfExtent</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1649682495%2FProperties%2F1015982541" anchor-label="hasParent" id="1649682495%2FProperties%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.search/-z-tree-node/has-parent/"><span>has</span><wbr><span><span>Parent</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1649682495%2FProperties%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">open </span><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.search/-z-tree-node/has-parent/">hasParent</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-boolean/index.html">Boolean</a></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1060451035%2FProperties%2F1015982541" anchor-label="hasSkeleton" id="-1060451035%2FProperties%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.objects/-z-model/has-skeleton/"><span>has</span><wbr><span><span>Skeleton</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1060451035%2FProperties%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.objects/-z-model/has-skeleton/">hasSkeleton</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-boolean/index.html">Boolean</a></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="530412826%2FProperties%2F1015982541" anchor-label="hasTextures" id="530412826%2FProperties%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.objects/-z-model/has-textures/"><span>has</span><wbr><span><span>Textures</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="530412826%2FProperties%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.objects/-z-model/has-textures/">hasTextures</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-boolean/index.html">Boolean</a></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-345337043%2FProperties%2F1015982541" anchor-label="isEnabled" id="-345337043%2FProperties%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.objects/-z-object/is-enabled/"><span>is</span><wbr><span><span>Enabled</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-345337043%2FProperties%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.objects/-z-object/is-enabled/">isEnabled</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-boolean/index.html">Boolean</a></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1205902726%2FProperties%2F1015982541" anchor-label="isInitialized" id="-1205902726%2FProperties%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.objects/-z-object/is-initialized/"><span>is</span><wbr><span><span>Initialized</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1205902726%2FProperties%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.objects/-z-object/is-initialized/">isInitialized</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-boolean/index.html">Boolean</a></div><div class="brief "><p class="paragraph">A boolean indicating whether the object has been initialized. This is set to true after the first call to <a href="/api/-zernikalos/zernikalos.objects/-z-object/initialize/">initialize</a>.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1892803051%2FProperties%2F1015982541" anchor-label="isRoot" id="1892803051%2FProperties%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.search/-z-tree-node/is-root/"><span>is</span><wbr><span><span>Root</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1892803051%2FProperties%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">open </span><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.search/-z-tree-node/is-root/">isRoot</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-boolean/index.html">Boolean</a></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-431180004%2FProperties%2F1015982541" anchor-label="isVisible" id="-431180004%2FProperties%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.objects/-z-object/is-visible/"><span>is</span><wbr><span><span>Visible</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-431180004%2FProperties%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.objects/-z-object/is-visible/">isVisible</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-boolean/index.html">Boolean</a></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-258477497%2FProperties%2F1015982541" anchor-label="material" id="-258477497%2FProperties%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.objects/-z-model/material/"><span><span>material</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-258477497%2FProperties%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">var </span><a href="/api/-zernikalos/zernikalos.objects/-z-model/material/">material</a><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.components.material/-z-material/">ZMaterial</a><span class="token operator">?</span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="342629569%2FProperties%2F1015982541" anchor-label="mesh" id="342629569%2FProperties%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.objects/-z-model/mesh/"><span><span>mesh</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="342629569%2FProperties%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">var </span><a href="/api/-zernikalos/zernikalos.objects/-z-model/mesh/">mesh</a><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.components.mesh/-z-mesh/">ZMesh</a></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="766993643%2FProperties%2F1015982541" anchor-label="name" id="766993643%2FProperties%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.objects/-z-object/name/"><span><span>name</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="766993643%2FProperties%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><span data-unresolved-link="kotlinx.serialization/SerialName///PointingToDeclaration/"><span class="token annotation builtin">SerialName</span></span><span class="token punctuation">(</span><span>value<span class="token operator"> = </span><span class="breakable-word"><span class="token string">"name"</span></span></span><wbr><span class="token punctuation">)</span></div></div><span class="token keyword">var </span><a href="/api/-zernikalos/zernikalos.objects/-z-object/name/">name</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div><div class="brief "><p class="paragraph">The name of the object. If not explicitly set, a default name is generated based on the object's type and ID.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="612087148%2FProperties%2F1015982541" anchor-label="parent" id="612087148%2FProperties%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.objects/-z-object/parent/"><span><span>parent</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="612087148%2FProperties%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">open </span><span class="token keyword">override </span><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.objects/-z-object/parent/">parent</a><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.objects/-z-object/">ZObject</a><span class="token operator">?</span></div><div class="brief "><p class="paragraph">A reference to the parent <a href="/api/-zernikalos/zernikalos.objects/-z-object/">ZObject</a>, if any. Null if the object has no parent, making it a root object.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1741572042%2FProperties%2F1015982541" anchor-label="refId" id="-1741572042%2FProperties%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.objects/-z-object/ref-id/"><span>ref</span><wbr><span><span>Id</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1741572042%2FProperties%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">open </span><span class="token keyword">override </span><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.objects/-z-object/ref-id/">refId</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></div><div class="brief "><p class="paragraph">Represents the unique identifier for a reference-based component. The <code class="lang-kotlin">refId</code> is used as a distinctive key for retrieving or linking this component within reference-dependent systems.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1461001771%2FProperties%2F1015982541" anchor-label="renderer" id="1461001771%2FProperties%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.objects/-z-model/renderer/"><span><span>renderer</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1461001771%2FProperties%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><span data-unresolved-link="kotlinx.serialization/Transient///PointingToDeclaration/"><span class="token annotation builtin">Transient</span></span></div></div><span class="token keyword">lateinit </span><span class="token keyword">var </span><a href="/api/-zernikalos/zernikalos.objects/-z-model/renderer/">renderer</a><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.objects/-z-model-renderer/">ZModelRenderer</a></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1193466509%2FProperties%2F1015982541" anchor-label="shaderProgram" id="1193466509%2FProperties%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.objects/-z-model/shader-program/"><span>shader</span><wbr><span><span>Program</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1193466509%2FProperties%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><span data-unresolved-link="kotlinx.serialization/Transient///PointingToDeclaration/"><span class="token annotation builtin">Transient</span></span></div></div><span class="token keyword">var </span><a href="/api/-zernikalos/zernikalos.objects/-z-model/shader-program/">shaderProgram</a><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.components.shader/-z-shader-program/">ZShaderProgram</a></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1722553825%2FProperties%2F1015982541" anchor-label="skeleton" id="1722553825%2FProperties%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.objects/-z-model/skeleton/"><span><span>skeleton</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1722553825%2FProperties%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">var </span><a href="/api/-zernikalos/zernikalos.objects/-z-model/skeleton/">skeleton</a><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.objects/-z-skeleton/">ZSkeleton</a><span class="token operator">?</span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1875251459%2FProperties%2F1015982541" anchor-label="skinning" id="-1875251459%2FProperties%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.objects/-z-model/skinning/"><span><span>skinning</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1875251459%2FProperties%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">var </span><a href="/api/-zernikalos/zernikalos.objects/-z-model/skinning/">skinning</a><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.components.skeleton/-z-skinning/">ZSkinning</a><span class="token operator">?</span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1892663320%2FProperties%2F1015982541" anchor-label="transform" id="1892663320%2FProperties%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.objects/-z-object/transform/"><span><span>transform</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1892663320%2FProperties%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">var </span><a href="/api/-zernikalos/zernikalos.objects/-z-object/transform/">transform</a><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-transform/">ZTransform</a></div><div class="brief "><p class="paragraph">An instance of <a href="/api/-zernikalos/zernikalos.math/-z-transform/">ZTransform</a> representing the object's position, rotation, and scale in the 3D space.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1416676372%2FProperties%2F1015982541" anchor-label="type" id="1416676372%2FProperties%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.objects/-z-model/type/"><span><span>type</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1416676372%2FProperties%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><span data-unresolved-link="kotlinx.serialization/Transient///PointingToDeclaration/"><span class="token annotation builtin">Transient</span></span></div></div><span class="token keyword">open </span><span class="token keyword">override </span><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.objects/-z-model/type/">type</a><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.objects/-z-object-type/">ZObjectType</a></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div data-togglable="FUNCTION">
+        <h2 class="tableheader">Functions</h2>
+        <div class="table api-cards-grid"><a data-name="1340837138%2FFunctions%2F1015982541" anchor-label="addChild" id="1340837138%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.objects/-z-object/add-child/"><span>add</span><wbr><span><span>Child</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1340837138%2FFunctions%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.objects/-z-object/add-child/"><span class="token function">addChild</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">child<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.objects/-z-object/">ZObject</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Adds a child object to this object, establishing a parent-child relationship. The child object will be rendered relative to this object's transform.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="982454748%2FFunctions%2F1015982541" anchor-label="disable" id="982454748%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.objects/-z-object/disable/"><span><span>disable</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="982454748%2FFunctions%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.objects/-z-object/disable/"><span class="token function">disable</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1514547661%2FFunctions%2F1015982541" anchor-label="dispose" id="-1514547661%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.objects/-z-object/dispose/"><span><span>dispose</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1514547661%2FFunctions%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.objects/-z-object/dispose/"><span class="token function">dispose</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">ctx<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-z-context/">ZContext</a></span></span><span class="token punctuation">)</span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="673222323%2FFunctions%2F1015982541" anchor-label="enable" id="673222323%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.objects/-z-object/enable/"><span><span>enable</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="673222323%2FFunctions%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.objects/-z-object/enable/"><span class="token function">enable</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1199133164%2FFunctions%2F1015982541" anchor-label="hide" id="-1199133164%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.objects/-z-object/hide/"><span><span>hide</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1199133164%2FFunctions%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.objects/-z-object/hide/"><span class="token function">hide</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-702344366%2FFunctions%2F1015982541" anchor-label="initialize" id="-702344366%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.objects/-z-object/initialize/"><span><span>initialize</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-702344366%2FFunctions%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.objects/-z-object/initialize/"><span class="token function">initialize</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">ctx<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-z-context/">ZContext</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Initializes the object and its children, preparing them for rendering. This function should be called before the object is rendered for the first time. It sets the object's state to initialized and recursively initializes all child objects.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="377934157%2FFunctions%2F1015982541" anchor-label="lookAt" id="377934157%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.objects/-z-object/look-at/"><span>look</span><wbr><span><span>At</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="377934157%2FFunctions%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.objects/-z-object/look-at/"><span class="token function">lookAt</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">look<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-vector3/">ZVector3</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Adjusts the object's orientation so that it "looks at" a specified point in space.</p></div><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.objects/-z-object/look-at/"><span class="token function">lookAt</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">look<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-vector3/">ZVector3</a><span class="token punctuation">, </span></span><span class="parameter ">up<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-vector3/">ZVector3</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Adjusts the object's orientation so that it "looks at" a specified point in space, with a specified up direction. This changes the object's rotation to face the point, while aligning its up direction with the specified up vector.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1017512357%2FFunctions%2F1015982541" anchor-label="onViewportResize" id="-1017512357%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.objects/-z-object/on-viewport-resize/"><span>on</span><wbr><span>Viewport</span><wbr><span><span>Resize</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1017512357%2FFunctions%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.objects/-z-object/on-viewport-resize/"><span class="token function">onViewportResize</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">ctx<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-z-context/">ZContext</a><span class="token punctuation">, </span></span><span class="parameter ">width<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a><span class="token punctuation">, </span></span><span class="parameter ">height<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Event handler for the viewport resizing. This method should not be called by the user</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="732766725%2FFunctions%2F1015982541" anchor-label="removeChild" id="732766725%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.objects/-z-object/remove-child/"><span>remove</span><wbr><span><span>Child</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="732766725%2FFunctions%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.objects/-z-object/remove-child/"><span class="token function">removeChild</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">idx<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></span></span><span class="token punctuation">)</span></div><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.objects/-z-object/remove-child/"><span class="token function">removeChild</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">child<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.objects/-z-object/">ZObject</a></span></span><span class="token punctuation">)</span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="267103704%2FFunctions%2F1015982541" anchor-label="render" id="267103704%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.objects/-z-object/render/"><span><span>render</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="267103704%2FFunctions%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.objects/-z-object/render/"><span class="token function">render</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">ctx<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-z-context/">ZContext</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Renders the object and its children to the screen. This function is responsible for drawing the object on the screen. It should be called every frame to update the object's appearance based on its current state and transformations.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="635963577%2FFunctions%2F1015982541" anchor-label="show" id="635963577%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.objects/-z-object/show/"><span><span>show</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="635963577%2FFunctions%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.objects/-z-object/show/"><span class="token function">show</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1682298951%2FFunctions%2F1015982541" anchor-label="translate" id="1682298951%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.objects/-z-object/translate/"><span><span>translate</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1682298951%2FFunctions%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.objects/-z-object/translate/"><span class="token function">translate</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">x<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token punctuation">, </span></span><span class="parameter ">y<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token punctuation">, </span></span><span class="parameter ">z<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Moves the object by a specified amount along each axis. This changes the object's position based on the given x, y, and z offsets.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+a:X
+f:X
+f:C
+0:{"buildId":"TQQiPZ3rOSFngwYMprVPO","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"full":true,"children":["$","$L3",null,{"className":"dokka-container","children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5"]}]}],["$L6","$L7"],"$L8"]}],"isPartial":"$@9","staleTime":"$a","varyParams":null},{"rsc":"$Lb","isPartial":"$@c","staleTime":"$a","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$a","varyParams":"$f"}],"isUpgradeableISRFallback":false,"a":"$@10","rootVaryParams":null,"needsRuntimeRequest":"$@11"}
+12:I[299854,["/_next/static/chunks/0di96s32utfbd.js","/_next/static/chunks/1xazftpjh_4-t.js","/_next/static/chunks/3vl-4s1si0lhz.js","/_next/static/chunks/0ftl8rrpncco8.js","/_next/static/chunks/3n2qgwy72vru9.js","/_next/static/chunks/2rd-9y-xqhvf9.js","/_next/static/chunks/3qfu-xq-sfbwa.js","/_next/static/chunks/3r-4jc26w-a2q.js","/_next/static/chunks/03tptp3ixsiay.js"],"default"]
+13:I[433766,["/_next/static/chunks/0di96s32utfbd.js","/_next/static/chunks/1xazftpjh_4-t.js"],"OutletBoundary"]
+14:"$Sreact.suspense"
+16:I[433766,["/_next/static/chunks/0di96s32utfbd.js","/_next/static/chunks/1xazftpjh_4-t.js"],"ViewportBoundary"]
+17:I[433766,["/_next/static/chunks/0di96s32utfbd.js","/_next/static/chunks/1xazftpjh_4-t.js"],"MetadataBoundary"]
+18:I[744234,["/_next/static/chunks/0di96s32utfbd.js","/_next/static/chunks/1xazftpjh_4-t.js"],"IconMark"]
+19:I[950443,["/_next/static/chunks/0di96s32utfbd.js","/_next/static/chunks/1xazftpjh_4-t.js"],"default"]
+1a:I[19476,["/_next/static/chunks/0di96s32utfbd.js","/_next/static/chunks/1xazftpjh_4-t.js"],"default"]
+5:["$","$L12",null,{}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/3r-4jc26w-a2q.js","async":true}]
+7:["$","script","script-1",{"src":"/_next/static/chunks/03tptp3ixsiay.js","async":true}]
+8:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+b:["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"-z-plane - Zernikalos API | Zernikalos"}],["$","meta","1",{"name":"description","content":"API Reference for Zernikalos - -zernikalos.zernikalos.geometries.-z-plane"}],["$","meta","2",{"name":"application-name","content":"Zernikalos"}],["$","meta","3",{"name":"author","content":"Zernikalos"}],["$","meta","4",{"name":"keywords","content":"Kotlin 3D engine,Kotlin game engine,Kotlin Multiplatform 3D,KMP graphics engine,WebGPU Kotlin,Android iOS Web 3D engine,multiplatform game development"}],["$","meta","5",{"name":"robots","content":"noindex, follow"}],["$","meta","6",{"name":"googlebot","content":"noindex, follow"}],["$","meta","7",{"name":"category","content":"technology"}],["$","link","8",{"rel":"canonical","href":"https://zernikalos.dev/api/-zernikalos/zernikalos.geometries/-z-plane/"}],["$","meta","9",{"property":"og:title","content":"Zernikalos - The Kotlin 3D Engine"}],["$","meta","10",{"property":"og:description","content":"A Kotlin Multiplatform 3D engine for graphics apps on Android, iOS, JVM, and Web."}],["$","meta","11",{"property":"og:url","content":"https://zernikalos.dev/"}],["$","meta","12",{"property":"og:site_name","content":"Zernikalos Engine"}],["$","meta","13",{"property":"og:image","content":"https://zernikalos.dev/zklogo.svg"}],["$","meta","14",{"property":"og:image:alt","content":"Zernikalos logo"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:title","content":"Zernikalos - The Kotlin 3D Engine"}],["$","meta","18",{"name":"twitter:description","content":"Build multiplatform 3D apps in Kotlin for Android, iOS, JVM, and Web."}],["$","meta","19",{"name":"twitter:image","content":"https://zernikalos.dev/zklogo.svg"}],["$","link","20",{"rel":"icon","href":"/zklogo.svg"}],["$","$L18","21",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+d:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]
+11:true
+15:null
+a:300
+a:C
+10:0
+c:"$undefined"
+e:"$undefined"
+9:"$undefined"

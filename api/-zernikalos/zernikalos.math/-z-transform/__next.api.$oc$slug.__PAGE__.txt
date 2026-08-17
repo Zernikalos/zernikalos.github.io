@@ -1,14 +1,11 @@
 1:"$Sreact.fragment"
-2:I[699413,["/_next/static/chunks/13m3_bt-npzb8.js","/_next/static/chunks/0d3b4qksca1uo.js","/_next/static/chunks/09r0vq9a5if38.js","/_next/static/chunks/09tmzlddgs1y1.js","/_next/static/chunks/13bn21.hx.3.a.js","/_next/static/chunks/13rdi4-5gzwr4.js","/_next/static/chunks/0fdoel-z5wt0a.js","/_next/static/chunks/0b~1-iikzpv-u.js","/_next/static/chunks/0xn9bloz_qt67.js"],"DocsPage"]
-3:I[699413,["/_next/static/chunks/13m3_bt-npzb8.js","/_next/static/chunks/0d3b4qksca1uo.js","/_next/static/chunks/09r0vq9a5if38.js","/_next/static/chunks/09tmzlddgs1y1.js","/_next/static/chunks/13bn21.hx.3.a.js","/_next/static/chunks/13rdi4-5gzwr4.js","/_next/static/chunks/0fdoel-z5wt0a.js","/_next/static/chunks/0b~1-iikzpv-u.js","/_next/static/chunks/0xn9bloz_qt67.js"],"DocsBody"]
-9:I[299854,["/_next/static/chunks/13m3_bt-npzb8.js","/_next/static/chunks/0d3b4qksca1uo.js","/_next/static/chunks/09r0vq9a5if38.js","/_next/static/chunks/09tmzlddgs1y1.js","/_next/static/chunks/13bn21.hx.3.a.js","/_next/static/chunks/13rdi4-5gzwr4.js","/_next/static/chunks/0fdoel-z5wt0a.js","/_next/static/chunks/0b~1-iikzpv-u.js","/_next/static/chunks/0xn9bloz_qt67.js"],"default"]
-a:I[590522,["/_next/static/chunks/13m3_bt-npzb8.js","/_next/static/chunks/0d3b4qksca1uo.js"],"OutletBoundary"]
-b:"$Sreact.suspense"
-4:Ta374,<div class="main-content" data-page-type="classlike" id="content" pageids="Zernikalos::zernikalos.math/ZTransform///PointingToDeclaration//1015982541">
+2:I[584440,["/_next/static/chunks/0di96s32utfbd.js","/_next/static/chunks/1xazftpjh_4-t.js","/_next/static/chunks/3vl-4s1si0lhz.js","/_next/static/chunks/0ftl8rrpncco8.js","/_next/static/chunks/3n2qgwy72vru9.js","/_next/static/chunks/2rd-9y-xqhvf9.js","/_next/static/chunks/3qfu-xq-sfbwa.js","/_next/static/chunks/3r-4jc26w-a2q.js","/_next/static/chunks/03tptp3ixsiay.js"],"DocsPage"]
+3:I[584440,["/_next/static/chunks/0di96s32utfbd.js","/_next/static/chunks/1xazftpjh_4-t.js","/_next/static/chunks/3vl-4s1si0lhz.js","/_next/static/chunks/0ftl8rrpncco8.js","/_next/static/chunks/3n2qgwy72vru9.js","/_next/static/chunks/2rd-9y-xqhvf9.js","/_next/static/chunks/3qfu-xq-sfbwa.js","/_next/static/chunks/3r-4jc26w-a2q.js","/_next/static/chunks/03tptp3ixsiay.js"],"DocsBody"]
+4:Te5f9,<div class="main-content" data-page-type="classlike" id="content" pageids="Zernikalos::zernikalos.math/ZTransform///PointingToDeclaration//1015982541">
   <div class="breadcrumbs"><a href="/api/">Zernikalos</a><span class="delimiter">/</span><a href="/api/-zernikalos/zernikalos.math/">zernikalos.math</a><span class="delimiter">/</span><span class="current">ZTransform</span></div>
   <div class="cover ">
     <h1 class="cover"><span><span>ZTransform</span></span></h1>
-    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><span data-unresolved-link="kotlinx.serialization/Serializable///PointingToDeclaration/"><span class="token annotation builtin">Serializable</span></span></div></div><span class="token keyword">class </span><a href="/api/-zernikalos/zernikalos.math/-z-transform/">ZTransform</a><span class="source-link-wrapper"><span class="source-link" data-element-type="source-link">(<a href="https://github.com/Zernikalos/Zernikalos/blob/v0.9.0/engine/src/commonMain/kotlin/zernikalos/math/ZTransform.kt#L20">source</a>)</span></span></div></div></div>
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><span data-unresolved-link="kotlinx.serialization/Serializable///PointingToDeclaration/"><span class="token annotation builtin">Serializable</span></span></div></div><span class="token keyword">class </span><a href="/api/-zernikalos/zernikalos.math/-z-transform/">ZTransform</a><span class="source-link-wrapper"><span class="source-link" data-element-type="source-link">(<a href="https://github.com/Zernikalos/Zernikalos/blob/v0.10.1/engine/src/commonMain/kotlin/zernikalos/math/ZTransform.kt#L20">source</a>)</span></span></div></div></div>
   </div>
   <div class="tabbedcontent">
     <div class="tabs-section" tabs-section="tabs-section"><button class="section-tab" data-active="" data-togglable="CONSTRUCTOR,TYPE,PROPERTY,FUNCTION">Members</button></div>
@@ -74,7 +71,22 @@ b:"$Sreact.suspense"
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.math/-z-transform/pitch/">pitch</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.math/-z-transform/pitch/">pitch</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a></div><div class="brief "><p class="paragraph">Pitch component of <a href="/api/-zernikalos/zernikalos.math/-z-transform/rotation-euler/">rotationEuler</a> in radians.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1443761846%2FProperties%2F1015982541" anchor-label="pitchDegrees" id="-1443761846%2FProperties%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.math/-z-transform/pitch-degrees/"><span>pitch</span><wbr><span><span>Degrees</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1443761846%2FProperties%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.math/-z-transform/pitch-degrees/">pitchDegrees</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a></div><div class="brief "><p class="paragraph"><a href="/api/-zernikalos/zernikalos.math/-z-transform/pitch/">pitch</a> expressed in degrees.</p></div></div></div>
                 </div>
               </div>
             </div>
@@ -119,7 +131,22 @@ b:"$Sreact.suspense"
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.math/-z-transform/roll/">roll</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.math/-z-transform/roll/">roll</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a></div><div class="brief "><p class="paragraph">Roll component of <a href="/api/-zernikalos/zernikalos.math/-z-transform/rotation-euler/">rotationEuler</a> in radians.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-110826209%2FProperties%2F1015982541" anchor-label="rollDegrees" id="-110826209%2FProperties%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.math/-z-transform/roll-degrees/"><span>roll</span><wbr><span><span>Degrees</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-110826209%2FProperties%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.math/-z-transform/roll-degrees/">rollDegrees</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a></div><div class="brief "><p class="paragraph"><a href="/api/-zernikalos/zernikalos.math/-z-transform/roll/">roll</a> expressed in degrees.</p></div></div></div>
                 </div>
               </div>
             </div>
@@ -150,6 +177,21 @@ b:"$Sreact.suspense"
               <div>
                 <div class="title">
                   <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">var </span><a href="/api/-zernikalos/zernikalos.math/-z-transform/rotation-euler/">rotationEuler</a><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-euler/">ZEuler</a></div><div class="brief "><p class="paragraph">Represents the rotation of the object using Euler angles in radians. The Euler angles define the rotation about the three principal axes (roll, pitch, yaw).</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1990698133%2FProperties%2F1015982541" anchor-label="rotationEulerDegrees" id="1990698133%2FProperties%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.math/-z-transform/rotation-euler-degrees/"><span>rotation</span><wbr><span>Euler</span><wbr><span><span>Degrees</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1990698133%2FProperties%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">var </span><a href="/api/-zernikalos/zernikalos.math/-z-transform/rotation-euler-degrees/">rotationEulerDegrees</a><span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-euler/">ZEuler</a></div><div class="brief "><p class="paragraph">Like <a href="/api/-zernikalos/zernikalos.math/-z-transform/rotation-euler/">rotationEuler</a> but <a href="/api/-zernikalos/zernikalos.math/-z-euler/roll/">ZEuler.roll</a>, <a href="/api/-zernikalos/zernikalos.math/-z-euler/pitch/">ZEuler.pitch</a>, and <a href="/api/-zernikalos/zernikalos.math/-z-euler/yaw/">ZEuler.yaw</a> are expressed in <strong>degrees</strong> on this API surface only. The returned <a href="/api/-zernikalos/zernikalos.math/-z-euler/">ZEuler</a> still uses the same fields as radian-backed <a href="/api/-zernikalos/zernikalos.math/-z-euler/">ZEuler</a> elsewhere—do not pass this value to APIs that expect radians (e.g. <a href="/api/-zernikalos/zernikalos.math/-z-quaternion/-op/from-euler/">ZQuaternion.fromEuler</a>) without converting via <a href="/api/-zernikalos/zernikalos.math/-angles/degrees-to-radians/">Angles.degreesToRadians</a> per component or use <a href="/api/-zernikalos/zernikalos.math/-z-transform/rotation-euler/">rotationEuler</a> instead.</p></div></div></div>
                 </div>
               </div>
             </div>
@@ -194,7 +236,22 @@ b:"$Sreact.suspense"
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.math/-z-transform/yaw/">yaw</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.math/-z-transform/yaw/">yaw</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a></div><div class="brief "><p class="paragraph">Yaw component of <a href="/api/-zernikalos/zernikalos.math/-z-transform/rotation-euler/">rotationEuler</a> in radians.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1259155079%2FProperties%2F1015982541" anchor-label="yawDegrees" id="-1259155079%2FProperties%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.math/-z-transform/yaw-degrees/"><span>yaw</span><wbr><span><span>Degrees</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1259155079%2FProperties%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">val </span><a href="/api/-zernikalos/zernikalos.math/-z-transform/yaw-degrees/">yawDegrees</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a></div><div class="brief "><p class="paragraph"><a href="/api/-zernikalos/zernikalos.math/-z-transform/yaw/">yaw</a> expressed in degrees.</p></div></div></div>
                 </div>
               </div>
             </div>
@@ -263,6 +320,36 @@ b:"$Sreact.suspense"
               </div>
             </div>
           </div>
+<a data-name="1793353097%2FFunctions%2F1015982541" anchor-label="rotateAroundDegrees" id="1793353097%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.math/-z-transform/rotate-around-degrees/"><span>rotate</span><wbr><span>Around</span><wbr><span><span>Degrees</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1793353097%2FFunctions%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-transform/rotate-around-degrees/"><span class="token function">rotateAroundDegrees</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">angle<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token punctuation">, </span></span><span class="parameter ">point<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-vector3/">ZVector3</a><span class="token punctuation">, </span></span><span class="parameter ">axis<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-vector3/">ZVector3</a></span></span><span class="token punctuation">)</span></div><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-transform/rotate-around-degrees/"><span class="token function">rotateAroundDegrees</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">angle<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token punctuation">, </span></span><span class="parameter ">point<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-vector3/">ZVector3</a><span class="token punctuation">, </span></span><span class="parameter ">axis<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-vector3/">ZVector3</a><span class="token punctuation">, </span></span><span class="parameter ">through<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-vector3/">ZVector3</a></span></span><span class="token punctuation">)</span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1219487615%2FFunctions%2F1015982541" anchor-label="rotateDegrees" id="-1219487615%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.math/-z-transform/rotate-degrees/"><span>rotate</span><wbr><span><span>Degrees</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1219487615%2FFunctions%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-transform/rotate-degrees/"><span class="token function">rotateDegrees</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">angle<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token punctuation">, </span></span><span class="parameter ">axis<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-vector3/">ZVector3</a></span></span><span class="token punctuation">)</span></div><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-transform/rotate-degrees/"><span class="token function">rotateDegrees</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">angle<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token punctuation">, </span></span><span class="parameter ">x<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token punctuation">, </span></span><span class="parameter ">y<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token punctuation">, </span></span><span class="parameter ">z<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a></span></span><span class="token punctuation">)</span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
 <a data-name="965002073%2FFunctions%2F1015982541" anchor-label="scale" id="965002073%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
           <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
             <div class="main-subrow keyValue ">
@@ -308,6 +395,21 @@ b:"$Sreact.suspense"
               </div>
             </div>
           </div>
+<a data-name="749773813%2FFunctions%2F1015982541" anchor-label="setRotationDegrees" id="749773813%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.math/-z-transform/set-rotation-degrees/"><span>set</span><wbr><span>Rotation</span><wbr><span><span>Degrees</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="749773813%2FFunctions%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-transform/set-rotation-degrees/"><span class="token function">setRotationDegrees</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">angle<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token punctuation">, </span></span><span class="parameter ">axis<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-vector3/">ZVector3</a></span></span><span class="token punctuation">)</span></div><div class="symbol monospace"><span class="token keyword">fun </span><a href="/api/-zernikalos/zernikalos.math/-z-transform/set-rotation-degrees/"><span class="token function">setRotationDegrees</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">angle<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token punctuation">, </span></span><span class="parameter ">x<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token punctuation">, </span></span><span class="parameter ">y<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token punctuation">, </span></span><span class="parameter ">z<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a></span></span><span class="token punctuation">)</span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
 <a data-name="-1182866027%2FFunctions%2F1015982541" anchor-label="translate" id="-1182866027%2FFunctions%2F1015982541" data-filterable-set=":engine/commonMain"></a>
           <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
             <div class="main-subrow keyValue ">
@@ -328,9 +430,29 @@ b:"$Sreact.suspense"
     </div>
   </div>
 </div>
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"full":true,"children":["$","$L3",null,{"className":"dokka-container","children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5"]}]}],["$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"UH87WZr7ecgOYER1sgzrd"}
-5:["$","$L9",null,{}]
-6:["$","script","script-0",{"src":"/_next/static/chunks/0b~1-iikzpv-u.js","async":true}]
-7:["$","script","script-1",{"src":"/_next/static/chunks/0xn9bloz_qt67.js","async":true}]
-8:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
-c:null
+a:X
+f:X
+f:C
+0:{"buildId":"TQQiPZ3rOSFngwYMprVPO","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"full":true,"children":["$","$L3",null,{"className":"dokka-container","children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5"]}]}],["$L6","$L7"],"$L8"]}],"isPartial":"$@9","staleTime":"$a","varyParams":null},{"rsc":"$Lb","isPartial":"$@c","staleTime":"$a","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$a","varyParams":"$f"}],"isUpgradeableISRFallback":false,"a":"$@10","rootVaryParams":null,"needsRuntimeRequest":"$@11"}
+12:I[299854,["/_next/static/chunks/0di96s32utfbd.js","/_next/static/chunks/1xazftpjh_4-t.js","/_next/static/chunks/3vl-4s1si0lhz.js","/_next/static/chunks/0ftl8rrpncco8.js","/_next/static/chunks/3n2qgwy72vru9.js","/_next/static/chunks/2rd-9y-xqhvf9.js","/_next/static/chunks/3qfu-xq-sfbwa.js","/_next/static/chunks/3r-4jc26w-a2q.js","/_next/static/chunks/03tptp3ixsiay.js"],"default"]
+13:I[433766,["/_next/static/chunks/0di96s32utfbd.js","/_next/static/chunks/1xazftpjh_4-t.js"],"OutletBoundary"]
+14:"$Sreact.suspense"
+16:I[433766,["/_next/static/chunks/0di96s32utfbd.js","/_next/static/chunks/1xazftpjh_4-t.js"],"ViewportBoundary"]
+17:I[433766,["/_next/static/chunks/0di96s32utfbd.js","/_next/static/chunks/1xazftpjh_4-t.js"],"MetadataBoundary"]
+18:I[744234,["/_next/static/chunks/0di96s32utfbd.js","/_next/static/chunks/1xazftpjh_4-t.js"],"IconMark"]
+19:I[950443,["/_next/static/chunks/0di96s32utfbd.js","/_next/static/chunks/1xazftpjh_4-t.js"],"default"]
+1a:I[19476,["/_next/static/chunks/0di96s32utfbd.js","/_next/static/chunks/1xazftpjh_4-t.js"],"default"]
+5:["$","$L12",null,{}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/3r-4jc26w-a2q.js","async":true}]
+7:["$","script","script-1",{"src":"/_next/static/chunks/03tptp3ixsiay.js","async":true}]
+8:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+b:["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"-z-transform - Zernikalos API | Zernikalos"}],["$","meta","1",{"name":"description","content":"API Reference for Zernikalos - -zernikalos.zernikalos.math.-z-transform"}],["$","meta","2",{"name":"application-name","content":"Zernikalos"}],["$","meta","3",{"name":"author","content":"Zernikalos"}],["$","meta","4",{"name":"keywords","content":"Kotlin 3D engine,Kotlin game engine,Kotlin Multiplatform 3D,KMP graphics engine,WebGPU Kotlin,Android iOS Web 3D engine,multiplatform game development"}],["$","meta","5",{"name":"robots","content":"noindex, follow"}],["$","meta","6",{"name":"googlebot","content":"noindex, follow"}],["$","meta","7",{"name":"category","content":"technology"}],["$","link","8",{"rel":"canonical","href":"https://zernikalos.dev/api/-zernikalos/zernikalos.math/-z-transform/"}],["$","meta","9",{"property":"og:title","content":"Zernikalos - The Kotlin 3D Engine"}],["$","meta","10",{"property":"og:description","content":"A Kotlin Multiplatform 3D engine for graphics apps on Android, iOS, JVM, and Web."}],["$","meta","11",{"property":"og:url","content":"https://zernikalos.dev/"}],["$","meta","12",{"property":"og:site_name","content":"Zernikalos Engine"}],["$","meta","13",{"property":"og:image","content":"https://zernikalos.dev/zklogo.svg"}],["$","meta","14",{"property":"og:image:alt","content":"Zernikalos logo"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:title","content":"Zernikalos - The Kotlin 3D Engine"}],["$","meta","18",{"name":"twitter:description","content":"Build multiplatform 3D apps in Kotlin for Android, iOS, JVM, and Web."}],["$","meta","19",{"name":"twitter:image","content":"https://zernikalos.dev/zklogo.svg"}],["$","link","20",{"rel":"icon","href":"/zklogo.svg"}],["$","$L18","21",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+d:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]
+11:true
+15:null
+a:300
+a:C
+10:0
+c:"$undefined"
+e:"$undefined"
+9:"$undefined"

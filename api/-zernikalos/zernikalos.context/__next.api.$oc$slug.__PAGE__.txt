@@ -1,10 +1,7 @@
 1:"$Sreact.fragment"
-2:I[699413,["/_next/static/chunks/13m3_bt-npzb8.js","/_next/static/chunks/0d3b4qksca1uo.js","/_next/static/chunks/09r0vq9a5if38.js","/_next/static/chunks/09tmzlddgs1y1.js","/_next/static/chunks/13bn21.hx.3.a.js","/_next/static/chunks/13rdi4-5gzwr4.js","/_next/static/chunks/0fdoel-z5wt0a.js","/_next/static/chunks/0b~1-iikzpv-u.js","/_next/static/chunks/0xn9bloz_qt67.js"],"DocsPage"]
-3:I[699413,["/_next/static/chunks/13m3_bt-npzb8.js","/_next/static/chunks/0d3b4qksca1uo.js","/_next/static/chunks/09r0vq9a5if38.js","/_next/static/chunks/09tmzlddgs1y1.js","/_next/static/chunks/13bn21.hx.3.a.js","/_next/static/chunks/13rdi4-5gzwr4.js","/_next/static/chunks/0fdoel-z5wt0a.js","/_next/static/chunks/0b~1-iikzpv-u.js","/_next/static/chunks/0xn9bloz_qt67.js"],"DocsBody"]
-9:I[299854,["/_next/static/chunks/13m3_bt-npzb8.js","/_next/static/chunks/0d3b4qksca1uo.js","/_next/static/chunks/09r0vq9a5if38.js","/_next/static/chunks/09tmzlddgs1y1.js","/_next/static/chunks/13bn21.hx.3.a.js","/_next/static/chunks/13rdi4-5gzwr4.js","/_next/static/chunks/0fdoel-z5wt0a.js","/_next/static/chunks/0b~1-iikzpv-u.js","/_next/static/chunks/0xn9bloz_qt67.js"],"default"]
-a:I[590522,["/_next/static/chunks/13m3_bt-npzb8.js","/_next/static/chunks/0d3b4qksca1uo.js"],"OutletBoundary"]
-b:"$Sreact.suspense"
-4:Tf885,<div class="main-content" data-page-type="package" id="content" pageids="Zernikalos::zernikalos.context////PointingToDeclaration//-1819286189">
+2:I[584440,["/_next/static/chunks/0di96s32utfbd.js","/_next/static/chunks/1xazftpjh_4-t.js","/_next/static/chunks/3vl-4s1si0lhz.js","/_next/static/chunks/0ftl8rrpncco8.js","/_next/static/chunks/3n2qgwy72vru9.js","/_next/static/chunks/2rd-9y-xqhvf9.js","/_next/static/chunks/3qfu-xq-sfbwa.js","/_next/static/chunks/3r-4jc26w-a2q.js","/_next/static/chunks/03tptp3ixsiay.js"],"DocsPage"]
+3:I[584440,["/_next/static/chunks/0di96s32utfbd.js","/_next/static/chunks/1xazftpjh_4-t.js","/_next/static/chunks/3vl-4s1si0lhz.js","/_next/static/chunks/0ftl8rrpncco8.js","/_next/static/chunks/3n2qgwy72vru9.js","/_next/static/chunks/2rd-9y-xqhvf9.js","/_next/static/chunks/3qfu-xq-sfbwa.js","/_next/static/chunks/3r-4jc26w-a2q.js","/_next/static/chunks/03tptp3ixsiay.js"],"DocsBody"]
+4:T13b05,<div class="main-content" data-page-type="package" id="content" pageids="Zernikalos::zernikalos.context////PointingToDeclaration//-1819286189">
   <div class="breadcrumbs"><a href="/api/">Zernikalos</a><span class="delimiter">/</span><span class="current">zernikalos.context</span></div>
   <div class="cover ">
     <h1 class="cover"><span><span>Package-level</span></span> <span><span>declarations</span></span></h1>
@@ -316,6 +313,21 @@ b:"$Sreact.suspense"
               </div>
             </div>
           </div>
+<a data-name="1192820632%2FClasslikes%2F1015982541" anchor-label="ZCullMode" id="1192820632%2FClasslikes%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-cull-mode/"><span>ZCull</span><wbr><span><span>Mode</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1192820632%2FClasslikes%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">enum </span><a href="/api/-zernikalos/zernikalos.context/-z-cull-mode/">ZCullMode</a> : <a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-enum/index.html">Enum</a><span class="token operator">&lt;</span><a href="/api/-zernikalos/zernikalos.context/-z-cull-mode/">ZCullMode</a><span class="token operator">&gt; </span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
 <a data-name="-459111593%2FClasslikes%2F1057142421" anchor-label="ZDefaultContextCreator" id="-459111593%2FClasslikes%2F1057142421" data-filterable-set=":engine/metalMain,:engine/oglMain,:engine/webgpuMain"></a>
           <div class="table-row table-row_content" data-filterable-current=":engine/metalMain,:engine/oglMain,:engine/webgpuMain" data-filterable-set=":engine/metalMain,:engine/oglMain,:engine/webgpuMain">
             <div class="main-subrow keyValue ">
@@ -333,6 +345,36 @@ b:"$Sreact.suspense"
               </div>
             </div>
           </div>
+<a data-name="54015947%2FClasslikes%2F1015982541" anchor-label="ZDepthCompare" id="54015947%2FClasslikes%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-depth-compare/"><span>ZDepth</span><wbr><span><span>Compare</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="54015947%2FClasslikes%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">enum </span><a href="/api/-zernikalos/zernikalos.context/-z-depth-compare/">ZDepthCompare</a> : <a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-enum/index.html">Enum</a><span class="token operator">&lt;</span><a href="/api/-zernikalos/zernikalos.context/-z-depth-compare/">ZDepthCompare</a><span class="token operator">&gt; </span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1258921393%2FClasslikes%2F1015982541" anchor-label="ZFrontFace" id="-1258921393%2FClasslikes%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-front-face/"><span>ZFront</span><wbr><span><span>Face</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1258921393%2FClasslikes%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">enum </span><a href="/api/-zernikalos/zernikalos.context/-z-front-face/">ZFrontFace</a> : <a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-enum/index.html">Enum</a><span class="token operator">&lt;</span><a href="/api/-zernikalos/zernikalos.context/-z-front-face/">ZFrontFace</a><span class="token operator">&gt; </span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
 <a data-name="-66546235%2FClasslikes%2F-1979648478" anchor-label="ZGLRenderingContext" id="-66546235%2FClasslikes%2F-1979648478" data-filterable-set=":engine/oglMain,:engine/androidMain"></a>
           <div class="table-row table-row_content" data-filterable-current=":engine/oglMain,:engine/androidMain" data-filterable-set=":engine/oglMain,:engine/androidMain">
             <div class="main-subrow keyValue ">
@@ -346,6 +388,81 @@ b:"$Sreact.suspense"
                   <div class="platform-hinted  with-platform-tabs" data-platform-hinted="data-platform-hinted">
                     <div class="platform-bookmarks-row" data-toggle-list="data-toggle-list"><button class="platform-bookmark" data-filterable-current=":engine/androidMain" data-filterable-set=":engine/androidMain" data-active="" data-toggle=":engine/androidMain">Android</button><button class="platform-bookmark" data-filterable-current=":engine/oglMain" data-filterable-set=":engine/oglMain" data-toggle=":engine/oglMain">OGL</button></div>
 <div class="content sourceset-dependent-content" data-togglable=":engine/androidMain"><div class="symbol monospace"><span class="token keyword">actual </span><span class="token keyword">class </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/">ZGLRenderingContext</a><span class="token punctuation">(</span><span class="parameters "><span class="parameter "><span class="token keyword">val </span>surfaceView<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.ui/-z-surface-view/">ZSurfaceView</a></span></span><span class="token punctuation">)</span> : <a href="/api/-zernikalos/zernikalos.context/-z-rendering-context/">ZRenderingContext</a></div></div><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/oglMain"><div class="symbol monospace"><span class="token keyword">expect </span><span class="token keyword">class </span><a href="/api/-zernikalos/zernikalos.context/-z-g-l-rendering-context/">ZGLRenderingContext</a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">surfaceView<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.ui/-z-surface-view/">ZSurfaceView</a></span></span><span class="token punctuation">)</span> : <a href="/api/-zernikalos/zernikalos.context/-z-rendering-context/">ZRenderingContext</a></div></div>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1627385534%2FClasslikes%2F1015982541" anchor-label="ZGpuColorAttachmentDesc" id="-1627385534%2FClasslikes%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-gpu-color-attachment-desc/"><span>ZGpu</span><wbr><span>Color</span><wbr><span>Attachment</span><wbr><span><span>Desc</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1627385534%2FClasslikes%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">data </span><span class="token keyword">class </span><a href="/api/-zernikalos/zernikalos.context/-z-gpu-color-attachment-desc/">ZGpuColorAttachmentDesc</a><span class="token punctuation">(</span><span class="parameters "><span class="parameter "><span class="token keyword">val </span>loadOp<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-z-load-op/">ZLoadOp</a><span class="token operator"> = </span>ZLoadOp.Clear<span class="token punctuation">, </span></span><span class="parameter "><span class="token keyword">val </span>storeOp<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-z-store-op/">ZStoreOp</a><span class="token operator"> = </span>ZStoreOp.Store<span class="token punctuation">, </span></span><span class="parameter "><span class="token keyword">val </span>clearValue<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.math/-z-color/">ZColor</a></span></span><span class="token punctuation">)</span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="727419356%2FClasslikes%2F1015982541" anchor-label="ZGpuDepthStencilAttachmentDesc" id="727419356%2FClasslikes%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-gpu-depth-stencil-attachment-desc/"><span>ZGpu</span><wbr><span>Depth</span><wbr><span>Stencil</span><wbr><span>Attachment</span><wbr><span><span>Desc</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="727419356%2FClasslikes%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">data </span><span class="token keyword">class </span><a href="/api/-zernikalos/zernikalos.context/-z-gpu-depth-stencil-attachment-desc/">ZGpuDepthStencilAttachmentDesc</a><span class="token punctuation">(</span><span class="parameters "><span class="parameter "><span class="token keyword">val </span>depthLoadOp<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-z-load-op/">ZLoadOp</a><span class="token operator"> = </span>ZLoadOp.Clear<span class="token punctuation">, </span></span><span class="parameter "><span class="token keyword">val </span>depthStoreOp<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-z-store-op/">ZStoreOp</a><span class="token operator"> = </span>ZStoreOp.Store<span class="token punctuation">, </span></span><span class="parameter "><span class="token keyword">val </span>depthClearValue<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-float/index.html">Float</a><span class="token operator"> = </span><span class="token constant">1.0f</span></span></span><span class="token punctuation">)</span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-718202221%2FClasslikes%2F1015982541" anchor-label="ZGpuRenderPassDescriptor" id="-718202221%2FClasslikes%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-gpu-render-pass-descriptor/"><span>ZGpu</span><wbr><span>Render</span><wbr><span>Pass</span><wbr><span><span>Descriptor</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-718202221%2FClasslikes%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">data </span><span class="token keyword">class </span><a href="/api/-zernikalos/zernikalos.context/-z-gpu-render-pass-descriptor/">ZGpuRenderPassDescriptor</a><span class="token punctuation">(</span><span class="parameters "><span class="parameter "><span class="token keyword">val </span>label<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a><span class="token operator">?</span><span class="token operator"> = </span>null<span class="token punctuation">, </span></span><span class="parameter "><span class="token keyword">val </span>colorAttachments<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin.collections/-list/index.html">List</a><span class="token operator">&lt;</span><a href="/api/-zernikalos/zernikalos.context/-z-gpu-color-attachment-desc/">ZGpuColorAttachmentDesc</a><span class="token operator">&gt;</span><span class="token punctuation">, </span></span><span class="parameter "><span class="token keyword">val </span>depthStencilAttachment<span class="token operator">: </span><a href="/api/-zernikalos/zernikalos.context/-z-gpu-depth-stencil-attachment-desc/">ZGpuDepthStencilAttachmentDesc</a><span class="token operator">?</span><span class="token operator"> = </span>null</span></span><span class="token punctuation">)</span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1114844678%2FClasslikes%2F1015982541" anchor-label="ZGraphicsApi" id="1114844678%2FClasslikes%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-graphics-api/"><span>ZGraphics</span><wbr><span><span>Api</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1114844678%2FClasslikes%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">enum </span><a href="/api/-zernikalos/zernikalos.context/-z-graphics-api/">ZGraphicsApi</a> : <a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-enum/index.html">Enum</a><span class="token operator">&lt;</span><a href="/api/-zernikalos/zernikalos.context/-z-graphics-api/">ZGraphicsApi</a><span class="token operator">&gt; </span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-371316826%2FClasslikes%2F1015982541" anchor-label="ZLoadOp" id="-371316826%2FClasslikes%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-load-op/"><span>ZLoad</span><wbr><span><span>Op</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-371316826%2FClasslikes%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">enum </span><a href="/api/-zernikalos/zernikalos.context/-z-load-op/">ZLoadOp</a> : <a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-enum/index.html">Enum</a><span class="token operator">&lt;</span><a href="/api/-zernikalos/zernikalos.context/-z-load-op/">ZLoadOp</a><span class="token operator">&gt; </span></div></div></div>
                 </div>
               </div>
             </div>
@@ -408,6 +525,21 @@ b:"$Sreact.suspense"
               <div>
                 <div class="title">
                   <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">class </span><a href="/api/-zernikalos/zernikalos.context/-z-scene-context-default/">ZSceneContextDefault</a> : <a href="/api/-zernikalos/zernikalos.context/-z-scene-context/">ZSceneContext</a></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="62264403%2FClasslikes%2F1015982541" anchor-label="ZStoreOp" id="62264403%2FClasslikes%2F1015982541" data-filterable-set=":engine/commonMain"></a>
+          <div class="table-row table-row_content" data-filterable-current=":engine/commonMain" data-filterable-set=":engine/commonMain">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="/api/-zernikalos/zernikalos.context/-z-store-op/"><span>ZStore</span><wbr><span><span>Op</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="62264403%2FClasslikes%2F1015982541"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":engine/commonMain"><div class="symbol monospace"><span class="token keyword">enum </span><a href="/api/-zernikalos/zernikalos.context/-z-store-op/">ZStoreOp</a> : <a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-enum/index.html">Enum</a><span class="token operator">&lt;</span><a href="/api/-zernikalos/zernikalos.context/-z-store-op/">ZStoreOp</a><span class="token operator">&gt; </span></div></div></div>
                 </div>
               </div>
             </div>
@@ -519,9 +651,29 @@ b:"$Sreact.suspense"
     </div>
   </div>
 </div>
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"full":true,"children":["$","$L3",null,{"className":"dokka-container","children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5"]}]}],["$L6","$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"UH87WZr7ecgOYER1sgzrd"}
-5:["$","$L9",null,{}]
-6:["$","script","script-0",{"src":"/_next/static/chunks/0b~1-iikzpv-u.js","async":true}]
-7:["$","script","script-1",{"src":"/_next/static/chunks/0xn9bloz_qt67.js","async":true}]
-8:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
-c:null
+a:X
+f:X
+f:C
+0:{"buildId":"TQQiPZ3rOSFngwYMprVPO","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"full":true,"children":["$","$L3",null,{"className":"dokka-container","children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5"]}]}],["$L6","$L7"],"$L8"]}],"isPartial":"$@9","staleTime":"$a","varyParams":null},{"rsc":"$Lb","isPartial":"$@c","staleTime":"$a","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$a","varyParams":"$f"}],"isUpgradeableISRFallback":false,"a":"$@10","rootVaryParams":null,"needsRuntimeRequest":"$@11"}
+12:I[299854,["/_next/static/chunks/0di96s32utfbd.js","/_next/static/chunks/1xazftpjh_4-t.js","/_next/static/chunks/3vl-4s1si0lhz.js","/_next/static/chunks/0ftl8rrpncco8.js","/_next/static/chunks/3n2qgwy72vru9.js","/_next/static/chunks/2rd-9y-xqhvf9.js","/_next/static/chunks/3qfu-xq-sfbwa.js","/_next/static/chunks/3r-4jc26w-a2q.js","/_next/static/chunks/03tptp3ixsiay.js"],"default"]
+13:I[433766,["/_next/static/chunks/0di96s32utfbd.js","/_next/static/chunks/1xazftpjh_4-t.js"],"OutletBoundary"]
+14:"$Sreact.suspense"
+16:I[433766,["/_next/static/chunks/0di96s32utfbd.js","/_next/static/chunks/1xazftpjh_4-t.js"],"ViewportBoundary"]
+17:I[433766,["/_next/static/chunks/0di96s32utfbd.js","/_next/static/chunks/1xazftpjh_4-t.js"],"MetadataBoundary"]
+18:I[744234,["/_next/static/chunks/0di96s32utfbd.js","/_next/static/chunks/1xazftpjh_4-t.js"],"IconMark"]
+19:I[950443,["/_next/static/chunks/0di96s32utfbd.js","/_next/static/chunks/1xazftpjh_4-t.js"],"default"]
+1a:I[19476,["/_next/static/chunks/0di96s32utfbd.js","/_next/static/chunks/1xazftpjh_4-t.js"],"default"]
+5:["$","$L12",null,{}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/3r-4jc26w-a2q.js","async":true}]
+7:["$","script","script-1",{"src":"/_next/static/chunks/03tptp3ixsiay.js","async":true}]
+8:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+b:["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"zernikalos.context - Zernikalos API | Zernikalos"}],["$","meta","1",{"name":"description","content":"API Reference for Zernikalos - -zernikalos.zernikalos.context"}],["$","meta","2",{"name":"application-name","content":"Zernikalos"}],["$","meta","3",{"name":"author","content":"Zernikalos"}],["$","meta","4",{"name":"keywords","content":"Kotlin 3D engine,Kotlin game engine,Kotlin Multiplatform 3D,KMP graphics engine,WebGPU Kotlin,Android iOS Web 3D engine,multiplatform game development"}],["$","meta","5",{"name":"robots","content":"noindex, follow"}],["$","meta","6",{"name":"googlebot","content":"noindex, follow"}],["$","meta","7",{"name":"category","content":"technology"}],["$","link","8",{"rel":"canonical","href":"https://zernikalos.dev/api/-zernikalos/zernikalos.context/"}],["$","meta","9",{"property":"og:title","content":"Zernikalos - The Kotlin 3D Engine"}],["$","meta","10",{"property":"og:description","content":"A Kotlin Multiplatform 3D engine for graphics apps on Android, iOS, JVM, and Web."}],["$","meta","11",{"property":"og:url","content":"https://zernikalos.dev/"}],["$","meta","12",{"property":"og:site_name","content":"Zernikalos Engine"}],["$","meta","13",{"property":"og:image","content":"https://zernikalos.dev/zklogo.svg"}],["$","meta","14",{"property":"og:image:alt","content":"Zernikalos logo"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:title","content":"Zernikalos - The Kotlin 3D Engine"}],["$","meta","18",{"name":"twitter:description","content":"Build multiplatform 3D apps in Kotlin for Android, iOS, JVM, and Web."}],["$","meta","19",{"name":"twitter:image","content":"https://zernikalos.dev/zklogo.svg"}],["$","link","20",{"rel":"icon","href":"/zklogo.svg"}],["$","$L18","21",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+d:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]
+11:true
+15:null
+a:300
+a:C
+10:0
+c:"$undefined"
+e:"$undefined"
+9:"$undefined"
